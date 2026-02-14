@@ -1,0 +1,33 @@
+RUNDATE: Fri Feb 13 10:02:02 EST 2026
+Year: 2026
+
+New accidents: 48
+Updated accidents: 0
+
+NEW:
+  - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 | Killed: Pedestrian (1)
+  - ACCID 14409 | 02/11/2026 8:54 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
+  - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Driver (1)
+  - ACCID 14406 | 02/07/2026 2:02 AM | Newark City, Essex | 21 | State Highway 21 | Killed: Driver (1)
+  - ACCID 14404 | 02/06/2026 2:07 PM | Jackson Twsp, Ocean | 571 | County 571 | Killed: Driver (1)
+  - ACCID 14405 | 02/04/2026 2:38 PM | Haledon Boro, Passaic | None | Hobart Ave | Killed: Passenger (1)
+  - ACCID 14402 | 02/04/2026 6:36 AM | Berkeley Heights Tw, Union | 78 | Interstate 78 | Killed: Driver (1)
+  - ACCID 14401 | 02/03/2026 11:22 PM | Gloucester City, Camden | 76 | Interstate 76 MP 1.2 | Killed: Driver (1), Passenger (1)
+  - ACCID 14407 | 02/03/2026 2:51 PM | Mount Olive Twsp, Morris | 206 | State Highway 206 | Killed: Driver (1)
+  - ACCID 14399 | 01/31/2026 5:33 PM | Newark City, Essex | None | Clinton Ave | Killed: Pedestrian (1)
+  - ACCID 14398 | 01/30/2026 6:18 PM | Pittsgrove Twsp, Salem | 56 | State Highway 56 MP 7.2 | Killed: Driver (1)
+  - ACCID 14396 | 01/29/2026 8:59 PM | Mount Laurel Twsp, Burlington | 95 | New Jersey Turnpike MP 39.6 | Killed: Driver (1)
+  - ACCID 14394 | 01/29/2026 5:20 AM | Linden City, Union | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
+  - ACCID 14392 | 01/23/2026 8:51 PM | Toms River, Ocean | 37 | State Highway 37 | Killed: Driver (1)
+  - ACCID 14391 | 01/22/2026 7:56 PM | Linden City, Union | 1 | State Highway 1 | Killed: Pedestrian (1)
+  - ACCID 14413 | 01/21/2026 1:14 PM | Dover Town, Morris | None | S. Warren St | Killed: Pedestrian (1)
+  - ACCID 14388 | 01/21/2026 10:25 AM | Woodbridge Twsp, Middlesex | None | Smith St | Killed: Pedestrian (1)
+  - ACCID 14410 | 01/21/2026 6:48 AM | Franklin Twsp, Somerset | 619 | County 619 | Killed: Driver (1)
+  - ACCID 14387 | 01/20/2026 11:04 PM | Mannington Twsp, Salem | None | Mannington Yorktown Rd | Killed: Driver (1)
+  - ACCID 14385 | 01/20/2026 4:08 PM | Hamilton Twsp, Atlantic | 559 | County 559 | Killed: Driver (1)
+  - ACCID 14395 | 01/20/2026 8:15 AM | Hammonton Town, Atlantic | 30 | State Highway 30 (Freeway) | Killed: Driver (1)
+  - ACCID 14381 | 01/17/2026 6:17 PM | Harrison Twsp, Gloucester | None | Banff Dr | Killed: Driver (1), Passenger (1)
+  - ACCID 14386 | 01/17/2026 6:05 PM | Voorhees Twsp, Camden | 544 | County 544 | Killed: Pedestrian (1)
+  - ACCID 14384 | 01/17/2026 10:58 AM | Neptune Twsp, Monmouth | 33 | State Highway 33 | Killed: Driver (1)
+  - ACCID 14383 | 01/16/2026 6:36 PM | Caldwell Boro, Essex | 506 | County 506 | Killed: Pedestrian (1)
+  ...and 23 more
