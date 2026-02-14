@@ -25,6 +25,17 @@ jobs:
           python -m pip install --upgrade pip
           pip install requests lxml
 
+      - name: Debug checkout
+        run: |
+          echo "HEAD SHA:"
+          git rev-parse HEAD
+          echo "Branch:"
+          git branch --show-current || true
+          echo "First 10 lines of njsp/__init__.py:"
+          sed -n '1,10p' njsp/__init__.py
+          echo "Search for lazy_loader:"
+          grep -RIn "lazy_loader" -n njsp || true
+    
       - name: Run pipeline
         run: |
           python -m njsp.run_pipeline
