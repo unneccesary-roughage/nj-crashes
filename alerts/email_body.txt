@@ -1,10 +1,13 @@
-RUNDATE: Fri Feb 13 10:02:02 EST 2026
+RUNDATE: Mon Feb 16 10:02:10 EST 2026
 Year: 2026
 
-New accidents: 48
-Updated accidents: 0
+New accidents: 1
+Updated accidents: 48
 
 NEW:
+  - ACCID 14415 | 02/15/2026 2:02 AM | Jackson Twsp, Ocean | 641 | County 641 | Killed: Driver (1), Passenger (1)
+
+UPDATED:
   - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 | Killed: Pedestrian (1)
   - ACCID 14409 | 02/11/2026 8:54 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
   - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Driver (1)
