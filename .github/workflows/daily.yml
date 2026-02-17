@@ -2,7 +2,9 @@ name: Daily NJSP Fatal Crash Update
 
 on:
   schedule:
-    - cron: "15 11 * * *"  # 11:15 UTC daily (adjust)
+    - cron: "30 15 * * *" #github actions only run in UTC, two time to account for DST
+    - cron: "30 16 * * *"
+
   workflow_dispatch:
 
 jobs:
@@ -38,18 +40,19 @@ jobs:
             echo "send_email=false" >> $GITHUB_OUTPUT
           fi
 
-      - name: Send email alert
-        if: steps.check.outputs.send_email == 'true'
-        uses: dawidd6/action-send-mail@v3
-        with:
-          server_address: ${{ secrets.SMTP_SERVER }}
-          server_port: ${{ secrets.SMTP_PORT }}
-          username: ${{ secrets.SMTP_USERNAME }}
-          password: ${{ secrets.SMTP_PASSWORD }}
-          subject: file://alerts/email_subject.txt
-          body: file://alerts/email_body.txt
-          to: ${{ secrets.EMAIL_TO }}
-          from: ${{ secrets.EMAIL_FROM }}
+          
+#      - name: Send email alert
+#        if: steps.check.outputs.send_email == 'true'
+#        uses: dawidd6/action-send-mail@v3
+#        with:
+#          server_address: ${{ secrets.SMTP_SERVER }}
+#          server_port: ${{ secrets.SMTP_PORT }}
+#          username: ${{ secrets.SMTP_USERNAME }}
+#          password: ${{ secrets.SMTP_PASSWORD }}
+#          subject: file://alerts/email_subject.txt
+#          body: file://alerts/email_body.txt
+#          to: ${{ secrets.EMAIL_TO }}
+#          from: ${{ secrets.EMAIL_FROM }}
 
       - name: Commit outputs
         run: |
