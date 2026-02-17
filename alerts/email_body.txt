@@ -1,13 +1,16 @@
-RUNDATE: Mon Feb 16 10:02:10 EST 2026
+RUNDATE: Tue Feb 17 10:02:09 EST 2026
 Year: 2026
 
-New accidents: 1
-Updated accidents: 48
+New accidents: 3
+Updated accidents: 49
 
 NEW:
-  - ACCID 14415 | 02/15/2026 2:02 AM | Jackson Twsp, Ocean | 641 | County 641 | Killed: Driver (1), Passenger (1)
+  - ACCID 14419 | 02/16/2026 9:14 AM | Vineland City, Cumberland | 47 | State Highway 47 | Killed: Driver (1)
+  - ACCID 14418 | 02/09/2026 2:41 PM | Atlantic City, Atlantic | None | Winchester Ave | Killed: Pedestrian (1)
+  - ACCID 14417 | 02/05/2026 10:23 PM | Atlantic City, Atlantic | 40 | State Highway 40 MP 63.86 | Killed: Pedalcyclist (1)
 
 UPDATED:
+  - ACCID 14415 | 02/15/2026 2:02 AM | Jackson Twsp, Ocean | 641 | County 641 | Killed: Driver (1), Passenger (1)
   - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 | Killed: Pedestrian (1)
   - ACCID 14409 | 02/11/2026 8:54 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
   - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Driver (1)
@@ -32,5 +35,4 @@ UPDATED:
   - ACCID 14381 | 01/17/2026 6:17 PM | Harrison Twsp, Gloucester | None | Banff Dr | Killed: Driver (1), Passenger (1)
   - ACCID 14386 | 01/17/2026 6:05 PM | Voorhees Twsp, Camden | 544 | County 544 | Killed: Pedestrian (1)
   - ACCID 14384 | 01/17/2026 10:58 AM | Neptune Twsp, Monmouth | 33 | State Highway 33 | Killed: Driver (1)
-  - ACCID 14383 | 01/16/2026 6:36 PM | Caldwell Boro, Essex | 506 | County 506 | Killed: Pedestrian (1)
-  ...and 23 more
+  ...and 24 more
