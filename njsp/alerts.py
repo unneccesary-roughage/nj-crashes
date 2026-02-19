@@ -3,7 +3,8 @@ from __future__ import annotations
 import sqlite3
 from pathlib import Path
 from typing import Dict, Any, List, Tuple, Optional
-
+from datetime import datetime
+from zoneinfo import ZoneInfo
 
 def _chunks(lst, n=900):
     for i in range(0, len(lst), n):
@@ -69,7 +70,9 @@ def format_email(rundate: str, year: int, new_recs: List[Dict[str, Any]], upd_re
     """
     Returns (subject, body)
     """
-    subject = f"NJSP fatal crashes update ({year}) — {len(new_recs)} new, {len(upd_recs)} updated"
+    today = datetime.now(ZoneInfo("America/New_York")).strftime("%Y-%m-%d")
+
+    subject = f"NJSP fatal crashes update for {today} — {len(new_recs)} new, {len(upd_recs)} updated"
 
     lines = []
     lines.append(f"RUNDATE: {rundate}")
