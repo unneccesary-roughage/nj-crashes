@@ -3,6 +3,7 @@ from __future__ import annotations
 from pathlib import Path
 import hashlib
 import sys
+import re
 
 from njsp.njsp_fetch import fetch_current_year
 from njsp.njsp_parse import parse_fauqstats_crashes
@@ -10,12 +11,12 @@ from njsp.sqlite_store import open_db, create_schema, upsert_crashes
 from njsp.export_csv import export_all
 from njsp.alerts import diff_against_sqlite, format_email, write_alert_files
 
-def sha256(path: Path) -> str:
-    h = hashlib.sha256()
-    with path.open("rb") as f:
-        for chunk in iter(lambda: f.read(1024 * 1024), b""):
-            h.update(chunk)
-    return h.hexdigest()
+_RUNDATE_RE = re.compile(rb"<RUNDATE>.*?</RUNDATE>", re.DOTALL)
+
+def sha256_xml_ignoring_rundate(path: Path) -> str:
+    data = path.read_bytes()
+    data = _RUNDATE_RE.sub(b"<RUNDATE></RUNDATE>", data)
+    return hashlib.sha256(data).hexdigest()
 
 
 def main():
@@ -23,7 +24,7 @@ def main():
     print(f"Fetched XML: {xml_path} (RUNDATE={rundate})")
 
     hash_path = xml_path.with_suffix(".sha256")
-    new_hash = sha256(xml_path)
+    new_hash = sha256_xml_ignoring_rundate(xml_path)
 
     if hash_path.exists():
         old_hash = hash_path.read_text().strip()

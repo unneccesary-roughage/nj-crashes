@@ -59,7 +59,6 @@ def create_schema(conn: sqlite3.Connection) -> None:
           fatal_t       INTEGER,
           fatal_b       INTEGER,
 
-          rundate_raw   TEXT,
           record_hash   TEXT,
           fetched_at    TEXT NOT NULL DEFAULT (datetime('now')),
 
@@ -88,41 +87,46 @@ def upsert_crashes(conn: sqlite3.Connection, records: Iterable[Dict[str, Any]]) 
     Upsert per-crash records into SQLite.
     Returns number of records processed.
     """
+    
     sql = """
     INSERT INTO njsp_fatal_crashes (
-      statsyear, accid,
-      crash_date, crash_time,
-      ccode, cname, mcode, mname,
-      highway, location,
-      fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
-      rundate_raw, record_hash, fetched_at
+    statsyear, accid,
+    crash_date, crash_time,
+    ccode, cname, mcode, mname,
+    highway, location,
+    fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
+    record_hash,
+    fetched_at
     ) VALUES (
-      ?, ?,
-      ?, ?,
-      ?, ?, ?, ?,
-      ?, ?,
-      ?, ?, ?, ?, ?,
-      ?, ?, datetime('now')
+    ?, ?,
+    ?, ?,
+    ?, ?, ?, ?,
+    ?, ?,
+    ?, ?, ?, ?, ?,
+    ?,
+    datetime('now')
     )
     ON CONFLICT(statsyear, accid) DO UPDATE SET
-      crash_date   = excluded.crash_date,
-      crash_time   = excluded.crash_time,
-      ccode        = excluded.ccode,
-      cname        = excluded.cname,
-      mcode        = excluded.mcode,
-      mname        = excluded.mname,
-      highway      = excluded.highway,
-      location     = excluded.location,
-      fatalities   = excluded.fatalities,
-      fatal_d      = excluded.fatal_d,
-      fatal_p      = excluded.fatal_p,
-      fatal_t      = excluded.fatal_t,
-      fatal_b      = excluded.fatal_b,
-      rundate_raw  = excluded.rundate_raw,
-      record_hash  = excluded.record_hash,
-      fetched_at   = datetime('now')
-    ;
+    crash_date   = excluded.crash_date,
+    crash_time   = excluded.crash_time,
+    ccode        = excluded.ccode,
+    cname        = excluded.cname,
+    mcode        = excluded.mcode,
+    mname        = excluded.mname,
+    highway      = excluded.highway,
+    location     = excluded.location,
+    fatalities   = excluded.fatalities,
+    fatal_d      = excluded.fatal_d,
+    fatal_p      = excluded.fatal_p,
+    fatal_t      = excluded.fatal_t,
+    fatal_b      = excluded.fatal_b,
+    record_hash  = excluded.record_hash,
+    fetched_at   = datetime('now')
+    WHERE
+    njsp_fatal_crashes.record_hash IS NULL
+    OR njsp_fatal_crashes.record_hash <> excluded.record_hash;
     """
+
 
     cur = conn.cursor()
     n = 0
@@ -151,7 +155,6 @@ def upsert_crashes(conn: sqlite3.Connection, records: Iterable[Dict[str, Any]]) 
                 to_int(r.get("FATAL_P")),
                 to_int(r.get("FATAL_T")),
                 to_int(r.get("FATAL_B")),
-                r.get("RUNDATE"),
                 r.get("record_hash"),
             ),
         )

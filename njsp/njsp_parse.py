@@ -75,7 +75,12 @@ def parse_fauqstats_crashes(xml_path: str | Path, add_hash: bool = True) -> Pars
 
         # Stable record hash (useful for deduping if ACCID isn’t globally unique)
         if add_hash:
-            items = sorted((k, "" if v is None else v) for k, v in rec.items())
+            hash_exclude = {"RUNDATE", "record_hash"}
+            items = sorted(
+                (k, "" if v is None else v)
+                for k, v in rec.items()
+                if k not in hash_exclude
+            )
             rec["record_hash"] = hashlib.sha256(repr(items).encode("utf-8")).hexdigest()
 
         records.append(rec)

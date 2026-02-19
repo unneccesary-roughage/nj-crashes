@@ -59,7 +59,7 @@ def diff_against_sqlite(conn: sqlite3.Connection, records: List[Dict[str, Any]])
             new_recs.append(r)
         else:
             old_hash = existing.get(key)
-            if old_hash and new_hash and old_hash != new_hash:
+            if new_hash and old_hash != new_hash:
                 upd_recs.append(r)
 
     return new_recs, upd_recs
