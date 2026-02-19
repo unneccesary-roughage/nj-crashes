@@ -44,7 +44,7 @@ def export_all(conn: sqlite3.Connection, exports_dir: str | Path = "exports") ->
           ccode, cname, mcode, mname,
           highway, location,
           fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
-          rundate_raw, fetched_at
+          fetched_at
         FROM njsp_fatal_crashes
         ORDER BY crash_date DESC, crash_time DESC, accid DESC;
         """,
