@@ -41,18 +41,19 @@ jobs:
           fi
 
           
-#      - name: Send email alert
-#        if: steps.check.outputs.send_email == 'true'
+      - name: Send email alert
+        if: steps.check.outputs.send_email == 'true'
+        uses: cougargrades/action-send-mail@v4
 #        uses: dawidd6/action-send-mail@v3
-#        with:
-#          server_address: ${{ secrets.SMTP_SERVER }}
-#          server_port: ${{ secrets.SMTP_PORT }}
-#          username: ${{ secrets.SMTP_USERNAME }}
-#          password: ${{ secrets.SMTP_PASSWORD }}
-#          subject: file://alerts/email_subject.txt
-#          body: file://alerts/email_body.txt
-#          to: ${{ secrets.EMAIL_TO }}
-#          from: ${{ secrets.EMAIL_FROM }}
+        with:
+          server_address: ${{ secrets.SMTP_SERVER }}
+          server_port: ${{ secrets.SMTP_PORT }}
+          username: ${{ secrets.SMTP_USERNAME }}
+          password: ${{ secrets.SMTP_PASSWORD }}
+          subject: file://alerts/email_subject.txt
+          body: file://alerts/email_body.txt
+          to: ${{ secrets.EMAIL_TO }}
+          from: ${{ secrets.EMAIL_FROM }}
 
       - name: Commit outputs
         run: |
