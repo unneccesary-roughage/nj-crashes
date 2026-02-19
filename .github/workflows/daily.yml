@@ -43,8 +43,8 @@ jobs:
           
       - name: Send email alert
 #        if: steps.check.outputs.send_email == 'true'
-        uses: cougargrades/action-send-mail@v4
-#        uses: dawidd6/action-send-mail@v3
+#        uses: cougargrades/action-send-mail@v4
+        uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
           server_port: ${{ secrets.SMTP_PORT }}
