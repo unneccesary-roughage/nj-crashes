@@ -73,10 +73,9 @@ def format_email(rundate: str, year: int, new_recs: List[Dict[str, Any]], upd_re
 
     lines = []
     lines.append(f"RUNDATE: {rundate}")
-    lines.append(f"Year: {year}")
     lines.append("")
-    lines.append(f"New accidents: {len(new_recs)}")
-    lines.append(f"Updated accidents: {len(upd_recs)}")
+    lines.append(f"New crashes: {len(new_recs)}")
+    lines.append(f"Updated crashes: {len(upd_recs)}")
     lines.append("")
 
     def format_time_ampm(s: str | None) -> str:
