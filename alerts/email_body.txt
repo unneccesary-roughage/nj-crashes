@@ -1,17 +1,14 @@
-RUNDATE: Wed Feb 18 10:02:13 EST 2026
-Year: 2026
+RUNDATE: Thu Feb 19 10:02:11 EST 2026
 
-New accidents: 1
-Updated accidents: 52
+New crashes: 53
+Updated crashes: 0
 
 NEW:
-  - ACCID 14420 | 02/11/2026 8:07 AM | Kearny Town, Hudson | None | Kearny Ave | Killed: Pedestrian (1)
-
-UPDATED:
   - ACCID 14419 | 02/16/2026 9:14 AM | Vineland City, Cumberland | 47 | State Highway 47 | Killed: Driver (1)
   - ACCID 14415 | 02/15/2026 2:02 AM | Jackson Twsp, Ocean | 641 | County 641 | Killed: Driver (1), Passenger (1)
   - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 | Killed: Pedestrian (1)
   - ACCID 14409 | 02/11/2026 8:54 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
+  - ACCID 14420 | 02/11/2026 8:07 AM | Kearny Town, Hudson | None | Kearny Ave | Killed: Pedestrian (1)
   - ACCID 14418 | 02/09/2026 2:41 PM | Atlantic City, Atlantic | None | Winchester Ave | Killed: Pedestrian (1)
   - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Driver (1)
   - ACCID 14406 | 02/07/2026 2:02 AM | Newark City, Essex | 21 | State Highway 21 | Killed: Driver (1)
@@ -32,5 +29,4 @@ UPDATED:
   - ACCID 14410 | 01/21/2026 6:48 AM | Franklin Twsp, Somerset | 619 | County 619 | Killed: Driver (1)
   - ACCID 14387 | 01/20/2026 11:04 PM | Mannington Twsp, Salem | None | Mannington Yorktown Rd | Killed: Driver (1)
   - ACCID 14385 | 01/20/2026 4:08 PM | Hamilton Twsp, Atlantic | 559 | County 559 | Killed: Driver (1)
-  - ACCID 14395 | 01/20/2026 8:15 AM | Hammonton Town, Atlantic | 30 | State Highway 30 (Freeway) | Killed: Driver (1)
-  ...and 27 more
+  ...and 28 more
