@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14422,2026-02-18,22:36:00,12,Middlesex,1225,Woodbridge Twsp,27,State Highway 27 (Business),1,1,0,0,0,2026-02-20 15:57:20
 2026,14419,2026-02-16,09:14:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,1,0,0,0,2026-02-19 15:23:13
 2026,14415,2026-02-15,02:02:00,15,Ocean,1511,Jackson Twsp,641,County 641,2,1,1,0,0,2026-02-19 15:23:13
 2026,14411,2026-02-11,20:32:00,07,Essex,0714,Newark City,601,County 601,1,0,0,1,0,2026-02-19 15:23:13

@@ -1,1 +1,1 @@
-NJSP fatal crashes update (2026) — 53 new, 0 updated
+NJSP fatal crashes update for 2026-02-20 — 1 new, 0 updated
