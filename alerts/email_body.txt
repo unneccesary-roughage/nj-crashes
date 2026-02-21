@@ -1,7 +1,10 @@
-RUNDATE: Fri Feb 20 10:02:15 EST 2026
+RUNDATE: Sat Feb 21 10:02:12 EST 2026
 
 New crashes: 1
-Updated crashes: 0
+Updated crashes: 1
 
 NEW:
-  - ACCID 14422 | 02/18/2026 10:36 PM | Woodbridge Twsp, Middlesex | 27 | State Highway 27 (Business) | Killed: Driver (1)
+  - ACCID 14424 | 02/19/2026 11:58 PM | Woodbridge Twsp, Middlesex | 1 | State Highway 1 | Killed: Passenger (1)
+
+UPDATED:
+  - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 MP 46 | Killed: Driver (1)
