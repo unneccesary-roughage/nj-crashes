@@ -1,10 +1,9 @@
-RUNDATE: Sat Feb 21 10:02:12 EST 2026
+RUNDATE: Mon Feb 23 10:02:16 EST 2026
 
-New crashes: 1
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 0
 
 NEW:
-  - ACCID 14424 | 02/19/2026 11:58 PM | Woodbridge Twsp, Middlesex | 1 | State Highway 1 | Killed: Passenger (1)
-
-UPDATED:
-  - ACCID 14408 | 02/07/2026 4:28 PM | Hope Twsp, Warren | 519 | County 519 MP 46 | Killed: Driver (1)
+  - ACCID 14427 | 02/22/2026 4:02 AM | Edison Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14426 | 02/21/2026 9:09 PM | Elizabeth City, Union | 95 | New Jersey Turnpike | Killed: Pedestrian (1)
+  - ACCID 14425 | 02/21/2026 2:17 AM | Westampton Twsp, Burlington | 95 | New Jersey Turnpike | Killed: Driver (1), Passenger (2)
