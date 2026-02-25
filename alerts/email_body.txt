@@ -1,7 +1,7 @@
-RUNDATE: Tue Feb 24 10:02:17 EST 2026
+RUNDATE: Wed Feb 25 10:02:18 EST 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14428 | 02/10/2026 8:19 PM | Sparta Twsp, Sussex | 15 | State Highway 15 | Killed: Pedestrian (1)
+  - ACCID 14429 | 02/23/2026 9:45 PM | Bridgewater Twsp, Somerset | 287 | Interstate 287 MP 14.4 | Killed: Pedestrian (1)

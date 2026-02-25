@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14429,2026-02-23,21:45:00,18,Somerset,1806,Bridgewater Twsp,287,Interstate 287 MP 14.4,1,0,0,1,0,2026-02-25 16:40:03
 2026,14427,2026-02-22,04:02:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-02-23 16:36:28
 2026,14426,2026-02-21,21:09:00,20,Union,2004,Elizabeth City,95,New Jersey Turnpike,1,0,0,1,0,2026-02-23 16:36:28
 2026,14425,2026-02-21,02:17:00,03,Burlington,0338,Westampton Twsp,95,New Jersey Turnpike,3,1,2,0,0,2026-02-23 16:36:28
