@@ -1,7 +1,8 @@
-RUNDATE: Wed Feb 25 10:02:18 EST 2026
+RUNDATE: Thu Feb 26 10:02:21 EST 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14429 | 02/23/2026 9:45 PM | Bridgewater Twsp, Somerset | 287 | Interstate 287 MP 14.4 | Killed: Pedestrian (1)
+  - ACCID 14432 | 02/25/2026 3:26 PM | Manchester Twsp, Ocean | None | JOHN D. ROCKAFELLA HIGHWAY | Killed: Driver (1)
+  - ACCID 14431 | 02/15/2026 10:46 PM | Rahway City, Union | 1 | State Highway 1 | Killed: Driver (1)
