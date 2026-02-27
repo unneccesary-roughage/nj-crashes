@@ -1,8 +1,7 @@
-RUNDATE: Thu Feb 26 10:02:21 EST 2026
+RUNDATE: Fri Feb 27 10:02:21 EST 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14432 | 02/25/2026 3:26 PM | Manchester Twsp, Ocean | None | JOHN D. ROCKAFELLA HIGHWAY | Killed: Driver (1)
-  - ACCID 14431 | 02/15/2026 10:46 PM | Rahway City, Union | 1 | State Highway 1 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14432 | 02/25/2026 3:26 PM | Manchester Twsp, Ocean | 70 | State Highway 70 | Killed: Driver (1)
