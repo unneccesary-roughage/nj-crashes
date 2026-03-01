@@ -1,5 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14433,2026-02-28,00:37:00,01,Atlantic,0112,Hamilton Twsp,40,40,1,1,0,0,0,2026-02-28 15:41:53
+2026,14433,2026-02-28,00:37:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40,1,1,0,0,0,2026-03-01 15:42:50
 2026,14432,2026-02-25,15:26:00,15,Ocean,1518,Manchester Twsp,70,State Highway 70,1,1,0,0,0,2026-02-27 15:56:43
 2026,14429,2026-02-23,21:45:00,18,Somerset,1806,Bridgewater Twsp,287,Interstate 287 MP 14.4,1,0,0,1,0,2026-02-25 16:40:03
 2026,14427,2026-02-22,04:02:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-02-23 16:36:28

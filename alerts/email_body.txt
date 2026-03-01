@@ -1,7 +1,7 @@
-RUNDATE: Sat Feb 28 10:02:22 EST 2026
+RUNDATE: Sun Mar 01 10:02:24 EST 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14433 | 02/28/2026 12:37 AM | Hamilton Twsp, Atlantic | 40 | 40 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14433 | 02/28/2026 12:37 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 | Killed: Driver (1)
