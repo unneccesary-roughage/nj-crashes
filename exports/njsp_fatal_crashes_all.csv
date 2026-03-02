@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14435,2026-03-01,21:52:00,08,Gloucester,0801,Clayton Boro,655,County 655,1,0,1,0,0,2026-03-02 15:59:06
+2026,14434,2026-03-01,06:25:00,12,Middlesex,1225,Woodbridge Twsp,611,County 611,1,0,0,1,0,2026-03-02 15:59:06
 2026,14433,2026-02-28,00:37:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40,1,1,0,0,0,2026-03-01 15:42:50
 2026,14432,2026-02-25,15:26:00,15,Ocean,1518,Manchester Twsp,70,State Highway 70,1,1,0,0,0,2026-02-27 15:56:43
 2026,14429,2026-02-23,21:45:00,18,Somerset,1806,Bridgewater Twsp,287,Interstate 287 MP 14.4,1,0,0,1,0,2026-02-25 16:40:03

@@ -1,7 +1,8 @@
-RUNDATE: Sun Mar 01 10:02:24 EST 2026
+RUNDATE: Mon Mar 02 10:02:25 EST 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14433 | 02/28/2026 12:37 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 | Killed: Driver (1)
+NEW:
+  - ACCID 14435 | 03/01/2026 9:52 PM | Clayton Boro, Gloucester | 655 | County 655 | Killed: Passenger (1)
+  - ACCID 14434 | 03/01/2026 6:25 AM | Woodbridge Twsp, Middlesex | 611 | County 611 | Killed: Pedestrian (1)
