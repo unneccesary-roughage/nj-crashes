@@ -1,8 +1,7 @@
-RUNDATE: Mon Mar 02 10:02:25 EST 2026
+RUNDATE: Tue Mar 03 11:03:25 EST 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14435 | 03/01/2026 9:52 PM | Clayton Boro, Gloucester | 655 | County 655 | Killed: Passenger (1)
-  - ACCID 14434 | 03/01/2026 6:25 AM | Woodbridge Twsp, Middlesex | 611 | County 611 | Killed: Pedestrian (1)
+  - ACCID 14436 | 03/02/2026 2:44 PM | Edison Twsp, Middlesex | 501 | County 501 | Killed: Driver (1)
