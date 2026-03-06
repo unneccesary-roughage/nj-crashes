@@ -1,7 +1,9 @@
-RUNDATE: Tue Mar 03 11:03:25 EST 2026
+RUNDATE: Fri Mar 06 10:02:32 EST 2026
 
-New crashes: 1
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14436 | 03/02/2026 2:44 PM | Edison Twsp, Middlesex | 501 | County 501 | Killed: Driver (1)
+  - ACCID 14439 | 03/05/2026 1:57 AM | Neptune Twsp, Monmouth | 35 | State Highway 35 | Killed: Pedestrian (1)
+  - ACCID 14440 | 03/04/2026 8:36 PM | Monroe Twsp, Gloucester | 322 | State Highway 322 MP 25.63 | Killed: Pedestrian (1)
+  - ACCID 14442 | 02/28/2026 12:53 AM | Ewing Twsp, Mercer | None | Wilburtha Rd | Killed: Driver (1)
