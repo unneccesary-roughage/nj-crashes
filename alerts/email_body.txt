@@ -1,9 +1,9 @@
-RUNDATE: Fri Mar 06 10:02:32 EST 2026
+RUNDATE: Sat Mar 07 10:02:31 EST 2026
 
 New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14439 | 03/05/2026 1:57 AM | Neptune Twsp, Monmouth | 35 | State Highway 35 | Killed: Pedestrian (1)
-  - ACCID 14440 | 03/04/2026 8:36 PM | Monroe Twsp, Gloucester | 322 | State Highway 322 MP 25.63 | Killed: Pedestrian (1)
-  - ACCID 14442 | 02/28/2026 12:53 AM | Ewing Twsp, Mercer | None | Wilburtha Rd | Killed: Driver (1)
+  - ACCID 14443 | 03/05/2026 5:20 PM | Wall Twsp, Monmouth | 70 | State Highway 70 | Killed: Driver (1)
+  - ACCID 14446 | 02/21/2026 3:31 PM | Long Beach Twsp, Ocean | 607 | County 607 | Killed: Driver (1)
+  - ACCID 14445 | 02/19/2026 6:08 AM | Union City, Hudson | None | Bergenline Ave | Killed: Driver (1)
