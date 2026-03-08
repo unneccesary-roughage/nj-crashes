@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,,rt 9,1,1,0,0,0,2026-03-08 15:43:15
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28
 2026,14439,2026-03-05,01:57:00,13,Monmouth,1334,Neptune Twsp,35,State Highway 35,1,0,0,1,0,2026-03-06 15:58:05
 2026,14440,2026-03-04,20:36:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 25.63,1,0,0,1,0,2026-03-06 15:58:05

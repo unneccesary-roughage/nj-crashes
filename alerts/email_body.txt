@@ -1,9 +1,7 @@
-RUNDATE: Sat Mar 07 10:02:31 EST 2026
+RUNDATE: Sun Mar 08 10:02:30 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14443 | 03/05/2026 5:20 PM | Wall Twsp, Monmouth | 70 | State Highway 70 | Killed: Driver (1)
-  - ACCID 14446 | 02/21/2026 3:31 PM | Long Beach Twsp, Ocean | 607 | County 607 | Killed: Driver (1)
-  - ACCID 14445 | 02/19/2026 6:08 AM | Union City, Hudson | None | Bergenline Ave | Killed: Driver (1)
+  - ACCID 14447 | 03/07/2026 11:07 PM | Toms River, Ocean | None | rt 9 | Killed: Driver (1)
