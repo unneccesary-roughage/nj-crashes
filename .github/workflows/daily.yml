@@ -2,8 +2,8 @@ name: Daily NJSP Fatal Crash Update
 
 on:
   schedule:
-    - cron: "30 15 * * *" #github actions only run in UTC, two time to account for DST
-    - cron: "30 16 * * *"
+    - cron: "0 15 * * *" #UTC = 3:00 PM, 11 AM EDT
+  #  - cron: "30 16 * * *"
 
   workflow_dispatch:
 
