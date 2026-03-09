@@ -1,7 +1,7 @@
-RUNDATE: Sun Mar 08 10:02:30 EDT 2026
+RUNDATE: Mon Mar 09 10:02:36 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14447 | 03/07/2026 11:07 PM | Toms River, Ocean | None | rt 9 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14447 | 03/07/2026 11:07 PM | Toms River, Ocean | 9 | State Highway 9 | Killed: Driver (1)
