@@ -1,7 +1,9 @@
-RUNDATE: Mon Mar 09 10:02:36 EDT 2026
+RUNDATE: Tue Mar 10 10:02:36 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14447 | 03/07/2026 11:07 PM | Toms River, Ocean | 9 | State Highway 9 | Killed: Driver (1)
+NEW:
+  - ACCID 14450 | 03/09/2026 9:18 AM | Newark City, Essex | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14448 | 03/07/2026 5:57 AM | Vineland City, Cumberland | 552 | County 552 | Killed: Pedestrian (1)
+  - ACCID 14449 | 02/11/2026 12:58 PM | Watchung Boro, Somerset | 655 | County 655 | Killed: Driver (1)

@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
+2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28
 2026,14439,2026-03-05,01:57:00,13,Monmouth,1334,Neptune Twsp,35,State Highway 35,1,0,0,1,0,2026-03-06 15:58:05
 2026,14440,2026-03-04,20:36:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 25.63,1,0,0,1,0,2026-03-06 15:58:05
@@ -21,6 +23,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14431,2026-02-15,22:46:00,20,Union,2013,Rahway City,1,State Highway 1,1,1,0,0,0,2026-02-26 16:12:44
 2026,14415,2026-02-15,02:02:00,15,Ocean,1511,Jackson Twsp,641,County 641,2,1,1,0,0,2026-02-19 15:23:13
 2026,14411,2026-02-11,20:32:00,07,Essex,0714,Newark City,601,County 601,1,0,0,1,0,2026-02-19 15:23:13
+2026,14449,2026-02-11,12:58:00,18,Somerset,1821,Watchung Boro,655,County 655,1,1,0,0,0,2026-03-10 15:57:26
 2026,14409,2026-02-11,08:54:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike,1,0,0,1,0,2026-02-19 15:23:13
 2026,14420,2026-02-11,08:07:00,09,Hudson,0907,Kearny Town,,Kearny Ave,1,0,0,1,0,2026-02-19 15:23:13
 2026,14428,2026-02-10,20:19:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15,1,0,0,1,0,2026-02-24 16:33:54
