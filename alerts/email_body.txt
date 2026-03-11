@@ -1,9 +1,10 @@
-RUNDATE: Tue Mar 10 10:02:36 EDT 2026
+RUNDATE: Wed Mar 11 10:02:35 EDT 2026
 
-New crashes: 3
+New crashes: 4
 Updated crashes: 0
 
 NEW:
-  - ACCID 14450 | 03/09/2026 9:18 AM | Newark City, Essex | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14448 | 03/07/2026 5:57 AM | Vineland City, Cumberland | 552 | County 552 | Killed: Pedestrian (1)
-  - ACCID 14449 | 02/11/2026 12:58 PM | Watchung Boro, Somerset | 655 | County 655 | Killed: Driver (1)
+  - ACCID 14452 | 03/10/2026 10:45 AM | Elk Twsp, Gloucester | None | Hardingville Rd | Killed: Driver (1)
+  - ACCID 14453 | 03/10/2026 8:27 AM | Hackensack City, Bergen | None | W. Pleasantview Ave | Killed: Pedestrian (1)
+  - ACCID 14454 | 03/10/2026 7:25 AM | Ewing Twsp, Mercer | 29 | State Highway 29 MP 7.56 | Killed: Driver (1)
+  - ACCID 14451 | 03/09/2026 9:57 AM | Woodbridge Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
