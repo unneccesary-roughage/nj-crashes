@@ -1,7 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14452,2026-03-10,10:45:00,08,Gloucester,0804,Elk Twsp,,Hardingville Rd,1,1,0,0,0,2026-03-11 15:44:13
 2026,14453,2026-03-10,08:27:00,02,Bergen,0223,Hackensack City,,W. Pleasantview Ave,1,0,0,1,0,2026-03-11 15:44:13
-2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,1,1,0,0,0,2026-03-11 15:44:13
+2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
 2026,14451,2026-03-09,09:57:00,12,Middlesex,1225,Woodbridge Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-11 15:44:13
 2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
