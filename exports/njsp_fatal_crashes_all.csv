@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14455,2026-03-13,05:36:00,15,Ocean,1518,Manchester Twsp,530,County 530,1,1,0,0,0,2026-03-14 15:25:01
 2026,14452,2026-03-10,10:45:00,08,Gloucester,0804,Elk Twsp,,Hardingville Rd,1,1,0,0,0,2026-03-11 15:44:13
 2026,14453,2026-03-10,08:27:00,02,Bergen,0223,Hackensack City,,W. Pleasantview Ave,1,0,0,1,0,2026-03-11 15:44:13
 2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
@@ -46,6 +47,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14394,2026-01-29,05:20:00,20,Union,2009,Linden City,95,New Jersey Turnpike,1,0,0,1,0,2026-02-19 15:23:13
 2026,14392,2026-01-23,20:51:00,15,Ocean,1507,Toms River,37,State Highway 37,1,1,0,0,0,2026-02-19 15:23:13
 2026,14391,2026-01-22,19:56:00,20,Union,2009,Linden City,1,State Highway 1,1,0,0,1,0,2026-02-19 15:23:13
+2026,14456,2026-01-21,23:49:00,07,Essex,0714,Newark City,,11th St,1,0,0,1,0,2026-03-14 15:25:01
 2026,14413,2026-01-21,13:14:00,14,Morris,1409,Dover Town,,S. Warren St,1,0,0,1,0,2026-02-19 15:23:13
 2026,14388,2026-01-21,10:25:00,12,Middlesex,1225,Woodbridge Twsp,,Smith St,1,0,0,1,0,2026-02-19 15:23:13
 2026,14410,2026-01-21,06:48:00,18,Somerset,1808,Franklin Twsp,619,County 619,1,1,0,0,0,2026-02-19 15:23:13
