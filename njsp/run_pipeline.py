@@ -7,11 +7,13 @@ import re
 
 from njsp.njsp_fetch import fetch_current_year
 from njsp.njsp_parse import parse_fauqstats_crashes
-from njsp.sqlite_store import open_db, create_schema, upsert_crashes
+from njsp.sqlite_store import open_db, create_schema, upsert_crashes, reconcile_removed_crashes
 from njsp.export_csv import export_all
 from njsp.alerts import diff_against_sqlite, format_email, write_alert_files
 
 _RUNDATE_RE = re.compile(rb"<RUNDATE>.*?</RUNDATE>", re.DOTALL)
+
+#Check XML for changes before parsing 
 
 def sha256_xml_ignoring_rundate(path: Path) -> str:
     data = path.read_bytes()
@@ -34,9 +36,11 @@ def main():
 
     print("XML changed — processing.")
 
+    #Parse XML
     parsed = parse_fauqstats_crashes(xml_path)
     print(f"Parsed {len(parsed.records)} crash records for {parsed.statsyear}")
 
+    #Update database
     conn = open_db("data/njsp_fatal.sqlite")
     try:
         create_schema(conn)
@@ -47,10 +51,22 @@ def main():
         n = upsert_crashes(conn, parsed.records)
         print(f"Upserted {n} records into SQLite")
 
+        #move deleted records
+        records = list(parsed.records)
+
+        removed = reconcile_removed_crashes(
+        conn,
+        "data/njsp_fatal_removed.sqlite",
+        records
+        )
+
+        print(f"{removed} crashes removed from NJSP feed.")
+
+        #export CSV files
         export_all(conn, "exports")
         print("Exported CSVs to exports/")
 
-        # write alert files only if something meaningful changed
+            # write alert files only if something meaningful changed
         if new_recs or upd_recs:
             subject, body = format_email(parsed.rundate or "", parsed.statsyear or 0, new_recs, upd_recs)
             write_alert_files(subject, body, "alerts")
@@ -67,3 +83,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+
+

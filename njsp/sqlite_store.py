@@ -162,3 +162,106 @@ def upsert_crashes(conn: sqlite3.Connection, records: Iterable[Dict[str, Any]]) 
 
     conn.commit()
     return n
+
+def create_removed_schema(conn: sqlite3.Connection) -> None:
+    conn.execute(
+        """
+        CREATE TABLE IF NOT EXISTS njsp_fatal_crashes (
+          statsyear     INTEGER NOT NULL,
+          accid         INTEGER NOT NULL,
+
+          crash_date    TEXT,
+          crash_time    TEXT,
+
+          ccode         TEXT,
+          cname         TEXT,
+          mcode         TEXT,
+          mname         TEXT,
+
+          highway       TEXT,
+          location      TEXT,
+
+          fatalities    INTEGER,
+          fatal_d       INTEGER,
+          fatal_p       INTEGER,
+          fatal_t       INTEGER,
+          fatal_b       INTEGER,
+
+          record_hash   TEXT,
+          fetched_at    TEXT,
+
+          removed_at    TEXT DEFAULT (datetime('now')),
+
+          PRIMARY KEY (statsyear, accid)
+        );
+        """
+    )
+    conn.commit()
+
+
+def reconcile_removed_crashes(
+    conn: sqlite3.Connection,
+    removed_db_path: str | Path,
+    current_records: Iterable[Dict[str, Any]],
+) -> int:
+    """
+    Move crashes no longer present in the NJSP XML feed to a removed database.
+    Returns number of records moved.
+    """
+
+    # Build set of current IDs from XML
+    current_ids = set()
+    for r in current_records:
+        statsyear = to_int(r.get("STATSYEAR"))
+        accid = to_int(r.get("ACCID"))
+        if statsyear is not None and accid is not None:
+            current_ids.add((statsyear, accid))
+
+    cur = conn.cursor()
+
+    # Get IDs currently in SQLite
+    cur.execute("SELECT statsyear, accid FROM njsp_fatal_crashes")
+    db_ids = set(cur.fetchall())
+
+    removed_ids = db_ids - current_ids
+
+    if not removed_ids:
+        return 0
+
+    removed_conn = open_db(removed_db_path)
+    create_removed_schema(removed_conn)
+
+    moved = 0
+
+    for statsyear, accid in removed_ids:
+
+        # fetch row
+        cur.execute(
+            "SELECT * FROM njsp_fatal_crashes WHERE statsyear=? AND accid=?",
+            (statsyear, accid),
+        )
+        row = cur.fetchone()
+
+        if not row:
+            continue
+
+        # copy to removed database
+        placeholders = ",".join(["?"] * len(row))
+        removed_conn.execute(
+            f"INSERT INTO njsp_fatal_crashes VALUES ({placeholders})",
+            row,
+        )
+
+        # delete from main database
+        cur.execute(
+            "DELETE FROM njsp_fatal_crashes WHERE statsyear=? AND accid=?",
+            (statsyear, accid),
+        )
+
+        moved += 1
+
+    conn.commit()
+    removed_conn.commit()
+
+    return moved
+
