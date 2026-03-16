@@ -33,17 +33,11 @@ jobs:
 
       - name: Check if email needed
         id: check
-        run: |
-          if [ -f "alerts/send_email.flag" ]; then
-            echo "send_email=true" >> $GITHUB_OUTPUT
-          else
-            echo "send_email=false" >> $GITHUB_OUTPUT
-          fi
+        run: echo "send_email=$(cat alerts/send_email.flag)" >> $GITHUB_OUTPUT
 
           
       - name: Send email alert
-#        if: steps.check.outputs.send_email == 'true'
-#        uses: cougargrades/action-send-mail@v4
+        if: steps.check.outputs.send_email == '1'
         uses: dawidd6/action-send-mail@v3
         with:
           server_address: ${{ secrets.SMTP_SERVER }}
