@@ -159,4 +159,5 @@ def write_alert_files(subject: str, body: str, alerts_dir: str | Path = "alerts"
     (alerts_dir / "email_subject.txt").write_text(subject, encoding="utf-8")
     (alerts_dir / "email_body.txt").write_text(body, encoding="utf-8")
     # flag file for Actions
-    (alerts_dir / "send_email.flag").write_text("1", encoding="utf-8")
+    flag = "1" if (new_recs or upd_recs) else "0"
+    (alerts_dir / "send_email.flag").write_text(flag, encoding="utf-8")
