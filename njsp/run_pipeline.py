@@ -81,8 +81,8 @@ def main():
     print("Updated hash file.")
 
 
-if __name__ == "__main__":
-    main()
+    if __name__ == "__main__":
+     main()
 
 
 
