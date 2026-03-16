@@ -6,6 +6,8 @@ from typing import Dict, Any, List, Tuple, Optional
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
+Path("alerts/send_email.flag").write_text("0")
+
 def _chunks(lst, n=900):
     for i in range(0, len(lst), n):
         yield lst[i : i + n]
