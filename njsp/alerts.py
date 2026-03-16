@@ -155,7 +155,7 @@ def format_email(rundate: str, year: int, new_recs: List[Dict[str, Any]], upd_re
     return subject, "\n".join(lines)
 
 
-def write_alert_files(subject: str, body: str, alerts_dir: str | Path = "alerts") -> None:
+def write_alert_files(subject: str, body: str, new_recs, upd_recs, alerts_dir: str | Path = "alerts") -> None:
     alerts_dir = Path(alerts_dir)
     alerts_dir.mkdir(parents=True, exist_ok=True)
     (alerts_dir / "email_subject.txt").write_text(subject, encoding="utf-8")
