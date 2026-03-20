@@ -166,7 +166,7 @@ def upsert_crashes(conn: sqlite3.Connection, records: Iterable[Dict[str, Any]]) 
 def create_removed_schema(conn: sqlite3.Connection) -> None:
     conn.execute(
         """
-        CREATE TABLE IF NOT EXISTS njsp_fatal_crashes (
+        CREATE TABLE IF NOT EXISTS njsp_fatal_crashes_removed (
           statsyear     INTEGER NOT NULL,
           accid         INTEGER NOT NULL,
 
@@ -237,7 +237,17 @@ def reconcile_removed_crashes(
 
         # fetch row
         cur.execute(
-            "SELECT * FROM njsp_fatal_crashes WHERE statsyear=? AND accid=?",
+            """
+            SELECT
+              statsyear, accid,
+              crash_date, crash_time,
+              ccode, cname, mcode, mname,
+              highway, location,
+              fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
+              record_hash, fetched_at
+            FROM njsp_fatal_crashes
+            WHERE statsyear=? AND accid=?
+            """,
             (statsyear, accid),
         )
         row = cur.fetchone()
@@ -248,7 +258,18 @@ def reconcile_removed_crashes(
         # copy to removed database
         placeholders = ",".join(["?"] * len(row))
         removed_conn.execute(
-            f"INSERT INTO njsp_fatal_crashes VALUES ({placeholders})",
+            """
+            INSERT INTO njsp_fatal_crashes_removed (
+              statsyear, accid,
+              crash_date, crash_time,
+              ccode, cname, mcode, mname,
+              highway, location,
+              fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
+              record_hash, fetched_at
+            ) VALUES (
+              ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?, ?
+            )
+            """,
             row,
         )
 

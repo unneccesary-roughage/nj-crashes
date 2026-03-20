@@ -1,5 +1,12 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
+2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
+2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
+2026,14459,2026-03-16,06:02:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-20 18:34:30
+2026,14458,2026-03-16,06:01:00,07,Essex,0706,East Orange City,,Evergreen Pl,1,0,0,1,0,2026-03-20 18:34:30
+2026,14462,2026-03-14,19:19:00,20,Union,2017,Springfield Twsp,,Bryant Ave,1,1,0,0,0,2026-03-20 18:34:30
 2026,14455,2026-03-13,05:36:00,15,Ocean,1518,Manchester Twsp,530,County 530,1,1,0,0,0,2026-03-14 15:25:01
+2026,14457,2026-03-10,16:43:00,02,Bergen,0256,Rutherford Boro,3,State Highway 3 MP 6.7,1,1,0,0,0,2026-03-20 18:34:30
 2026,14452,2026-03-10,10:45:00,08,Gloucester,0804,Elk Twsp,,Hardingville Rd,1,1,0,0,0,2026-03-11 15:44:13
 2026,14453,2026-03-10,08:27:00,02,Bergen,0223,Hackensack City,,W. Pleasantview Ave,1,0,0,1,0,2026-03-11 15:44:13
 2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
@@ -38,7 +45,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14404,2026-02-06,14:07:00,15,Ocean,1511,Jackson Twsp,571,County 571,1,1,0,0,0,2026-02-19 15:23:13
 2026,14417,2026-02-05,22:23:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 63.86,1,0,0,0,1,2026-02-19 15:23:13
 2026,14405,2026-02-04,14:38:00,16,Passaic,1603,Haledon Boro,,Hobart Ave,1,0,1,0,0,2026-02-19 15:23:13
-2026,14402,2026-02-04,06:36:00,20,Union,2001,Berkeley Heights Tw,78,Interstate 78,1,1,0,0,0,2026-02-19 15:23:13
 2026,14401,2026-02-03,23:22:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 1.2,2,1,1,0,0,2026-02-19 15:23:13
 2026,14407,2026-02-03,14:51:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206,1,1,0,0,0,2026-02-19 15:23:13
 2026,14399,2026-01-31,17:33:00,07,Essex,0714,Newark City,,Clinton Ave,1,0,0,1,0,2026-02-19 15:23:13
@@ -47,9 +53,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14394,2026-01-29,05:20:00,20,Union,2009,Linden City,95,New Jersey Turnpike,1,0,0,1,0,2026-02-19 15:23:13
 2026,14392,2026-01-23,20:51:00,15,Ocean,1507,Toms River,37,State Highway 37,1,1,0,0,0,2026-02-19 15:23:13
 2026,14391,2026-01-22,19:56:00,20,Union,2009,Linden City,1,State Highway 1,1,0,0,1,0,2026-02-19 15:23:13
-2026,14456,2026-01-21,23:49:00,07,Essex,0714,Newark City,,11th St,1,0,0,1,0,2026-03-14 15:25:01
 2026,14413,2026-01-21,13:14:00,14,Morris,1409,Dover Town,,S. Warren St,1,0,0,1,0,2026-02-19 15:23:13
-2026,14388,2026-01-21,10:25:00,12,Middlesex,1225,Woodbridge Twsp,,Smith St,1,0,0,1,0,2026-02-19 15:23:13
 2026,14410,2026-01-21,06:48:00,18,Somerset,1808,Franklin Twsp,619,County 619,1,1,0,0,0,2026-02-19 15:23:13
 2026,14387,2026-01-20,23:04:00,17,Salem,1706,Mannington Twsp,,Mannington Yorktown Rd,1,1,0,0,0,2026-02-19 15:23:13
 2026,14385,2026-01-20,16:08:00,01,Atlantic,0112,Hamilton Twsp,559,County 559,1,1,0,0,0,2026-02-19 15:23:13
@@ -67,7 +71,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-02-19 15:23:13
 2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645,1,0,0,1,0,2026-02-19 15:23:13
 2026,14367,2026-01-09,20:29:00,20,Union,2019,Union Twsp,22,State Highway 22,1,0,0,1,0,2026-02-19 15:23:13
-2026,14369,2026-01-09,11:35:00,14,Morris,1429,Parsippany-Troy Hil,80,Interstate 80,1,1,0,0,0,2026-02-19 15:23:13
 2026,14380,2026-01-08,15:33:00,09,Hudson,0904,Harrison Town,507,County 507,1,0,0,1,0,2026-02-19 15:23:13
 2026,14365,2026-01-07,21:20:00,15,Ocean,1506,Brick Twsp,66,County 66 MP .82,1,1,0,0,0,2026-02-19 15:23:13
 2026,14363,2026-01-07,09:37:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,0,1,0,0,2026-02-19 15:23:13
@@ -79,5 +82,5 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14354,2026-01-03,01:25:00,12,Middlesex,1209,Old Bridge Twsp,9,State Highway 9,1,0,0,1,0,2026-02-19 15:23:13
 2026,14353,2026-01-02,13:53:00,08,Gloucester,0811,Monroe Twsp,555,County 555,1,1,0,0,0,2026-02-19 15:23:13
 2026,14366,2026-01-02,12:08:00,14,Morris,1404,Chatham Boro,638,County 638,1,0,0,1,0,2026-02-19 15:23:13
-2026,14351,2026-01-01,11:58:00,19,Sussex,1914,Montague Twsp,23,State Highway 23,1,1,0,0,0,2026-02-19 15:23:13
+2026,14351,2026-01-01,11:58:00,19,Sussex,1914,Montague Twsp,23,State Highway 23 MP 49.2,1,1,0,0,0,2026-03-20 18:34:30
 2026,14350,2026-01-01,03:36:00,12,Middlesex,1225,Woodbridge Twsp,444,Garden State Parkway,1,1,0,0,0,2026-02-19 15:23:13
