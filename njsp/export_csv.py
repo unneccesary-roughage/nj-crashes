@@ -86,3 +86,20 @@ def export_all(conn: sqlite3.Connection, exports_dir: str | Path = EXPORT_DIR) -
         ORDER BY statsyear DESC, year_month DESC;
         """,
     )
+
+    #removed records
+    export_query_to_csv(
+        conn,
+        exports_dir / "removed_records.csv",
+        """
+        SELECT
+          statsyear, accid,
+          crash_date, crash_time,
+          ccode, cname, mcode, mname,
+          highway, location,
+          fatalities, fatal_d, fatal_p, fatal_t, fatal_b,
+          fetched_at, removed_at
+        FROM njsp_fatal_crashes
+        ORDER BY crash_date DESC, crash_time DESC, accid DESC;
+        """
+    )
