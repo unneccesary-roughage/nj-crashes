@@ -21,7 +21,7 @@ def sha256_xml_ignoring_rundate(path: Path) -> str:
     return hashlib.sha256(data).hexdigest()
 
 
-def main():
+if __name__ == "__main__":
     xml_path, rundate = fetch_current_year(out_dir=Path("data/live"))
     print(f"Fetched XML: {xml_path} (RUNDATE={rundate})")
 
@@ -69,10 +69,10 @@ def main():
             # write alert files only if something meaningful changed
         if new_recs or upd_recs:
             subject, body = format_email(parsed.rundate or "", parsed.statsyear or 0, new_recs, upd_recs)
-            write_alert_files(subject, body, "alerts")
+            write_alert_files(subject, body, 'alerts')
             print("Wrote alerts/email_body.txt (will trigger email)")
         else:
-            print("No new/updated accidents — no email.")
+            print("No change in crash records — no email.")
     finally:
         conn.close()
 
@@ -81,8 +81,8 @@ def main():
     print("Updated hash file.")
 
 
-    if __name__ == "__main__":
-     main()
+
+
 
 
 
