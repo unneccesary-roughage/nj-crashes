@@ -23,9 +23,11 @@ def sha256_xml_ignoring_rundate(path: Path) -> str:
 
 
 if __name__ == "__main__":
+#Fetch XML
     xml_path, rundate = fetch_current_year(out_dir = DATA_DIR)
     print(f"Fetched XML: {xml_path} (RUNDATE={rundate})")
 
+#Check for changes
     hash_path = xml_path.with_suffix(".sha256")
     new_hash = sha256_xml_ignoring_rundate(xml_path)
 
@@ -37,22 +39,22 @@ if __name__ == "__main__":
 
     print("XML changed — processing.")
 
-    #Parse XML
+#Parse XML
     parsed = parse_fauqstats_crashes(xml_path)
     print(f"Parsed {len(parsed.records)} crash records for {parsed.statsyear}")
 
-    #Update database
+#Update database
     conn = open_db(MAIN_DB)
     try:
         create_schema(conn)
 
-        # diff BEFORE upsert
+# diff BEFORE upsert
         new_recs, upd_recs = diff_against_sqlite(conn, parsed.records)
 
         n = upsert_crashes(conn, parsed.records)
         print(f"Upserted {n} records into SQLite")
 
-        #move deleted records
+#move deleted records
         records = list(parsed.records)
 
         removed = reconcile_removed_crashes(
@@ -63,11 +65,11 @@ if __name__ == "__main__":
 
         print(f"{removed} crashes removed from NJSP feed.")
 
-        #export CSV files
+#export CSV files
         export_all(conn, EXPORT_DIR)
         print("Exported CSVs to exports/")
 
-            # write alert files only if something meaningful changed
+# write alert files only if something meaningful changed
         if new_recs or upd_recs:
             subject, body = format_email(parsed.rundate or "", parsed.statsyear or 0, new_recs, upd_recs)
             write_alert_files(subject, body, new_recs, upd_recs, 'alerts')
@@ -77,7 +79,7 @@ if __name__ == "__main__":
     finally:
         conn.close()
 
-    # save new hash
+# save new hash
     hash_path.write_text(new_hash)
     print("Updated hash file.")
 
