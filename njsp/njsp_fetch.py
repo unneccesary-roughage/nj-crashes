@@ -5,7 +5,7 @@ from datetime import datetime
 from pathlib import Path
 import re
 import requests
-
+from njsp.paths import DATA_DIR
 
 BASE_URL = "https://njsp.njoag.gov/wp/wp-content/plugins/fatal-crash-data/xml"
 
@@ -15,7 +15,7 @@ def parse_rundate(xml_content: bytes) -> str | None:
     return match.group(1).decode("utf-8") if match else None
 
 
-def fetch_year(year: int, out_dir: Path = Path("data/live")) -> tuple[Path, str | None]:
+def fetch_year(year: int, out_dir: Path = Path(DATA_DIR)) -> tuple[Path, str | None]:
     """
     Download FAUQStats XML for a year.
 
@@ -56,5 +56,5 @@ def fetch_year(year: int, out_dir: Path = Path("data/live")) -> tuple[Path, str 
     return out_path, rundate
 
 
-def fetch_current_year(out_dir: Path = Path("data/live")):
+def fetch_current_year(out_dir: Path = Path(DATA_DIR)):
     return fetch_year(datetime.now().year, out_dir)

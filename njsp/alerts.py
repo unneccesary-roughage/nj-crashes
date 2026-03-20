@@ -5,6 +5,7 @@ from pathlib import Path
 from typing import Dict, Any, List, Tuple, Optional
 from datetime import datetime
 from zoneinfo import ZoneInfo
+from njsp.paths import ALERTS_DIR
 
 #Path("alerts/send_email.flag").write_text("0")
 
@@ -155,7 +156,7 @@ def format_email(rundate: str, year: int, new_recs: List[Dict[str, Any]], upd_re
     return subject, "\n".join(lines)
 
 
-def write_alert_files(subject: str, body: str, new_recs, upd_recs, alerts_dir: str | Path = "alerts") -> None:
+def write_alert_files(subject: str, body: str, new_recs, upd_recs, alerts_dir: str | Path = ALERTS_DIR) -> None:
     alerts_dir = Path(alerts_dir)
     alerts_dir.mkdir(parents=True, exist_ok=True)
     (alerts_dir / "email_subject.txt").write_text(subject, encoding="utf-8")

@@ -1,7 +1,7 @@
 from pathlib import Path
 from njsp.njsp_parse import parse_fauqstats_crashes
 
-xml_path = Path("data/live/FAUQStats2026.xml")
+xml_path = Path("data/FAUQStats2026.xml")
 result = parse_fauqstats_crashes(xml_path)
 
 print("RUNDATE:", result.rundate)

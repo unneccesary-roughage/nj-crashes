@@ -4,6 +4,7 @@ import csv
 from pathlib import Path
 import sqlite3
 from typing import Iterable, Tuple, Any
+from njsp.paths import EXPORT_DIR
 
 
 def ensure_dir(p: Path) -> None:
@@ -30,7 +31,7 @@ def export_query_to_csv(
         w.writerows(rows)
 
 
-def export_all(conn: sqlite3.Connection, exports_dir: str | Path = "exports") -> None:
+def export_all(conn: sqlite3.Connection, exports_dir: str | Path = EXPORT_DIR) -> None:
     exports_dir = Path(exports_dir)
 
     # 1) Current year crashes (you can change this to a specific year)
