@@ -1,10 +1,15 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14470,2026-03-20,12:27:00,14,Morris,1427,Mount Olive Twsp,80,Interstate 80 MP 25.4,1,1,0,0,0,2026-03-22 01:37:08
+2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.55,1,1,0,0,0,2026-03-22 01:37:08
+2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
 2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
 2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
 2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
 2026,14459,2026-03-16,06:02:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-20 18:34:30
 2026,14458,2026-03-16,06:01:00,07,Essex,0706,East Orange City,,Evergreen Pl,1,0,0,1,0,2026-03-20 18:34:30
+2026,14465,2026-03-15,19:23:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-03-22 01:37:08
 2026,14462,2026-03-14,19:19:00,20,Union,2017,Springfield Twsp,,Bryant Ave,1,1,0,0,0,2026-03-20 18:34:30
+2026,14469,2026-03-14,05:08:00,12,Middlesex,1225,Woodbridge Twsp,35,State Highway 35,1,0,0,1,0,2026-03-22 01:37:08
 2026,14455,2026-03-13,05:36:00,15,Ocean,1518,Manchester Twsp,530,County 530,1,1,0,0,0,2026-03-14 15:25:01
 2026,14457,2026-03-10,16:43:00,02,Bergen,0256,Rutherford Boro,3,State Highway 3 MP 6.7,1,1,0,0,0,2026-03-20 18:34:30
 2026,14452,2026-03-10,10:45:00,08,Gloucester,0804,Elk Twsp,,Hardingville Rd,1,1,0,0,0,2026-03-11 15:44:13
@@ -12,6 +17,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
 2026,14451,2026-03-09,09:57:00,12,Middlesex,1225,Woodbridge Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-11 15:44:13
 2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
+2026,14466,2026-03-08,22:15:00,12,Middlesex,1214,New Brunswick City,18,State Highway 18,1,1,0,0,0,2026-03-22 01:37:08
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
 2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28

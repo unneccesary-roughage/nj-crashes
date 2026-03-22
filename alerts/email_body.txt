@@ -1,8 +1,12 @@
-RUNDATE: Sat Mar 14 10:02:38 EDT 2026
+RUNDATE: Sat Mar 21 10:00:05 EDT 2026
 
-New crashes: 2
+New crashes: 6
 Updated crashes: 0
 
 NEW:
-  - ACCID 14455 | 03/13/2026 5:36 AM | Manchester Twsp, Ocean | 530 | County 530 | Killed: Driver (1)
-  - ACCID 14456 | 01/21/2026 11:49 PM | Newark City, Essex | None | 11th St | Killed: Pedestrian (1)
+  - ACCID 14470 | 03/20/2026 12:27 PM | Mount Olive Twsp, Morris | 80 | Interstate 80 MP 25.4 | Killed: Driver (1)
+  - ACCID 14468 | 03/20/2026 4:38 AM | Evesham Twsp, Burlington | 73 | State Highway 73 MP 25.55 | Killed: Driver (1)
+  - ACCID 14467 | 03/20/2026 3:15 AM | Sayreville Boro, Middlesex | 615 | County 615 | Killed: Driver (1)
+  - ACCID 14465 | 03/15/2026 7:23 PM | Elizabeth City, Union | 1 | State Highway 1 | Killed: Pedestrian (1)
+  - ACCID 14469 | 03/14/2026 5:08 AM | Woodbridge Twsp, Middlesex | 35 | State Highway 35 | Killed: Pedestrian (1)
+  - ACCID 14466 | 03/08/2026 10:15 PM | New Brunswick City, Middlesex | 18 | State Highway 18 | Killed: Driver (1)
