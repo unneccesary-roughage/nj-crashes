@@ -88,6 +88,9 @@ def export_all(conn: sqlite3.Connection, exports_dir: str | Path = EXPORT_DIR) -
     )
 
     #removed records
+def export_removed(conn: sqlite3.Connection, exports_dir: str | Path = EXPORT_DIR) -> None:
+    exports_dir = Path(exports_dir)
+    
     export_query_to_csv(
         conn,
         exports_dir / "removed_records.csv",
