@@ -67,8 +67,9 @@ if __name__ == "__main__":
 
 #export CSV files
         export_all(conn, EXPORT_DIR)
+        export_removed(open_db(REMOVED_DB), EXPORT_DIR)
         print("Exported CSVs to exports/")
-
+        
 # write alert files only if something meaningful changed
         if new_recs or upd_recs:
             subject, body = format_email(parsed.rundate or "", parsed.statsyear or 0, new_recs, upd_recs)
