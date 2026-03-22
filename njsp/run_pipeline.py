@@ -8,7 +8,7 @@ import re
 from njsp.njsp_fetch import fetch_current_year
 from njsp.njsp_parse import parse_fauqstats_crashes
 from njsp.sqlite_store import open_db, create_schema, upsert_crashes, reconcile_removed_crashes
-from njsp.export_csv import export_all
+from njsp.export_csv import export_all, export_removed
 from njsp.alerts import diff_against_sqlite, format_email, write_alert_files
 from njsp.paths import DATA_DIR, EXPORT_DIR, MAIN_DB, REMOVED_DB
 
