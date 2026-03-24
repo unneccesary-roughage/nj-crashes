@@ -1,9 +1,7 @@
-RUNDATE: Mon Mar 23 10:00:01 EDT 2026
+RUNDATE: Tue Mar 24 10:00:01 EDT 2026
 
-New crashes: 3
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14472 | 03/22/2026 11:14 PM | Washington Twsp, Bergen | 444 | Garden State Parkway | Killed: Driver (1)
-  - ACCID 14473 | 03/22/2026 10:09 PM | Ewing Twsp, Mercer | None | OLDEN AVE | Killed: Pedestrian (1)
-  - ACCID 14471 | 03/22/2026 4:18 AM | Morristown Town, Morris | 287 | Interstate 287 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14473 | 03/22/2026 10:09 PM | Ewing Twsp, Mercer | 622 | County 622 MP 4.81 | Killed: Pedestrian (1)
