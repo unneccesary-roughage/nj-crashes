@@ -1,7 +1,7 @@
-RUNDATE: Tue Mar 24 10:00:01 EDT 2026
+RUNDATE: Thu Mar 26 10:00:00 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 1
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14473 | 03/22/2026 10:09 PM | Ewing Twsp, Mercer | 622 | County 622 MP 4.81 | Killed: Pedestrian (1)
+NEW:
+  - ACCID 14476 | 03/20/2026 2:21 PM | Montgomery Twsp, Somerset | None | East Mountain Rd | Killed: Driver (1)
