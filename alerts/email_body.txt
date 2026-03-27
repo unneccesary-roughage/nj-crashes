@@ -1,7 +1,11 @@
-RUNDATE: Thu Mar 26 10:00:00 EDT 2026
+RUNDATE: Fri Mar 27 10:00:01 EDT 2026
 
-New crashes: 1
+New crashes: 5
 Updated crashes: 0
 
 NEW:
-  - ACCID 14476 | 03/20/2026 2:21 PM | Montgomery Twsp, Somerset | None | East Mountain Rd | Killed: Driver (1)
+  - ACCID 14480 | 03/26/2026 3:44 PM | Kingwood Twsp, Hunterdon | 519 | County 519 | Killed: Driver (1)
+  - ACCID 14479 | 03/26/2026 1:25 PM | Union Twsp, Union | 630 | County 630 MP 2.65 | Killed: Pedestrian (1)
+  - ACCID 14481 | 03/26/2026 9:51 AM | Willingboro Twsp, Burlington | 626 | County 626 | Killed: Driver (1)
+  - ACCID 14477 | 03/19/2026 8:05 AM | Newark City, Essex | None | Elizabeth Ave | Killed: Pedestrian (1)
+  - ACCID 14478 | 03/16/2026 1:03 PM | Union City, Hudson | None | 34th St | Killed: Pedestrian (1)

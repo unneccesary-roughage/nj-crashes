@@ -1,4 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14480,2026-03-26,15:44:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519,1,1,0,0,0,2026-03-27 15:50:09
+2026,14479,2026-03-26,13:25:00,20,Union,2019,Union Twsp,630,County 630 MP 2.65,1,0,0,1,0,2026-03-27 15:50:09
+2026,14481,2026-03-26,09:51:00,03,Burlington,0317,Willingboro Twsp,626,County 626,1,1,0,0,0,2026-03-27 15:50:09
 2026,14472,2026-03-22,23:14:00,02,Bergen,0266,Washington Twsp,444,Garden State Parkway,1,1,0,0,0,2026-03-23 15:57:29
 2026,14473,2026-03-22,22:09:00,11,Mercer,1102,Ewing Twsp,622,County 622 MP 4.81,1,0,0,1,0,2026-03-24 16:03:52
 2026,14471,2026-03-22,04:18:00,14,Morris,1424,Morristown Town,287,Interstate 287,1,1,0,0,0,2026-03-23 15:57:29
@@ -7,8 +10,10 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.55,1,1,0,0,0,2026-03-22 01:37:08
 2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
 2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
+2026,14477,2026-03-19,08:05:00,07,Essex,0714,Newark City,,Elizabeth Ave,1,0,0,1,0,2026-03-27 15:50:09
 2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
 2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
+2026,14478,2026-03-16,13:03:00,09,Hudson,0910,Union City,,34th St,1,0,0,1,0,2026-03-27 15:50:09
 2026,14459,2026-03-16,06:02:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-20 18:34:30
 2026,14458,2026-03-16,06:01:00,07,Essex,0706,East Orange City,,Evergreen Pl,1,0,0,1,0,2026-03-20 18:34:30
 2026,14465,2026-03-15,19:23:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-03-22 01:37:08
