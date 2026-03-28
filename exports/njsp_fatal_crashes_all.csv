@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14483,2026-03-27,06:45:00,12,Middlesex,1221,South Brunswick Tws,130,State Highway 130 MP 73.93,1,1,0,0,0,2026-03-28 15:27:51
 2026,14480,2026-03-26,15:44:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519,1,1,0,0,0,2026-03-27 15:50:09
 2026,14479,2026-03-26,13:25:00,20,Union,2019,Union Twsp,630,County 630 MP 2.65,1,0,0,1,0,2026-03-27 15:50:09
 2026,14481,2026-03-26,09:51:00,03,Burlington,0317,Willingboro Twsp,626,County 626,1,1,0,0,0,2026-03-27 15:50:09
@@ -28,6 +29,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
 2026,14466,2026-03-08,22:15:00,12,Middlesex,1214,New Brunswick City,18,State Highway 18,1,1,0,0,0,2026-03-22 01:37:08
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
+2026,14482,2026-03-07,09:23:00,03,Burlington,0335,Springfield Twsp,660,County 660,1,1,0,0,0,2026-03-28 15:27:51
 2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28
 2026,14439,2026-03-05,01:57:00,13,Monmouth,1334,Neptune Twsp,35,State Highway 35,1,0,0,1,0,2026-03-06 15:58:05
