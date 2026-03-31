@@ -1,12 +1,8 @@
-RUNDATE: Mon Mar 30 10:00:05 EDT 2026
+RUNDATE: Tue Mar 31 10:00:01 EDT 2026
 
-New crashes: 6
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14488 | 03/29/2026 7:29 AM | Newark City, Essex | 21 | State Highway 21 | Killed: Driver (1)
-  - ACCID 14484 | 03/29/2026 2:58 AM | Union Twsp, Union | 22 | State Highway 22 MP 56.4 | Killed: Driver (1)
-  - ACCID 14487 | 03/28/2026 6:12 AM | Tinton Falls Boro, Monmouth | 444 | Garden State Parkway | Killed: Driver (1)
-  - ACCID 14489 | 03/28/2026 12:29 AM | Trenton, Mercer | 33 | State Highway 33 | Killed: Pedestrian (1)
-  - ACCID 14486 | 03/27/2026 8:42 PM | Millburn Twsp, Essex | 649 | County 649 | Killed: Pedestrian (1)
-  - ACCID 14485 | 03/27/2026 7:18 AM | Eatontown Boro, Monmouth | 35 | State Highway 35 | Killed: Pedestrian (1)
+  - ACCID 14492 | 03/30/2026 8:27 PM | Deptford Twsp, Gloucester | 47 | State Highway 47 | Killed: Pedalcyclist (1)
+  - ACCID 14490 | 03/27/2026 5:45 AM | Waterford Twsp, Camden | 30 | State Highway 30 | Killed: Pedestrian (1)
