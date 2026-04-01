@@ -23,7 +23,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
 2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
 2026,14478,2026-03-16,13:03:00,09,Hudson,0910,Union City,,34th St,1,0,0,1,0,2026-03-27 15:50:09
-2026,14459,2026-03-16,06:02:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-20 18:34:30
+2026,14459,2026-03-16,06:02:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike MP 39.21,1,1,0,0,0,2026-04-01 16:04:51
 2026,14458,2026-03-16,06:01:00,07,Essex,0706,East Orange City,,Evergreen Pl,1,0,0,1,0,2026-03-20 18:34:30
 2026,14465,2026-03-15,19:23:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-03-22 01:37:08
 2026,14462,2026-03-14,19:19:00,20,Union,2017,Springfield Twsp,,Bryant Ave,1,1,0,0,0,2026-03-20 18:34:30

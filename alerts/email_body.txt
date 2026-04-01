@@ -1,8 +1,7 @@
-RUNDATE: Tue Mar 31 10:00:01 EDT 2026
+RUNDATE: Wed Apr 01 10:00:00 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14492 | 03/30/2026 8:27 PM | Deptford Twsp, Gloucester | 47 | State Highway 47 | Killed: Pedalcyclist (1)
-  - ACCID 14490 | 03/27/2026 5:45 AM | Waterford Twsp, Camden | 30 | State Highway 30 | Killed: Pedestrian (1)
+UPDATED:
+  - ACCID 14459 | 03/16/2026 6:02 AM | Mount Laurel Twsp, Burlington | 95 | New Jersey Turnpike MP 39.21 | Killed: Driver (1)
