@@ -1,4 +1,8 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14498,2026-04-01,18:27:00,07,Essex,0714,Newark City,78,Interstate 78 MP 56.6,2,1,1,0,0,2026-04-02 15:57:59
+2026,14495,2026-04-01,10:31:00,12,Middlesex,1225,Woodbridge Twsp,514,County 514,1,1,0,0,0,2026-04-02 15:57:59
+2026,14497,2026-04-01,04:19:00,14,Morris,1436,Roxbury Twsp,80,Interstate 80,1,1,0,0,0,2026-04-02 15:57:59
+2026,14496,2026-03-31,19:29:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,1,0,0,0,2026-04-02 15:57:59
 2026,14492,2026-03-30,20:27:00,08,Gloucester,0802,Deptford Twsp,47,State Highway 47,1,0,0,0,1,2026-03-31 16:03:49
 2026,14488,2026-03-29,07:29:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-03-30 16:07:06
 2026,14484,2026-03-29,02:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 56.4,1,1,0,0,0,2026-03-30 16:07:06
@@ -16,6 +20,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14471,2026-03-22,04:18:00,14,Morris,1424,Morristown Town,287,Interstate 287,1,1,0,0,0,2026-03-23 15:57:29
 2026,14476,2026-03-20,14:21:00,18,Somerset,1813,Montgomery Twsp,,East Mountain Rd,1,1,0,0,0,2026-03-26 16:09:42
 2026,14470,2026-03-20,12:27:00,14,Morris,1427,Mount Olive Twsp,80,Interstate 80 MP 25.4,1,1,0,0,0,2026-03-22 01:37:08
+2026,14494,2026-03-20,06:54:00,14,Morris,1424,Morristown Town,,Speedwell Pl,1,0,0,1,0,2026-04-02 15:57:59
 2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.55,1,1,0,0,0,2026-03-22 01:37:08
 2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
 2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
