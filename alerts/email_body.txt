@@ -1,11 +1,7 @@
-RUNDATE: Thu Apr 02 10:00:01 EDT 2026
+RUNDATE: Fri Apr 03 10:00:03 EDT 2026
 
-New crashes: 5
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14498 | 04/01/2026 6:27 PM | Newark City, Essex | 78 | Interstate 78 MP 56.6 | Killed: Driver (1), Passenger (1)
-  - ACCID 14495 | 04/01/2026 10:31 AM | Woodbridge Twsp, Middlesex | 514 | County 514 | Killed: Driver (1)
-  - ACCID 14497 | 04/01/2026 4:19 AM | Roxbury Twsp, Morris | 80 | Interstate 80 | Killed: Driver (1)
-  - ACCID 14496 | 03/31/2026 7:29 PM | New Brunswick City, Middlesex | 693 | County 693 | Killed: Driver (1)
-  - ACCID 14494 | 03/20/2026 6:54 AM | Morristown Town, Morris | None | Speedwell Pl | Killed: Pedestrian (1)
+  - ACCID 14499 | 02/09/2026 12:55 AM | Plainfield City, Union | None | 400 west 4th st | Killed: Driver (1)

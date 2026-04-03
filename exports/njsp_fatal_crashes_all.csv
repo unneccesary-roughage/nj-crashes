@@ -70,6 +70,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14420,2026-02-11,08:07:00,09,Hudson,0907,Kearny Town,,Kearny Ave,1,0,0,1,0,2026-02-19 15:23:13
 2026,14428,2026-02-10,20:19:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15,1,0,0,1,0,2026-02-24 16:33:54
 2026,14418,2026-02-09,14:41:00,01,Atlantic,0102,Atlantic City,,Winchester Ave,1,0,0,1,0,2026-02-19 15:23:13
+2026,14499,2026-02-09,00:55:00,20,Union,2012,Plainfield City,,400 west 4th st,1,1,0,0,0,2026-04-03 15:37:05
 2026,14408,2026-02-07,16:28:00,21,Warren,2111,Hope Twsp,519,County 519 MP 46,1,1,0,0,0,2026-02-21 15:45:34
 2026,14406,2026-02-07,02:02:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-02-19 15:23:13
 2026,14404,2026-02-06,14:07:00,15,Ocean,1511,Jackson Twsp,571,County 571,1,1,0,0,0,2026-02-19 15:23:13
