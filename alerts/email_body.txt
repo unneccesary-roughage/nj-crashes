@@ -1,10 +1,7 @@
-RUNDATE: Sun Apr 05 10:00:02 EDT 2026
+RUNDATE: Mon Apr 06 10:00:03 EDT 2026
 
 New crashes: 1
-Updated crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14500 | 04/04/2026 12:44 PM | Newark City, Essex | None | Bergen St | Killed: Pedestrian (1)
-
-UPDATED:
-  - ACCID 14499 | 02/09/2026 12:55 AM | Plainfield City, Union | None | West 4th St | Killed: Driver (1)
+  - ACCID 14501 | 04/05/2026 3:57 PM | Quinton Twsp, Salem | 647 | County 647 MP .8 | Killed: Driver (1)
