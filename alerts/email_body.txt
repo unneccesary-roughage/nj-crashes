@@ -1,10 +1,9 @@
-RUNDATE: Tue Apr 07 10:00:01 EDT 2026
+RUNDATE: Thu Apr 09 10:00:01 EDT 2026
 
-New crashes: 4
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14504 | 04/01/2026 12:22 PM | Haddon Twsp, Camden | None | E. Cuthbert Blvd | Killed: Pedalcyclist (1)
-  - ACCID 14503 | 03/26/2026 2:33 PM | Gloucester Twsp, Camden | 673 | County 673 | Killed: Driver (1)
-  - ACCID 14506 | 03/17/2026 3:29 PM | Garfield City, Bergen | None | Jewell St | Killed: Pedestrian (1)
-  - ACCID 14502 | 03/13/2026 6:46 AM | Phillipsburg To, Warren | 22 | State Highway 22 | Killed: Pedestrian (1)
+  - ACCID 14509 | 04/08/2026 7:52 AM | Lacey Twsp, Ocean | None | Haines St | Killed: Driver (1)
+  - ACCID 14508 | 04/07/2026 10:56 PM | Manalapan Twsp, Monmouth | 9 | State Highway 9 | Killed: Pedestrian (1)
+  - ACCID 14507 | 04/04/2026 10:42 AM | Roxbury Twsp, Morris | None | 275 Route 10 | Killed: Pedestrian (1)
