@@ -1,9 +1,14 @@
-RUNDATE: Thu Apr 09 10:00:01 EDT 2026
+RUNDATE: Fri Apr 10 10:00:05 EDT 2026
 
-New crashes: 3
-Updated crashes: 0
+New crashes: 1
+Updated crashes: 5
 
 NEW:
-  - ACCID 14509 | 04/08/2026 7:52 AM | Lacey Twsp, Ocean | None | Haines St | Killed: Driver (1)
-  - ACCID 14508 | 04/07/2026 10:56 PM | Manalapan Twsp, Monmouth | 9 | State Highway 9 | Killed: Pedestrian (1)
-  - ACCID 14507 | 04/04/2026 10:42 AM | Roxbury Twsp, Morris | None | 275 Route 10 | Killed: Pedestrian (1)
+  - ACCID 14510 | 04/09/2026 8:08 AM | Wharton Boro, Morris | 80 | Interstate 80 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14433 | 02/28/2026 12:47 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 40.9 | Killed: Driver (1)
+  - ACCID 14385 | 01/20/2026 4:08 PM | Hamilton Twsp, Atlantic | 559 | County 559 MP 19.5 | Killed: Driver (1)
+  - ACCID 14395 | 01/20/2026 8:15 AM | Hammonton Town, Atlantic | 30 | State Highway 30 MP 32.63 | Killed: Driver (1)
+  - ACCID 14378 | 01/15/2026 7:38 PM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 48.5 | Killed: Pedestrian (1)
+  - ACCID 14360 | 01/05/2026 11:40 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 48.73 | Killed: Driver (1)
