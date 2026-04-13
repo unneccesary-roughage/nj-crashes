@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14512,2026-04-11,14:59:00,03,Burlington,0319,Mansfield Twsp,295,Interstate 295 MP 52.6,1,1,0,0,0,2026-04-13 16:09:28
 2026,14510,2026-04-09,08:08:00,14,Morris,1439,Wharton Boro,80,Interstate 80,1,1,0,0,0,2026-04-10 15:49:42
 2026,14509,2026-04-08,07:52:00,15,Ocean,1512,Lacey Twsp,,Haines St,1,1,0,0,0,2026-04-09 16:15:29
 2026,14508,2026-04-07,22:56:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9,1,0,0,1,0,2026-04-09 16:15:29
