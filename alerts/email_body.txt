@@ -1,7 +1,8 @@
-RUNDATE: Mon Apr 13 10:00:00 EDT 2026
+RUNDATE: Tue Apr 14 10:00:03 EDT 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14512 | 04/11/2026 2:59 PM | Mansfield Twsp, Burlington | 295 | Interstate 295 MP 52.6 | Killed: Driver (1)
+  - ACCID 14514 | 04/13/2026 9:31 AM | Cranbury Twsp, Middlesex | 130 | State Highway 130 MP 72.07 | Killed: Driver (1)
+  - ACCID 14513 | 04/12/2026 4:11 AM | Hamilton Twsp, Mercer | 130 | State Highway 130 | Killed: Passenger (1)
