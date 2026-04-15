@@ -2,7 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14514,2026-04-13,09:31:00,12,Middlesex,1202,Cranbury Twsp,130,State Highway 130 MP 72.07,1,1,0,0,0,2026-04-14 16:09:04
 2026,14513,2026-04-12,04:11:00,11,Mercer,1103,Hamilton Twsp,130,State Highway 130,1,0,1,0,0,2026-04-14 16:09:04
 2026,14512,2026-04-11,14:59:00,03,Burlington,0319,Mansfield Twsp,295,Interstate 295 MP 52.6,1,1,0,0,0,2026-04-13 16:09:28
-2026,14510,2026-04-09,08:08:00,14,Morris,1439,Wharton Boro,80,Interstate 80,1,1,0,0,0,2026-04-10 15:49:42
+2026,14510,2026-04-09,08:08:00,14,Morris,1439,Wharton Boro,80,Interstate 80 MP 34.5,1,1,0,0,0,2026-04-15 16:02:30
 2026,14509,2026-04-08,07:52:00,15,Ocean,1512,Lacey Twsp,,Haines St,1,1,0,0,0,2026-04-09 16:15:29
 2026,14508,2026-04-07,22:56:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9,1,0,0,1,0,2026-04-09 16:15:29
 2026,14501,2026-04-05,15:57:00,17,Salem,1711,Quinton Twsp,647,County 647 MP .8,1,1,0,0,0,2026-04-06 15:42:19
@@ -16,7 +16,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14492,2026-03-30,20:27:00,08,Gloucester,0802,Deptford Twsp,47,State Highway 47,1,0,0,0,1,2026-03-31 16:03:49
 2026,14488,2026-03-29,07:29:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-03-30 16:07:06
 2026,14484,2026-03-29,02:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 56.4,1,1,0,0,0,2026-03-30 16:07:06
-2026,14487,2026-03-28,06:12:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,1,0,0,0,2026-03-30 16:07:06
+2026,14487,2026-03-28,06:12:00,13,Monmouth,1331,Middletown Twsp,444,Garden State Parkway,1,1,0,0,0,2026-04-15 16:02:30
 2026,14489,2026-03-28,00:29:00,11,Mercer,1111,Trenton,33,State Highway 33,1,0,0,1,0,2026-03-30 16:07:06
 2026,14486,2026-03-27,20:42:00,07,Essex,0712,Millburn Twsp,649,County 649,1,0,0,1,0,2026-03-30 16:07:06
 2026,14485,2026-03-27,07:18:00,13,Monmouth,1311,Eatontown Boro,35,State Highway 35,1,0,0,1,0,2026-03-30 16:07:06

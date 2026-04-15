@@ -1,8 +1,8 @@
-RUNDATE: Tue Apr 14 10:00:03 EDT 2026
+RUNDATE: Wed Apr 15 10:00:02 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 2
 
-NEW:
-  - ACCID 14514 | 04/13/2026 9:31 AM | Cranbury Twsp, Middlesex | 130 | State Highway 130 MP 72.07 | Killed: Driver (1)
-  - ACCID 14513 | 04/12/2026 4:11 AM | Hamilton Twsp, Mercer | 130 | State Highway 130 | Killed: Passenger (1)
+UPDATED:
+  - ACCID 14510 | 04/09/2026 8:08 AM | Wharton Boro, Morris | 80 | Interstate 80 MP 34.5 | Killed: Driver (1)
+  - ACCID 14487 | 03/28/2026 6:12 AM | Middletown Twsp, Monmouth | 444 | Garden State Parkway | Killed: Driver (1)
