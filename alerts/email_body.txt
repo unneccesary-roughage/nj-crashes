@@ -1,8 +1,8 @@
-RUNDATE: Wed Apr 15 10:00:02 EDT 2026
+RUNDATE: Thu Apr 16 10:00:03 EDT 2026
 
-New crashes: 0
-Updated crashes: 2
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14510 | 04/09/2026 8:08 AM | Wharton Boro, Morris | 80 | Interstate 80 MP 34.5 | Killed: Driver (1)
-  - ACCID 14487 | 03/28/2026 6:12 AM | Middletown Twsp, Monmouth | 444 | Garden State Parkway | Killed: Driver (1)
+NEW:
+  - ACCID 14515 | 04/15/2026 7:04 PM | South Brunswick Tws, Middlesex | None | New Road | Killed: Driver (1)
+  - ACCID 14516 | 04/11/2026 3:33 PM | Gloucester City, Camden | None | WALT WHITMAN BRIDGE | Killed: Driver (1)
