@@ -1,8 +1,11 @@
-RUNDATE: Thu Apr 16 10:00:03 EDT 2026
+RUNDATE: Fri Apr 17 10:00:01 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 1
+Updated crashes: 2
 
 NEW:
-  - ACCID 14515 | 04/15/2026 7:04 PM | South Brunswick Tws, Middlesex | None | New Road | Killed: Driver (1)
-  - ACCID 14516 | 04/11/2026 3:33 PM | Gloucester City, Camden | None | WALT WHITMAN BRIDGE | Killed: Driver (1)
+  - ACCID 14517 | 04/12/2026 3:16 AM | Trenton, Mercer | 1 | State Highway 1 | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14515 | 04/15/2026 7:04 PM | South Brunswick Tws, Middlesex | None | New Rd | Killed: Driver (1)
+  - ACCID 14516 | 04/11/2026 3:33 PM | Gloucester City, Camden | 76 | Interstate 76 | Killed: Driver (1)

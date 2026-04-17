@@ -1,8 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14515,2026-04-15,19:04:00,12,Middlesex,1221,South Brunswick Tws,,New Road,1,1,0,0,0,2026-04-16 16:19:45
+2026,14515,2026-04-15,19:04:00,12,Middlesex,1221,South Brunswick Tws,,New Rd,1,1,0,0,0,2026-04-17 15:57:32
 2026,14514,2026-04-13,09:31:00,12,Middlesex,1202,Cranbury Twsp,130,State Highway 130 MP 72.07,1,1,0,0,0,2026-04-14 16:09:04
 2026,14513,2026-04-12,04:11:00,11,Mercer,1103,Hamilton Twsp,130,State Highway 130,1,0,1,0,0,2026-04-14 16:09:04
-2026,14516,2026-04-11,15:33:00,04,Camden,0414,Gloucester City,,WALT WHITMAN BRIDGE,1,1,0,0,0,2026-04-16 16:19:45
+2026,14517,2026-04-12,03:16:00,11,Mercer,1111,Trenton,1,State Highway 1,1,0,0,1,0,2026-04-17 15:57:32
+2026,14516,2026-04-11,15:33:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-04-17 15:57:32
 2026,14512,2026-04-11,14:59:00,03,Burlington,0319,Mansfield Twsp,295,Interstate 295 MP 52.6,1,1,0,0,0,2026-04-13 16:09:28
 2026,14510,2026-04-09,08:08:00,14,Morris,1439,Wharton Boro,80,Interstate 80 MP 34.5,1,1,0,0,0,2026-04-15 16:02:30
 2026,14509,2026-04-08,07:52:00,15,Ocean,1512,Lacey Twsp,,Haines St,1,1,0,0,0,2026-04-09 16:15:29
