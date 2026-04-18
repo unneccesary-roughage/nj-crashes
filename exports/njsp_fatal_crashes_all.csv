@@ -1,4 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14520,2026-04-17,01:05:00,17,Salem,1709,Pilesgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-04-18 15:34:17
+2026,14518,2026-04-16,23:24:00,06,Cumberland,0601,Bridgeton City,77,State Highway 77,1,1,0,0,0,2026-04-18 15:34:17
+2026,14519,2026-04-16,12:37:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295,1,1,0,0,0,2026-04-18 15:34:17
 2026,14515,2026-04-15,19:04:00,12,Middlesex,1221,South Brunswick Tws,,New Rd,1,1,0,0,0,2026-04-17 15:57:32
 2026,14514,2026-04-13,09:31:00,12,Middlesex,1202,Cranbury Twsp,130,State Highway 130 MP 72.07,1,1,0,0,0,2026-04-14 16:09:04
 2026,14513,2026-04-12,04:11:00,11,Mercer,1103,Hamilton Twsp,130,State Highway 130,1,0,1,0,0,2026-04-14 16:09:04
@@ -31,6 +34,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14472,2026-03-22,23:14:00,02,Bergen,0266,Washington Twsp,444,Garden State Parkway,1,1,0,0,0,2026-03-23 15:57:29
 2026,14473,2026-03-22,22:09:00,11,Mercer,1102,Ewing Twsp,622,County 622 MP 4.81,1,0,0,1,0,2026-03-24 16:03:52
 2026,14471,2026-03-22,04:18:00,14,Morris,1424,Morristown Town,287,Interstate 287,1,1,0,0,0,2026-03-23 15:57:29
+2026,14521,2026-03-21,17:14:00,09,Hudson,0912,West New York Town,,Kennedy Blvd,1,0,0,1,0,2026-04-18 15:34:17
 2026,14476,2026-03-20,14:21:00,18,Somerset,1813,Montgomery Twsp,,East Mountain Rd,1,1,0,0,0,2026-03-26 16:09:42
 2026,14470,2026-03-20,12:27:00,14,Morris,1427,Mount Olive Twsp,80,Interstate 80 MP 25.4,1,1,0,0,0,2026-03-22 01:37:08
 2026,14494,2026-03-20,06:54:00,14,Morris,1424,Morristown Town,,Speedwell Pl,1,0,0,1,0,2026-04-02 15:57:59
