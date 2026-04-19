@@ -1,10 +1,8 @@
-RUNDATE: Sat Apr 18 10:00:01 EDT 2026
+RUNDATE: Sun Apr 19 10:00:01 EDT 2026
 
-New crashes: 4
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14520 | 04/17/2026 1:05 AM | Pilesgrove Twsp, Salem | 40 | State Highway 40 | Killed: Driver (1)
-  - ACCID 14518 | 04/16/2026 11:24 PM | Bridgeton City, Cumberland | 77 | State Highway 77 | Killed: Driver (1)
-  - ACCID 14519 | 04/16/2026 12:37 PM | Mount Laurel Twsp, Burlington | 295 | Interstate 295 | Killed: Driver (1)
-  - ACCID 14521 | 03/21/2026 5:14 PM | West New York Town, Hudson | None | Kennedy Blvd | Killed: Pedestrian (1)
+  - ACCID 14523 | 04/19/2026 2:02 AM | South Brunswick Tws, Middlesex | 1 | State Highway 1 MP 14.56 | Killed: Pedestrian (1)
+  - ACCID 14522 | 04/18/2026 9:20 PM | Lebanon Twsp, Hunterdon | 513 | County 513 MP 21.1 | Killed: Driver (1)
