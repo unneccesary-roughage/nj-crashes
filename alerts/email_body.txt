@@ -1,8 +1,9 @@
-RUNDATE: Sun Apr 19 10:00:01 EDT 2026
+RUNDATE: Mon Apr 20 10:00:03 EDT 2026
 
-New crashes: 2
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14523 | 04/19/2026 2:02 AM | South Brunswick Tws, Middlesex | 1 | State Highway 1 MP 14.56 | Killed: Pedestrian (1)
-  - ACCID 14522 | 04/18/2026 9:20 PM | Lebanon Twsp, Hunterdon | 513 | County 513 MP 21.1 | Killed: Driver (1)
+  - ACCID 14524 | 04/17/2026 4:02 PM | Monroe Twsp, Gloucester | None | 1056 S. Black Horse Pike | Killed: Driver (1)
+  - ACCID 14529 | 04/16/2026 11:25 AM | Northvale Boro, Bergen | None | Clinton Ave | Killed: Pedestrian (1)
+  - ACCID 14530 | 04/14/2026 11:56 AM | Hampton Twsp, Sussex | 626 | County 626 | Killed: Driver (1)
