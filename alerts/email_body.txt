@@ -1,9 +1,7 @@
-RUNDATE: Mon Apr 20 10:00:03 EDT 2026
+RUNDATE: Tue Apr 21 10:00:00 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14524 | 04/17/2026 4:02 PM | Monroe Twsp, Gloucester | None | 1056 S. Black Horse Pike | Killed: Driver (1)
-  - ACCID 14529 | 04/16/2026 11:25 AM | Northvale Boro, Bergen | None | Clinton Ave | Killed: Pedestrian (1)
-  - ACCID 14530 | 04/14/2026 11:56 AM | Hampton Twsp, Sussex | 626 | County 626 | Killed: Driver (1)
+  - ACCID 14534 | 04/12/2026 7:25 PM | Vineland City, Cumberland | 47 | State Highway 47 | Killed: Passenger (1)
