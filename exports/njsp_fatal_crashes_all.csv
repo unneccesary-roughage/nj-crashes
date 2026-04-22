@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-04-22 16:06:43
 2026,14523,2026-04-19,02:02:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 14.56,1,0,0,1,0,2026-04-19 15:34:41
 2026,14522,2026-04-18,21:20:00,10,Hunterdon,1019,Lebanon Twsp,513,County 513 MP 21.1,1,1,0,0,0,2026-04-19 15:34:41
 2026,14524,2026-04-17,16:02:00,08,Gloucester,0811,Monroe Twsp,,1056 S. Black Horse Pike,1,1,0,0,0,2026-04-20 16:05:36
@@ -44,7 +45,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14476,2026-03-20,14:21:00,18,Somerset,1813,Montgomery Twsp,,East Mountain Rd,1,1,0,0,0,2026-03-26 16:09:42
 2026,14470,2026-03-20,12:27:00,14,Morris,1427,Mount Olive Twsp,80,Interstate 80 MP 25.4,1,1,0,0,0,2026-03-22 01:37:08
 2026,14494,2026-03-20,06:54:00,14,Morris,1424,Morristown Town,,Speedwell Pl,1,0,0,1,0,2026-04-02 15:57:59
-2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.55,1,1,0,0,0,2026-03-22 01:37:08
+2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.56,1,1,0,0,0,2026-04-22 16:06:43
 2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
 2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
 2026,14477,2026-03-19,08:05:00,07,Essex,0714,Newark City,,Elizabeth Ave,1,0,0,1,0,2026-03-27 15:50:09
