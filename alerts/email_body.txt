@@ -1,10 +1,7 @@
-RUNDATE: Wed Apr 22 10:00:05 EDT 2026
+RUNDATE: Thu Apr 23 10:00:05 EDT 2026
 
 New crashes: 1
-Updated crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14536 | 04/21/2026 8:14 PM | Moorestown Twsp, Burlington | None | Nixon Dr | Killed: Pedestrian (1)
-
-UPDATED:
-  - ACCID 14468 | 03/20/2026 4:38 AM | Evesham Twsp, Burlington | 73 | State Highway 73 MP 25.56 | Killed: Driver (1)
+  - ACCID 14537 | 04/21/2026 11:45 PM | Elizabeth City, Union | None | Elizabeth Ave | Killed: Driver (1)
