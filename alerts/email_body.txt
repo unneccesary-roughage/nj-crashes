@@ -1,7 +1,7 @@
-RUNDATE: Thu Apr 23 10:00:05 EDT 2026
+RUNDATE: Fri Apr 24 10:00:00 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14537 | 04/21/2026 11:45 PM | Elizabeth City, Union | None | Elizabeth Ave | Killed: Driver (1)
+  - ACCID 14538 | 04/19/2026 6:21 AM | Old Bridge Twsp, Middlesex | None | Cheesequake Rd | Killed: Driver (1)
