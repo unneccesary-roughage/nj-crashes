@@ -1,9 +1,11 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
 2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-04-22 16:06:43
 2026,14538,2026-04-19,06:21:00,12,Middlesex,1209,Old Bridge Twsp,,Cheesequake Rd,1,1,0,0,0,2026-04-24 16:02:30
 2026,14523,2026-04-19,02:02:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 14.56,1,0,0,1,0,2026-04-19 15:34:41
 2026,14522,2026-04-18,21:20:00,10,Hunterdon,1019,Lebanon Twsp,513,County 513 MP 21.1,1,1,0,0,0,2026-04-19 15:34:41
+2026,14540,2026-04-18,18:03:00,07,Essex,0706,East Orange City,508,County 508,1,1,0,0,0,2026-04-25 15:36:42
 2026,14520,2026-04-17,01:05:00,17,Salem,1709,Pilesgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-04-18 15:34:17
 2026,14518,2026-04-16,23:24:00,06,Cumberland,0601,Bridgeton City,77,State Highway 77,1,1,0,0,0,2026-04-18 15:34:17
 2026,14519,2026-04-16,12:37:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295,1,1,0,0,0,2026-04-18 15:34:17
@@ -15,7 +17,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14513,2026-04-12,04:11:00,11,Mercer,1103,Hamilton Twsp,130,State Highway 130,1,0,1,0,0,2026-04-14 16:09:04
 2026,14517,2026-04-12,03:16:00,11,Mercer,1111,Trenton,1,State Highway 1,1,0,0,1,0,2026-04-17 15:57:32
 2026,14516,2026-04-11,15:33:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-04-17 15:57:32
-2026,14512,2026-04-11,14:59:00,03,Burlington,0319,Mansfield Twsp,295,Interstate 295 MP 52.6,1,1,0,0,0,2026-04-13 16:09:28
+2026,14512,2026-04-11,14:59:00,03,Burlington,0319,Mansfield Twsp,295,Interstate 295 MP 52.6,1,1,0,0,0,2026-04-25 15:36:42
 2026,14510,2026-04-09,08:08:00,14,Morris,1439,Wharton Boro,80,Interstate 80 MP 34.5,1,1,0,0,0,2026-04-15 16:02:30
 2026,14509,2026-04-08,07:52:00,15,Ocean,1512,Lacey Twsp,,Haines St,1,1,0,0,0,2026-04-09 16:15:29
 2026,14508,2026-04-07,22:56:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9,1,0,0,1,0,2026-04-09 16:15:29
@@ -35,7 +37,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14485,2026-03-27,07:18:00,13,Monmouth,1311,Eatontown Boro,35,State Highway 35,1,0,0,1,0,2026-03-30 16:07:06
 2026,14483,2026-03-27,06:45:00,12,Middlesex,1221,South Brunswick Tws,130,State Highway 130 MP 73.93,1,1,0,0,0,2026-03-28 15:27:51
 2026,14490,2026-03-27,05:45:00,04,Camden,0435,Waterford Twsp,30,State Highway 30,1,0,0,1,0,2026-03-31 16:03:49
-2026,14480,2026-03-26,15:44:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519,1,1,0,0,0,2026-03-27 15:50:09
+2026,14480,2026-03-26,15:44:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519 MP 6.39,1,1,0,0,0,2026-04-25 15:36:42
 2026,14503,2026-03-26,14:33:00,04,Camden,0415,Gloucester Twsp,673,County 673,1,1,0,0,0,2026-04-07 16:08:00
 2026,14479,2026-03-26,13:25:00,20,Union,2019,Union Twsp,630,County 630 MP 2.65,1,0,0,1,0,2026-03-27 15:50:09
 2026,14481,2026-03-26,09:51:00,03,Burlington,0317,Willingboro Twsp,626,County 626,1,1,0,0,0,2026-03-27 15:50:09

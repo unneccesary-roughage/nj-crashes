@@ -1,7 +1,12 @@
-RUNDATE: Fri Apr 24 10:00:00 EDT 2026
+RUNDATE: Sat Apr 25 10:00:03 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 2
 
 NEW:
-  - ACCID 14538 | 04/19/2026 6:21 AM | Old Bridge Twsp, Middlesex | None | Cheesequake Rd | Killed: Driver (1)
+  - ACCID 14539 | 04/24/2026 6:31 AM | Plainfield City, Union | 601 | County 601 | Killed: Pedestrian (1)
+  - ACCID 14540 | 04/18/2026 6:03 PM | East Orange City, Essex | 508 | County 508 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14512 | 04/11/2026 2:59 PM | Mansfield Twsp, Burlington | 295 | Interstate 295 MP 52.6 | Killed: Driver (1)
+  - ACCID 14480 | 03/26/2026 3:44 PM | Kingwood Twsp, Hunterdon | 519 | County 519 MP 6.39 | Killed: Driver (1)
