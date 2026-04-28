@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295,1,0,1,0,0,2026-04-27 16:24:03
+2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
+2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
+2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
 2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-04-22 16:06:43
@@ -7,6 +9,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14523,2026-04-19,02:02:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 14.56,1,0,0,1,0,2026-04-19 15:34:41
 2026,14522,2026-04-18,21:20:00,10,Hunterdon,1019,Lebanon Twsp,513,County 513 MP 21.1,1,1,0,0,0,2026-04-19 15:34:41
 2026,14540,2026-04-18,18:03:00,07,Essex,0706,East Orange City,508,County 508,1,1,0,0,0,2026-04-25 15:36:42
+2026,14543,2026-04-18,07:07:00,07,Essex,0712,Millburn Twsp,510,County 510,1,0,0,1,0,2026-04-28 16:49:04
 2026,14520,2026-04-17,01:05:00,17,Salem,1709,Pilesgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-04-18 15:34:17
 2026,14518,2026-04-16,23:24:00,06,Cumberland,0601,Bridgeton City,77,State Highway 77,1,1,0,0,0,2026-04-18 15:34:17
 2026,14519,2026-04-16,12:37:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295,1,1,0,0,0,2026-04-18 15:34:17
