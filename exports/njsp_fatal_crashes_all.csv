@@ -1,6 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
 2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
+2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
 2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
@@ -44,7 +45,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14480,2026-03-26,15:44:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519 MP 6.39,1,1,0,0,0,2026-04-25 15:36:42
 2026,14503,2026-03-26,14:33:00,04,Camden,0415,Gloucester Twsp,673,County 673,1,1,0,0,0,2026-04-07 16:08:00
 2026,14479,2026-03-26,13:25:00,20,Union,2019,Union Twsp,630,County 630 MP 2.65,1,0,0,1,0,2026-03-27 15:50:09
-2026,14481,2026-03-26,09:51:00,03,Burlington,0317,Willingboro Twsp,626,County 626,1,1,0,0,0,2026-03-27 15:50:09
+2026,14481,2026-03-26,09:51:00,03,Burlington,0317,Willingboro Twsp,626,County 626 MP 2.26,1,1,0,0,0,2026-04-29 16:26:00
 2026,14472,2026-03-22,23:14:00,02,Bergen,0266,Washington Twsp,444,Garden State Parkway,1,1,0,0,0,2026-03-23 15:57:29
 2026,14473,2026-03-22,22:09:00,11,Mercer,1102,Ewing Twsp,622,County 622 MP 4.81,1,0,0,1,0,2026-03-24 16:03:52
 2026,14471,2026-03-22,04:18:00,14,Morris,1424,Morristown Town,287,Interstate 287,1,1,0,0,0,2026-03-23 15:57:29

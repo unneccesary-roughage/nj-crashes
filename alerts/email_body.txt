@@ -1,12 +1,10 @@
-RUNDATE: Tue Apr 28 10:00:03 EDT 2026
+RUNDATE: Wed Apr 29 10:00:01 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 1
 
 NEW:
-  - ACCID 14544 | 04/27/2026 2:14 PM | Newark City, Essex | None | Irvington Ave | Killed: Pedestrian (1)
-  - ACCID 14542 | 04/27/2026 11:00 AM | South River Boro, Middlesex | 535 | County 535 (Spur (County Routes Only)) | Killed: Driver (1)
-  - ACCID 14543 | 04/18/2026 7:07 AM | Millburn Twsp, Essex | 510 | County 510 | Killed: Pedestrian (1)
+  - ACCID 14545 | 04/26/2026 12:01 PM | Princeton, Mercer | None | Terhune Road | Killed: Pedalcyclist (1)
 
 UPDATED:
-  - ACCID 14541 | 04/24/2026 3:31 PM | Hamilton Twsp, Mercer | 295 | Interstate 295 MP 64.7 | Killed: Passenger (1)
+  - ACCID 14481 | 03/26/2026 9:51 AM | Willingboro Twsp, Burlington | 626 | County 626 MP 2.26 | Killed: Driver (1)
