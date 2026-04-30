@@ -2,6 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
 2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
 2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
+2026,14548,2026-04-25,11:30:00,09,Hudson,0909,Secaucus Town,681,County 681,1,1,0,0,0,2026-04-30 16:16:23
 2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37

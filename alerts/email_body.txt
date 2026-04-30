@@ -1,10 +1,7 @@
-RUNDATE: Wed Apr 29 10:00:01 EDT 2026
+RUNDATE: Thu Apr 30 10:00:05 EDT 2026
 
 New crashes: 1
-Updated crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14545 | 04/26/2026 12:01 PM | Princeton, Mercer | None | Terhune Road | Killed: Pedalcyclist (1)
-
-UPDATED:
-  - ACCID 14481 | 03/26/2026 9:51 AM | Willingboro Twsp, Burlington | 626 | County 626 MP 2.26 | Killed: Driver (1)
+  - ACCID 14548 | 04/25/2026 11:30 AM | Secaucus Town, Hudson | 681 | County 681 | Killed: Driver (1)
