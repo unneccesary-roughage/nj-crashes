@@ -1,7 +1,9 @@
-RUNDATE: Thu Apr 30 10:00:05 EDT 2026
+RUNDATE: Fri May 01 10:00:02 EDT 2026
 
-New crashes: 1
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14548 | 04/25/2026 11:30 AM | Secaucus Town, Hudson | 681 | County 681 | Killed: Driver (1)
+  - ACCID 14550 | 04/30/2026 1:55 PM | Jackson Twsp, Ocean | 54 | County 54 | Killed: Driver (1)
+  - ACCID 14551 | 04/30/2026 11:19 AM | Ridgefield Park Tws, Bergen | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14549 | 04/29/2026 3:03 PM | Hazlet Boro, Monmouth | 35 | State Highway 35 | Killed: Driver (1)
