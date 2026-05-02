@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,,Clifton Avenue,1,1,0,0,0,2026-05-02 15:42:02
+2026,14552,2026-04-30,23:05:00,11,Mercer,1107,Lawrence Twsp,1,State Highway 1,1,1,0,0,0,2026-05-02 15:42:02
 2026,14550,2026-04-30,13:55:00,15,Ocean,1511,Jackson Twsp,54,County 54,1,1,0,0,0,2026-05-01 15:54:07
 2026,14551,2026-04-30,11:19:00,02,Bergen,0250,Ridgefield Park Tws,95,New Jersey Turnpike,1,1,0,0,0,2026-05-01 15:54:07
 2026,14549,2026-04-29,15:03:00,13,Monmouth,1339,Hazlet Boro,35,State Highway 35,1,1,0,0,0,2026-05-01 15:54:07

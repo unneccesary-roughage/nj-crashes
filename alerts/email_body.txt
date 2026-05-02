@@ -1,9 +1,8 @@
-RUNDATE: Fri May 01 10:00:02 EDT 2026
+RUNDATE: Sat May 02 10:00:02 EDT 2026
 
-New crashes: 3
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14550 | 04/30/2026 1:55 PM | Jackson Twsp, Ocean | 54 | County 54 | Killed: Driver (1)
-  - ACCID 14551 | 04/30/2026 11:19 AM | Ridgefield Park Tws, Bergen | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14549 | 04/29/2026 3:03 PM | Hazlet Boro, Monmouth | 35 | State Highway 35 | Killed: Driver (1)
+  - ACCID 14553 | 05/01/2026 9:58 PM | Clifton City, Passaic | None | Clifton Avenue | Killed: Driver (1)
+  - ACCID 14552 | 04/30/2026 11:05 PM | Lawrence Twsp, Mercer | 1 | State Highway 1 | Killed: Driver (1)
