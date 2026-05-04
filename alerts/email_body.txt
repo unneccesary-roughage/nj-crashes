@@ -1,8 +1,11 @@
-RUNDATE: Sat May 02 10:00:02 EDT 2026
+RUNDATE: Mon May 04 10:00:05 EDT 2026
 
 New crashes: 2
-Updated crashes: 0
+Updated crashes: 1
 
 NEW:
-  - ACCID 14553 | 05/01/2026 9:58 PM | Clifton City, Passaic | None | Clifton Avenue | Killed: Driver (1)
-  - ACCID 14552 | 04/30/2026 11:05 PM | Lawrence Twsp, Mercer | 1 | State Highway 1 | Killed: Driver (1)
+  - ACCID 14555 | 05/02/2026 12:57 PM | Passaic City, Passaic | None | Main Ave | Killed: Driver (1)
+  - ACCID 14554 | 05/01/2026 9:25 PM | Jersey City, Hudson | None | Pacific Ave | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14553 | 05/01/2026 9:58 PM | Clifton City, Passaic | 611 | County 611 | Killed: Driver (1)
