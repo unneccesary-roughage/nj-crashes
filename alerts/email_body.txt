@@ -1,8 +1,9 @@
-RUNDATE: Tue May 05 10:00:04 EDT 2026
+RUNDATE: Wed May 06 10:00:05 EDT 2026
 
-New crashes: 2
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14556 | 05/04/2026 9:26 PM | Mount Olive Twsp, Morris | 206 | State Highway 206 MP 92.6 | Killed: Driver (1)
-  - ACCID 14557 | 05/01/2026 8:46 PM | Long Branch City, Monmouth | None | Broadway | Killed: Pedestrian (1)
+  - ACCID 14560 | 05/04/2026 3:09 PM | Woodland Park Boro, Passaic | 639 | County 639 | Killed: Pedestrian (1)
+  - ACCID 14558 | 05/03/2026 8:30 PM | Mount Laurel Twsp, Burlington | 607 | County 607 | Killed: Pedestrian (1)
+  - ACCID 14559 | 04/21/2026 5:46 PM | Fairfield Twsp, Cumberland | 553 | County 553 | Killed: Driver (1)

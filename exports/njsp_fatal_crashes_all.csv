@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14556,2026-05-04,21:26:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206 MP 92.6,1,1,0,0,0,2026-05-05 16:21:42
+2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,639,County 639,1,0,0,1,0,2026-05-06 16:24:26
+2026,14558,2026-05-03,20:30:00,03,Burlington,0325,Mount Laurel Twsp,607,County 607,1,0,0,1,0,2026-05-06 16:24:26
 2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,,Main Ave,1,1,0,0,0,2026-05-04 16:28:48
 2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611,1,1,0,0,0,2026-05-04 16:28:48
 2026,14554,2026-05-01,21:25:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-05-04 16:28:48
@@ -16,6 +18,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
 2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-04-22 16:06:43
+2026,14559,2026-04-21,17:46:00,06,Cumberland,0605,Fairfield Twsp,553,County 553,1,1,0,0,0,2026-05-06 16:24:26
 2026,14538,2026-04-19,06:21:00,12,Middlesex,1209,Old Bridge Twsp,,Cheesequake Rd,1,1,0,0,0,2026-04-24 16:02:30
 2026,14523,2026-04-19,02:02:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 14.56,1,0,0,1,0,2026-04-19 15:34:41
 2026,14522,2026-04-18,21:20:00,10,Hunterdon,1019,Lebanon Twsp,513,County 513 MP 21.1,1,1,0,0,0,2026-04-19 15:34:41
