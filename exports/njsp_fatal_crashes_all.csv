@@ -2,6 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14556,2026-05-04,21:26:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206 MP 92.6,1,1,0,0,0,2026-05-05 16:21:42
 2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,639,County 639,1,0,0,1,0,2026-05-06 16:24:26
 2026,14558,2026-05-03,20:30:00,03,Burlington,0325,Mount Laurel Twsp,607,County 607,1,0,0,1,0,2026-05-06 16:24:26
+2026,14561,2026-05-03,04:13:00,16,Passaic,1613,Wanaque Boro,511,County 511,1,0,0,1,0,2026-05-07 16:46:49
 2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,,Main Ave,1,1,0,0,0,2026-05-04 16:28:48
 2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611,1,1,0,0,0,2026-05-04 16:28:48
 2026,14554,2026-05-01,21:25:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-05-04 16:28:48
@@ -148,7 +149,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-02-19 15:23:13
 2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645,1,0,0,1,0,2026-02-19 15:23:13
 2026,14367,2026-01-09,20:29:00,20,Union,2019,Union Twsp,22,State Highway 22,1,0,0,1,0,2026-02-19 15:23:13
-2026,14380,2026-01-08,15:33:00,09,Hudson,0904,Harrison Town,507,County 507,1,0,0,1,0,2026-02-19 15:23:13
 2026,14365,2026-01-07,21:20:00,15,Ocean,1506,Brick Twsp,66,County 66 MP .82,1,1,0,0,0,2026-02-19 15:23:13
 2026,14363,2026-01-07,09:37:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,0,1,0,0,2026-02-19 15:23:13
 2026,14389,2026-01-05,17:40:00,15,Ocean,1529,South Toms River Bo,166,State Highway 166,1,1,0,0,0,2026-02-19 15:23:13

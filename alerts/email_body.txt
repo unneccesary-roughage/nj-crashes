@@ -1,9 +1,7 @@
-RUNDATE: Wed May 06 10:00:05 EDT 2026
+RUNDATE: Thu May 07 10:00:02 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14560 | 05/04/2026 3:09 PM | Woodland Park Boro, Passaic | 639 | County 639 | Killed: Pedestrian (1)
-  - ACCID 14558 | 05/03/2026 8:30 PM | Mount Laurel Twsp, Burlington | 607 | County 607 | Killed: Pedestrian (1)
-  - ACCID 14559 | 04/21/2026 5:46 PM | Fairfield Twsp, Cumberland | 553 | County 553 | Killed: Driver (1)
+  - ACCID 14561 | 05/03/2026 4:13 AM | Wanaque Boro, Passaic | 511 | County 511 | Killed: Pedestrian (1)
