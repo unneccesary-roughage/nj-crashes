@@ -1,10 +1,7 @@
-RUNDATE: Fri May 08 10:00:01 EDT 2026
+RUNDATE: Sat May 09 10:00:01 EDT 2026
 
-New crashes: 4
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14564 | 05/08/2026 12:49 AM | Hackensack City, Bergen | None | Essex St | Killed: Pedestrian (1)
-  - ACCID 14562 | 05/07/2026 8:40 AM | Rockaway Twsp, Morris | 80 | Interstate 80 | Killed: Driver (1)
-  - ACCID 14563 | 05/05/2026 2:11 PM | Fort Lee Boro, Bergen | 29 | County 29 MP 2.33 | Killed: Pedestrian (1)
-  - ACCID 14380 | 01/08/2026 3:33 PM | Kearny Town, Hudson | 507 | County 507 | Killed: Pedestrian (1)
+  - ACCID 14565 | 05/07/2026 9:18 PM | Hainesport Twsp, Burlington | 38 | State Highway 38 | Killed: Driver (1)
