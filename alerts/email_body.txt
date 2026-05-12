@@ -1,7 +1,8 @@
-RUNDATE: Sat May 09 10:00:01 EDT 2026
+RUNDATE: Tue May 12 10:01:10 EDT 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14565 | 05/07/2026 9:18 PM | Hainesport Twsp, Burlington | 38 | State Highway 38 | Killed: Driver (1)
+  - ACCID 14566 | 05/10/2026 8:14 AM | Hillside Twsp, Union | 439 | State Highway 439 | Killed: Driver (1)
+  - ACCID 14567 | 04/24/2026 9:18 PM | Pleasantville City, Atlantic | 322 | State Highway 322 | Killed: Pedestrian (1)

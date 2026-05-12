@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14566,2026-05-10,08:14:00,20,Union,2007,Hillside Twsp,439,State Highway 439,1,1,0,0,0,2026-05-12 17:07:33
 2026,14564,2026-05-08,00:49:00,02,Bergen,0223,Hackensack City,,Essex St,1,0,0,1,0,2026-05-08 16:11:10
 2026,14565,2026-05-07,21:18:00,03,Burlington,0316,Hainesport Twsp,38,State Highway 38,1,1,0,0,0,2026-05-09 15:47:43
 2026,14562,2026-05-07,08:40:00,14,Morris,1435,Rockaway Twsp,80,Interstate 80,1,1,0,0,0,2026-05-08 16:11:10
@@ -19,6 +20,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
 2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
 2026,14548,2026-04-25,11:30:00,09,Hudson,0909,Secaucus Town,681,County 681,1,1,0,0,0,2026-04-30 16:16:23
+2026,14567,2026-04-24,21:18:00,01,Atlantic,0119,Pleasantville City,322,State Highway 322,1,0,0,1,0,2026-05-12 17:07:33
 2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
@@ -34,7 +36,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14519,2026-04-16,12:37:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295,1,1,0,0,0,2026-04-18 15:34:17
 2026,14529,2026-04-16,11:25:00,02,Bergen,0240,Northvale Boro,,Clinton Ave,1,0,0,1,0,2026-04-20 16:05:36
 2026,14515,2026-04-15,19:04:00,12,Middlesex,1221,South Brunswick Tws,,New Rd,1,1,0,0,0,2026-04-17 15:57:32
-2026,14530,2026-04-14,11:56:00,19,Sussex,1910,Hampton Twsp,626,County 626,1,1,0,0,0,2026-04-20 16:05:36
 2026,14534,2026-04-12,19:25:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,0,1,0,0,2026-04-21 16:08:18
 2026,14513,2026-04-12,04:11:00,11,Mercer,1103,Hamilton Twsp,130,State Highway 130,1,0,1,0,0,2026-04-14 16:09:04
 2026,14517,2026-04-12,03:16:00,11,Mercer,1111,Trenton,1,State Highway 1,1,0,0,1,0,2026-04-17 15:57:32
