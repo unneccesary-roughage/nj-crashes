@@ -16,6 +16,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14550,2026-04-30,13:55:00,15,Ocean,1511,Jackson Twsp,54,County 54,1,1,0,0,0,2026-05-01 15:54:07
 2026,14551,2026-04-30,11:19:00,02,Bergen,0250,Ridgefield Park Tws,95,New Jersey Turnpike,1,1,0,0,0,2026-05-01 15:54:07
 2026,14549,2026-04-29,15:03:00,13,Monmouth,1339,Hazlet Boro,35,State Highway 35,1,1,0,0,0,2026-05-01 15:54:07
+2026,14568,2026-04-27,19:30:00,01,Atlantic,0102,Atlantic City,,Atlantic Ave,1,1,0,0,0,2026-05-13 17:14:04
 2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
 2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
 2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
