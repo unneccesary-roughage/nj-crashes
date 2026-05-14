@@ -1,7 +1,8 @@
-RUNDATE: Wed May 13 10:00:01 EDT 2026
+RUNDATE: Thu May 14 10:00:01 EDT 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14568 | 04/27/2026 7:30 PM | Atlantic City, Atlantic | None | Atlantic Ave | Killed: Driver (1)
+  - ACCID 14571 | 05/13/2026 9:24 PM | Elizabeth City, Union | None | Newark Ave | Killed: Driver (1)
+  - ACCID 14570 | 05/08/2026 3:38 PM | Greenwich Twsp, Gloucester | None | ASHTON DRIVE | Killed: Pedestrian (1)
