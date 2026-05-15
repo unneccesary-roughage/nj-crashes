@@ -1,8 +1,7 @@
-RUNDATE: Thu May 14 10:00:01 EDT 2026
+RUNDATE: Fri May 15 10:00:01 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14571 | 05/13/2026 9:24 PM | Elizabeth City, Union | None | Newark Ave | Killed: Driver (1)
-  - ACCID 14570 | 05/08/2026 3:38 PM | Greenwich Twsp, Gloucester | None | ASHTON DRIVE | Killed: Pedestrian (1)
+UPDATED:
+  - ACCID 14567 | 04/24/2026 9:18 PM | Pleasantville City, Atlantic | 40 | State Highway 40 MP 59.82 | Killed: Pedestrian (1)
