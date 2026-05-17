@@ -1,7 +1,8 @@
-RUNDATE: Fri May 15 10:00:01 EDT 2026
+RUNDATE: Sun May 17 10:00:03 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14567 | 04/24/2026 9:18 PM | Pleasantville City, Atlantic | 40 | State Highway 40 MP 59.82 | Killed: Pedestrian (1)
+NEW:
+  - ACCID 14573 | 05/17/2026 12:45 AM | Sparta Twsp, Sussex | 15 | State Highway 15 (Freeway) MP 14.13 | Killed: Driver (1)
+  - ACCID 14572 | 05/16/2026 11:28 PM | Elizabeth City, Union | None | Newark Ave | Killed: Pedestrian (1)
