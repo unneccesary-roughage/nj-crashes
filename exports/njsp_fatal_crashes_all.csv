@@ -1,6 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14573,2026-05-17,00:45:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15 (Freeway) MP 14.13,1,1,0,0,0,2026-05-17 15:56:09
-2026,14572,2026-05-16,23:28:00,20,Union,2004,Elizabeth City,,Newark Ave,1,0,0,1,0,2026-05-17 15:56:09
+2026,14574,2026-05-17,17:58:00,01,Atlantic,0107,Egg Harbor City,30,State Highway 30 MP 40.8,1,1,0,0,0,2026-05-19 17:36:29
+2026,14576,2026-05-17,05:53:00,12,Middlesex,1210,Metuchen Boro,287,Interstate 287,2,1,1,0,0,2026-05-19 17:36:29
+2026,14575,2026-05-17,03:59:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,0,1,0,0,2026-05-19 17:36:29
+2026,14573,2026-05-17,00:45:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15 MP 14.13,1,1,0,0,0,2026-05-19 17:36:29
+2026,14572,2026-05-16,23:28:00,20,Union,2004,Elizabeth City,27,State Highway 27,1,0,0,1,0,2026-05-19 17:36:29
 2026,14571,2026-05-13,21:24:00,20,Union,2004,Elizabeth City,,Newark Ave,1,1,0,0,0,2026-05-14 16:57:59
 2026,14566,2026-05-10,08:14:00,20,Union,2007,Hillside Twsp,439,State Highway 439,1,1,0,0,0,2026-05-12 17:07:33
 2026,14570,2026-05-08,15:38:00,08,Gloucester,0807,Greenwich Twsp,,ASHTON DRIVE,1,0,0,1,0,2026-05-14 16:57:59
