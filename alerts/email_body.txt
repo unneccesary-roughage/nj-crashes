@@ -1,13 +1,7 @@
-RUNDATE: Tue May 19 10:00:00 EDT 2026
+RUNDATE: Wed May 20 10:00:05 EDT 2026
 
-New crashes: 3
-Updated crashes: 2
+New crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14574 | 05/17/2026 5:58 PM | Egg Harbor City, Atlantic | 30 | State Highway 30 MP 40.8 | Killed: Driver (1)
-  - ACCID 14576 | 05/17/2026 5:53 AM | Metuchen Boro, Middlesex | 287 | Interstate 287 | Killed: Driver (1), Passenger (1)
-  - ACCID 14575 | 05/17/2026 3:59 AM | Tinton Falls Boro, Monmouth | 444 | Garden State Parkway | Killed: Passenger (1)
-
-UPDATED:
-  - ACCID 14573 | 05/17/2026 12:45 AM | Sparta Twsp, Sussex | 15 | State Highway 15 MP 14.13 | Killed: Driver (1)
-  - ACCID 14572 | 05/16/2026 11:28 PM | Elizabeth City, Union | 27 | State Highway 27 | Killed: Pedestrian (1)
+  - ACCID 14578 | 05/19/2026 6:52 AM | Brick Twsp, Ocean | 549 | County 549 | Killed: Pedalcyclist (1)

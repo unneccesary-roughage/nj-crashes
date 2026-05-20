@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14578,2026-05-19,06:52:00,15,Ocean,1506,Brick Twsp,549,County 549,1,0,0,0,1,2026-05-20 17:52:49
 2026,14574,2026-05-17,17:58:00,01,Atlantic,0107,Egg Harbor City,30,State Highway 30 MP 40.8,1,1,0,0,0,2026-05-19 17:36:29
 2026,14576,2026-05-17,05:53:00,12,Middlesex,1210,Metuchen Boro,287,Interstate 287,2,1,1,0,0,2026-05-19 17:36:29
 2026,14575,2026-05-17,03:59:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,0,1,0,0,2026-05-19 17:36:29
@@ -156,7 +157,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14379,2026-01-16,10:10:00,04,Camden,0436,Winslow Twsp,705,County 705,1,0,0,1,0,2026-02-19 15:23:13
 2026,14378,2026-01-15,19:38:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.5,1,0,0,1,0,2026-04-10 15:49:42
 2026,14393,2026-01-13,18:01:00,12,Middlesex,1205,Edison Twsp,,Oakwood Ave,1,0,0,1,0,2026-02-19 15:23:13
-2026,14377,2026-01-11,19:22:00,13,Monmouth,1325,Long Branch City,,Atlantic Ave,1,1,0,0,0,2026-02-19 15:23:13
 2026,14371,2026-01-11,11:57:00,15,Ocean,1506,Brick Twsp,,Lagoon Dr West,1,0,0,1,0,2026-02-19 15:23:13
 2026,14372,2026-01-11,06:45:00,02,Bergen,0202,Alpine Boro,445,Palisades Interstate Parkway,1,1,0,0,0,2026-02-19 15:23:13
 2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-02-19 15:23:13
