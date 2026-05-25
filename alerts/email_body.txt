@@ -1,10 +1,8 @@
-RUNDATE: Thu May 21 10:00:01 EDT 2026
+RUNDATE: Mon May 25 10:00:04 EDT 2026
 
-New crashes: 4
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14580 | 05/21/2026 2:13 AM | Camden City, Camden | 676 | Interstate 676 MP 3.3 | Killed: Pedestrian (1)
-  - ACCID 14579 | 05/13/2026 8:52 PM | Lakewood Twsp, Ocean | None | E. 4th Street | Killed: Pedalcyclist (1)
-  - ACCID 14582 | 05/10/2026 1:26 AM | Jamesburg Boro, Middlesex | 612 | County 612 | Killed: Driver (1)
-  - ACCID 14581 | 05/08/2026 3:27 AM | Perth Amboy City, Middlesex | 35 | State Highway 35 | Killed: Pedestrian (1)
+  - ACCID 14585 | 05/24/2026 12:10 AM | Westampton Twsp, Burlington | 295 | Interstate 295 | Killed: Driver (1)
+  - ACCID 14584 | 05/22/2026 8:11 PM | South Brunswick Tws, Middlesex | 95 | New Jersey Turnpike | Killed: Passenger (1)

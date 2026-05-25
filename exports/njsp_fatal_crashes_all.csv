@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14585,2026-05-24,00:10:00,03,Burlington,0338,Westampton Twsp,295,Interstate 295,1,1,0,0,0,2026-05-25 17:04:48
+2026,14584,2026-05-22,20:11:00,12,Middlesex,1221,South Brunswick Tws,95,New Jersey Turnpike,1,0,1,0,0,2026-05-25 17:04:48
 2026,14580,2026-05-21,02:13:00,04,Camden,0408,Camden City,676,Interstate 676 MP 3.3,1,0,0,1,0,2026-05-21 17:29:07
 2026,14578,2026-05-19,06:52:00,15,Ocean,1506,Brick Twsp,549,County 549,1,0,0,0,1,2026-05-20 17:52:49
 2026,14574,2026-05-17,17:58:00,01,Atlantic,0107,Egg Harbor City,30,State Highway 30 MP 40.8,1,1,0,0,0,2026-05-19 17:36:29
