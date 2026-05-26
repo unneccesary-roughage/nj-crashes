@@ -1,8 +1,7 @@
-RUNDATE: Mon May 25 10:00:04 EDT 2026
+RUNDATE: Tue May 26 10:00:05 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14585 | 05/24/2026 12:10 AM | Westampton Twsp, Burlington | 295 | Interstate 295 | Killed: Driver (1)
-  - ACCID 14584 | 05/22/2026 8:11 PM | South Brunswick Tws, Middlesex | 95 | New Jersey Turnpike | Killed: Passenger (1)
+  - ACCID 14586 | 05/25/2026 5:50 PM | Wall Twsp, Monmouth | 35 | State Highway 35 | Killed: Driver (1)
