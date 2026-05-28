@@ -16,6 +16,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14572,2026-05-16,23:28:00,20,Union,2004,Elizabeth City,27,State Highway 27,1,0,0,1,0,2026-05-19 17:36:29
 2026,14571,2026-05-13,21:24:00,20,Union,2004,Elizabeth City,,Newark Ave,1,1,0,0,0,2026-05-14 16:57:59
 2026,14579,2026-05-13,20:52:00,15,Ocean,1514,Lakewood Twsp,,E. 4th Street,1,0,0,0,1,2026-05-21 17:29:07
+2026,14592,2026-05-12,17:33:00,10,Hunterdon,1021,Raritan Twsp,523,County 523,1,1,0,0,0,2026-05-28 18:07:31
 2026,14566,2026-05-10,08:14:00,20,Union,2007,Hillside Twsp,439,State Highway 439,1,1,0,0,0,2026-05-12 17:07:33
 2026,14582,2026-05-10,01:26:00,12,Middlesex,1208,Jamesburg Boro,612,County 612,1,1,0,0,0,2026-05-21 17:29:07
 2026,14570,2026-05-08,15:38:00,08,Gloucester,0807,Greenwich Twsp,,ASHTON DRIVE,1,0,0,1,0,2026-05-14 16:57:59

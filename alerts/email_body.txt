@@ -1,11 +1,7 @@
-RUNDATE: Wed May 27 10:00:02 EDT 2026
+RUNDATE: Thu May 28 10:00:02 EDT 2026
 
-New crashes: 5
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14591 | 05/27/2026 12:39 AM | Fairfield Twsp, Cumberland | 698 | County 698 | Killed: Driver (1)
-  - ACCID 14588 | 05/26/2026 11:44 PM | Linden City, Union | 1 | State Highway 1 | Killed: Driver (1)
-  - ACCID 14590 | 05/26/2026 8:14 PM | Lakewood Twsp, Ocean | 444 | Garden State Parkway | Killed: Driver (1)
-  - ACCID 14589 | 05/26/2026 11:07 AM | Bayonne City, Hudson | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14587 | 05/17/2026 8:44 AM | Middle Twsp, Cape May | 9 | State Highway 9 MP 16 | Killed: Driver (1)
+  - ACCID 14592 | 05/12/2026 5:33 PM | Raritan Twsp, Hunterdon | 523 | County 523 | Killed: Driver (1)
