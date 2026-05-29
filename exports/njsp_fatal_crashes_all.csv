@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14593,2026-05-28,17:58:00,20,Union,2019,Union Twsp,78,Interstate 78,1,0,1,0,0,2026-05-29 18:10:40
 2026,14591,2026-05-27,00:39:00,06,Cumberland,0605,Fairfield Twsp,698,County 698,1,1,0,0,0,2026-05-27 17:55:30
 2026,14588,2026-05-26,23:44:00,20,Union,2009,Linden City,1,State Highway 1,1,1,0,0,0,2026-05-27 17:55:30
 2026,14590,2026-05-26,20:14:00,15,Ocean,1514,Lakewood Twsp,444,Garden State Parkway,1,1,0,0,0,2026-05-27 17:55:30

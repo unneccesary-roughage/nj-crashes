@@ -1,7 +1,7 @@
-RUNDATE: Thu May 28 10:00:02 EDT 2026
+RUNDATE: Fri May 29 10:00:01 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14592 | 05/12/2026 5:33 PM | Raritan Twsp, Hunterdon | 523 | County 523 | Killed: Driver (1)
+  - ACCID 14593 | 05/28/2026 5:58 PM | Union Twsp, Union | 78 | Interstate 78 | Killed: Passenger (1)
