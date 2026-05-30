@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14595,2026-05-29,14:36:00,11,Mercer,1112,Robbinsville Twsp,130,State Highway 130 MP 63.8,1,1,0,0,0,2026-05-30 16:02:22
+2026,14594,2026-05-29,05:20:00,11,Mercer,1113,West Windsor Twp,1,State Highway 1 MP 11.29,1,1,0,0,0,2026-05-30 16:02:22
 2026,14593,2026-05-28,17:58:00,20,Union,2019,Union Twsp,78,Interstate 78,1,0,1,0,0,2026-05-29 18:10:40
 2026,14591,2026-05-27,00:39:00,06,Cumberland,0605,Fairfield Twsp,698,County 698,1,1,0,0,0,2026-05-27 17:55:30
 2026,14588,2026-05-26,23:44:00,20,Union,2009,Linden City,1,State Highway 1,1,1,0,0,0,2026-05-27 17:55:30
