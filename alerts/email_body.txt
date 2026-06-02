@@ -1,11 +1,14 @@
-RUNDATE: Mon Jun 01 10:00:03 EDT 2026
+RUNDATE: Tue Jun 02 10:00:01 EDT 2026
 
-New crashes: 5
-Updated crashes: 0
+New crashes: 3
+Updated crashes: 3
 
 NEW:
-  - ACCID 14600 | 06/01/2026 2:34 AM | Jackson Twsp, Ocean | None | s hope chapel road | Killed: Pedestrian (1)
-  - ACCID 14599 | 05/31/2026 4:37 PM | Washington Twsp, Burlington | 542 | County 542 MP 13.1 | Killed: Driver (1)
-  - ACCID 14598 | 05/31/2026 9:30 AM | Rutherford Boro, Bergen | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14597 | 05/30/2026 9:16 PM | Aberdeen Twsp, Monmouth | 35 | State Highway 35 | Killed: Pedestrian (1)
-  - ACCID 14596 | 05/30/2026 4:34 PM | Ocean Twsp, Ocean | 18 | State Highway 18 | Killed: Driver (1)
+  - ACCID 14603 | 06/01/2026 12:46 PM | West Deptford Twsp, Gloucester | 295 | Interstate 295 | Killed: Driver (1)
+  - ACCID 14601 | 05/31/2026 10:46 PM | Cherry Hill Twsp, Camden | 70 | State Highway 70 (Business) | Killed: Driver (1)
+  - ACCID 14602 | 05/31/2026 4:06 PM | Bridgewater Twsp, Somerset | 22 | State Highway 22 MP 34.75 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14600 | 06/01/2026 2:34 AM | Jackson Twsp, Ocean | 547 | County 547 | Killed: Pedestrian (1)
+  - ACCID 14598 | 05/31/2026 9:30 AM | Rutherford Boro, Bergen | 95 | New Jersey Turnpike MP 111.6 | Killed: Driver (1)
+  - ACCID 14589 | 05/26/2026 11:07 AM | Bayonne City, Hudson | 95 | New Jersey Turnpike MP 2.8 | Killed: Driver (1)
