@@ -1,14 +1,8 @@
-RUNDATE: Tue Jun 02 10:00:01 EDT 2026
+RUNDATE: Wed Jun 03 10:00:05 EDT 2026
 
-New crashes: 3
-Updated crashes: 3
+New crashes: 2
+Updated crashes: 0
 
 NEW:
-  - ACCID 14603 | 06/01/2026 12:46 PM | West Deptford Twsp, Gloucester | 295 | Interstate 295 | Killed: Driver (1)
-  - ACCID 14601 | 05/31/2026 10:46 PM | Cherry Hill Twsp, Camden | 70 | State Highway 70 (Business) | Killed: Driver (1)
-  - ACCID 14602 | 05/31/2026 4:06 PM | Bridgewater Twsp, Somerset | 22 | State Highway 22 MP 34.75 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14600 | 06/01/2026 2:34 AM | Jackson Twsp, Ocean | 547 | County 547 | Killed: Pedestrian (1)
-  - ACCID 14598 | 05/31/2026 9:30 AM | Rutherford Boro, Bergen | 95 | New Jersey Turnpike MP 111.6 | Killed: Driver (1)
-  - ACCID 14589 | 05/26/2026 11:07 AM | Bayonne City, Hudson | 95 | New Jersey Turnpike MP 2.8 | Killed: Driver (1)
+  - ACCID 14605 | 05/31/2026 5:56 PM | West Milford Twsp, Passaic | None | Warwick Tpke | Killed: Driver (1)
+  - ACCID 14604 | 05/28/2026 6:46 PM | Hamilton Twsp, Atlantic | None | West Point Ave | Killed: Driver (1)
