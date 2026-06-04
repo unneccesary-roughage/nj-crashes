@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14606,2026-06-03,06:55:00,21,Warren,2113,Knowlton Twsp,80,Interstate 80 MP 8,1,1,0,0,0,2026-06-04 17:43:05
 2026,14603,2026-06-01,12:46:00,08,Gloucester,0820,West Deptford Twsp,295,Interstate 295,1,1,0,0,0,2026-06-02 18:36:10
 2026,14600,2026-06-01,02:34:00,15,Ocean,1511,Jackson Twsp,547,County 547,1,0,0,1,0,2026-06-02 18:36:10
 2026,14601,2026-05-31,22:46:00,04,Camden,0412,Cherry Hill Twsp,70,State Highway 70 (Business),1,1,0,0,0,2026-06-02 18:36:10

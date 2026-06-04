@@ -1,8 +1,7 @@
-RUNDATE: Wed Jun 03 10:00:05 EDT 2026
+RUNDATE: Thu Jun 04 10:00:03 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14605 | 05/31/2026 5:56 PM | West Milford Twsp, Passaic | None | Warwick Tpke | Killed: Driver (1)
-  - ACCID 14604 | 05/28/2026 6:46 PM | Hamilton Twsp, Atlantic | None | West Point Ave | Killed: Driver (1)
+  - ACCID 14606 | 06/03/2026 6:55 AM | Knowlton Twsp, Warren | 80 | Interstate 80 MP 8 | Killed: Driver (1)
