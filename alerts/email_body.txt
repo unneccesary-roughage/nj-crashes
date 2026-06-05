@@ -1,7 +1,11 @@
-RUNDATE: Thu Jun 04 10:00:03 EDT 2026
+RUNDATE: Fri Jun 05 10:00:03 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14606 | 06/03/2026 6:55 AM | Knowlton Twsp, Warren | 80 | Interstate 80 MP 8 | Killed: Driver (1)
+  - ACCID 14607 | 06/03/2026 1:23 PM | Lumberton Twsp, Burlington | 612 | County 612 MP 8.86 | Killed: Driver (1)
+  - ACCID 14608 | 05/31/2026 10:59 PM | Maple Shade Twsp, Burlington | 73 | State Highway 73 MP 28.36 | Killed: Passenger (1)
+
+UPDATED:
+  - ACCID 14596 | 05/30/2026 4:34 PM | Ocean Twsp, Monmouth | 18 | State Highway 18 | Killed: Driver (1)

@@ -1,14 +1,16 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14607,2026-06-03,13:23:00,03,Burlington,0318,Lumberton Twsp,612,County 612 MP 8.86,1,1,0,0,0,2026-06-05 17:12:58
 2026,14606,2026-06-03,06:55:00,21,Warren,2113,Knowlton Twsp,80,Interstate 80 MP 8,1,1,0,0,0,2026-06-04 17:43:05
 2026,14603,2026-06-01,12:46:00,08,Gloucester,0820,West Deptford Twsp,295,Interstate 295,1,1,0,0,0,2026-06-02 18:36:10
 2026,14600,2026-06-01,02:34:00,15,Ocean,1511,Jackson Twsp,547,County 547,1,0,0,1,0,2026-06-02 18:36:10
+2026,14608,2026-05-31,22:59:00,03,Burlington,0320,Maple Shade Twsp,73,State Highway 73 MP 28.36,1,0,1,0,0,2026-06-05 17:12:58
 2026,14601,2026-05-31,22:46:00,04,Camden,0412,Cherry Hill Twsp,70,State Highway 70 (Business),1,1,0,0,0,2026-06-02 18:36:10
 2026,14605,2026-05-31,17:56:00,16,Passaic,1615,West Milford Twsp,,Warwick Tpke,1,1,0,0,0,2026-06-03 18:41:27
 2026,14599,2026-05-31,16:37:00,03,Burlington,0337,Washington Twsp,542,County 542 MP 13.1,1,1,0,0,0,2026-06-01 19:53:37
 2026,14602,2026-05-31,16:06:00,18,Somerset,1806,Bridgewater Twsp,22,State Highway 22 MP 34.75,1,1,0,0,0,2026-06-02 18:36:10
 2026,14598,2026-05-31,09:30:00,02,Bergen,0256,Rutherford Boro,95,New Jersey Turnpike MP 111.6,1,1,0,0,0,2026-06-02 18:36:10
 2026,14597,2026-05-30,21:16:00,13,Monmouth,1330,Aberdeen Twsp,35,State Highway 35,1,0,0,1,0,2026-06-01 19:53:37
-2026,14596,2026-05-30,16:34:00,15,Ocean,1520,Ocean Twsp,18,State Highway 18,1,1,0,0,0,2026-06-01 19:53:37
+2026,14596,2026-05-30,16:34:00,13,Monmouth,1337,Ocean Twsp,18,State Highway 18,1,1,0,0,0,2026-06-05 17:12:58
 2026,14595,2026-05-29,14:36:00,11,Mercer,1112,Robbinsville Twsp,130,State Highway 130 MP 63.8,1,1,0,0,0,2026-05-30 16:02:22
 2026,14594,2026-05-29,05:20:00,11,Mercer,1113,West Windsor Twp,1,State Highway 1 MP 11.29,1,1,0,0,0,2026-05-30 16:02:22
 2026,14604,2026-05-28,18:46:00,01,Atlantic,0112,Hamilton Twsp,,West Point Ave,1,1,0,0,0,2026-06-03 18:41:27
