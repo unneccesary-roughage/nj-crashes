@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14609,2026-06-05,08:31:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-06-06 16:03:59
 2026,14607,2026-06-03,13:23:00,03,Burlington,0318,Lumberton Twsp,612,County 612 MP 8.86,1,1,0,0,0,2026-06-05 17:12:58
 2026,14606,2026-06-03,06:55:00,21,Warren,2113,Knowlton Twsp,80,Interstate 80 MP 8,1,1,0,0,0,2026-06-04 17:43:05
 2026,14603,2026-06-01,12:46:00,08,Gloucester,0820,West Deptford Twsp,295,Interstate 295,1,1,0,0,0,2026-06-02 18:36:10
