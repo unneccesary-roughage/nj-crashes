@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14621,2026-06-07,00:40:00,20,Union,2012,Plainfield City,,Woodland Ave,1,0,1,0,0,2026-06-08 17:49:30
+2026,14622,2026-06-06,07:28:00,02,Bergen,0270,Wyckoff Twsp,,Russell Ave,1,1,0,0,0,2026-06-08 17:49:30
 2026,14609,2026-06-05,08:31:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-06-06 16:03:59
 2026,14607,2026-06-03,13:23:00,03,Burlington,0318,Lumberton Twsp,612,County 612 MP 8.86,1,1,0,0,0,2026-06-05 17:12:58
 2026,14606,2026-06-03,06:55:00,21,Warren,2113,Knowlton Twsp,80,Interstate 80 MP 8,1,1,0,0,0,2026-06-04 17:43:05

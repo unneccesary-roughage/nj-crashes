@@ -1,7 +1,8 @@
-RUNDATE: Sat Jun 06 10:00:04 EDT 2026
+RUNDATE: Mon Jun 08 10:00:01 EDT 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14609 | 06/05/2026 8:31 AM | Newark City, Essex | 1 | State Highway 1 | Killed: Driver (1)
+  - ACCID 14621 | 06/07/2026 12:40 AM | Plainfield City, Union | None | Woodland Ave | Killed: Passenger (1)
+  - ACCID 14622 | 06/06/2026 7:28 AM | Wyckoff Twsp, Bergen | None | Russell Ave | Killed: Driver (1)
