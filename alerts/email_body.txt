@@ -1,8 +1,9 @@
-RUNDATE: Mon Jun 08 10:00:01 EDT 2026
+RUNDATE: Tue Jun 09 10:00:02 EDT 2026
 
-New crashes: 2
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14621 | 06/07/2026 12:40 AM | Plainfield City, Union | None | Woodland Ave | Killed: Passenger (1)
-  - ACCID 14622 | 06/06/2026 7:28 AM | Wyckoff Twsp, Bergen | None | Russell Ave | Killed: Driver (1)
+  - ACCID 14624 | 06/08/2026 1:51 PM | Colts Neck Twsp, Monmouth | 34 | State Highway 34 MP 13 | Killed: Driver (1)
+  - ACCID 14623 | 06/07/2026 7:00 PM | Mount Laurel Twsp, Burlington | 295 | Interstate 295 | Killed: Driver (1)
+  - ACCID 14625 | 06/04/2026 10:06 AM | North Brunswick Tws, Middlesex | None | Cherokee Rd | Killed: Passenger (1)
