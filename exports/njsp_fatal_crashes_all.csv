@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
 2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
 2026,14624,2026-06-08,13:51:00,13,Monmouth,1304,Colts Neck Twsp,34,State Highway 34 MP 13,1,1,0,0,0,2026-06-09 17:22:48
 2026,14626,2026-06-07,20:22:00,16,Passaic,1608,Paterson City,,Madison Ave,1,0,0,1,0,2026-06-10 17:55:13
@@ -19,6 +20,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14598,2026-05-31,09:30:00,02,Bergen,0256,Rutherford Boro,95,New Jersey Turnpike MP 111.6,1,1,0,0,0,2026-06-02 18:36:10
 2026,14597,2026-05-30,21:16:00,13,Monmouth,1330,Aberdeen Twsp,35,State Highway 35,1,0,0,1,0,2026-06-01 19:53:37
 2026,14596,2026-05-30,16:34:00,13,Monmouth,1337,Ocean Twsp,18,State Highway 18,1,1,0,0,0,2026-06-05 17:12:58
+2026,14629,2026-05-30,04:33:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,1,0,0,0,2026-06-11 18:09:44
 2026,14595,2026-05-29,14:36:00,11,Mercer,1112,Robbinsville Twsp,130,State Highway 130 MP 63.8,1,1,0,0,0,2026-05-30 16:02:22
 2026,14594,2026-05-29,05:20:00,11,Mercer,1113,West Windsor Twp,1,State Highway 1 MP 11.29,1,1,0,0,0,2026-05-30 16:02:22
 2026,14604,2026-05-28,18:46:00,01,Atlantic,0112,Hamilton Twsp,,West Point Ave,1,1,0,0,0,2026-06-03 18:41:27
