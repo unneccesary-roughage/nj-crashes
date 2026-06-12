@@ -1,8 +1,7 @@
-RUNDATE: Thu Jun 11 10:00:02 EDT 2026
+RUNDATE: Fri Jun 12 10:00:05 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14628 | 06/10/2026 3:07 AM | Bedminster Twsp, Somerset | None | Meadow Rd | Killed: Driver (1)
-  - ACCID 14629 | 05/30/2026 4:33 AM | North Bergen Twsp, Hudson | 1 | State Highway 1 | Killed: Driver (1)
+  - ACCID 14630 | 06/11/2026 10:18 AM | New Brunswick City, Middlesex | 693 | County 693 | Killed: Pedalcyclist (1)

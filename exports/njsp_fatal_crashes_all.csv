@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14630,2026-06-11,10:18:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,0,0,0,1,2026-06-12 17:35:32
 2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
 2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
 2026,14624,2026-06-08,13:51:00,13,Monmouth,1304,Colts Neck Twsp,34,State Highway 34 MP 13,1,1,0,0,0,2026-06-09 17:22:48
