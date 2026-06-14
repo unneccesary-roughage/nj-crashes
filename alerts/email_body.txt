@@ -1,7 +1,7 @@
-RUNDATE: Fri Jun 12 10:00:05 EDT 2026
+RUNDATE: Sun Jun 14 10:00:04 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14630 | 06/11/2026 10:18 AM | New Brunswick City, Middlesex | 693 | County 693 | Killed: Pedalcyclist (1)
+  - ACCID 14632 | 06/13/2026 9:41 PM | Bridgewater Twsp, Somerset | 533 | County 533 MP 29.45 | Killed: Driver (1)
