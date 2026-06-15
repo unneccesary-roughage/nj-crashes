@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
+2026,14635,2026-06-13,18:02:00,01,Atlantic,0105,Buena Vista Twsp,,Railroad Blvd,1,0,1,0,0,2026-06-15 19:01:38
+2026,14634,2026-06-13,00:28:00,06,Cumberland,0605,Fairfield Twsp,49,State Highway 49,1,0,0,1,0,2026-06-15 19:01:38
 2026,14630,2026-06-11,10:18:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,0,0,0,1,2026-06-12 17:35:32
 2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
 2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
@@ -8,6 +10,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14623,2026-06-07,19:00:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295 MP 36.2,1,1,0,0,0,2026-06-10 17:55:13
 2026,14621,2026-06-07,00:40:00,20,Union,2012,Plainfield City,,Woodland Ave,1,0,1,0,0,2026-06-08 17:49:30
 2026,14622,2026-06-06,07:28:00,02,Bergen,0270,Wyckoff Twsp,,Russell Ave,1,1,0,0,0,2026-06-08 17:49:30
+2026,14633,2026-06-05,18:00:00,08,Gloucester,0824,Woolwich Twsp,45,State Highway 45,1,0,1,0,0,2026-06-15 19:01:38
 2026,14609,2026-06-05,08:31:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-06-06 16:03:59
 2026,14625,2026-06-04,10:06:00,12,Middlesex,1215,North Brunswick Tws,,Cherokee Rd,1,0,1,0,0,2026-06-09 17:22:48
 2026,14607,2026-06-03,13:23:00,03,Burlington,0318,Lumberton Twsp,612,County 612 MP 8.86,1,1,0,0,0,2026-06-05 17:12:58
