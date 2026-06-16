@@ -2,6 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
 2026,14635,2026-06-13,18:02:00,01,Atlantic,0105,Buena Vista Twsp,,Railroad Blvd,1,0,1,0,0,2026-06-15 19:01:38
 2026,14634,2026-06-13,00:28:00,06,Cumberland,0605,Fairfield Twsp,49,State Highway 49,1,0,0,1,0,2026-06-15 19:01:38
+2026,14636,2026-06-13,00:06:00,09,Hudson,0907,Kearny Town,699,County 699 MP 1.57,1,1,0,0,0,2026-06-16 18:53:24
 2026,14630,2026-06-11,10:18:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,0,0,0,1,2026-06-12 17:35:32
 2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
 2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
