@@ -1,7 +1,10 @@
-RUNDATE: Tue Jun 16 10:00:04 EDT 2026
+RUNDATE: Wed Jun 17 10:00:01 EDT 2026
 
-New crashes: 1
+New crashes: 4
 Updated crashes: 0
 
 NEW:
-  - ACCID 14636 | 06/13/2026 12:06 AM | Kearny Town, Hudson | 699 | County 699 MP 1.57 | Killed: Driver (1)
+  - ACCID 14637 | 06/16/2026 1:29 AM | East Windsor Twsp, Mercer | 95 | New Jersey Turnpike | Killed: Passenger (1)
+  - ACCID 14639 | 06/14/2026 2:56 AM | Jefferson Twsp, Morris | 15 | State Highway 15 | Killed: Driver (1)
+  - ACCID 14640 | 06/09/2026 1:10 AM | Newark City, Essex | 603 | County 603 | Killed: Pedestrian (1)
+  - ACCID 14638 | 06/07/2026 3:54 PM | Raritan Twsp, Hunterdon | 523 | County 523 | Killed: Pedestrian (1)
