@@ -1,6 +1,8 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
 2026,14639,2026-06-14,02:56:00,14,Morris,1414,Jefferson Twsp,15,State Highway 15,1,1,0,0,0,2026-06-17 17:47:37
+2026,14642,2026-06-14,01:01:00,12,Middlesex,1222,South Plainfield Bo,,Stelton Road,1,1,0,0,0,2026-06-18 17:57:18
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
 2026,14635,2026-06-13,18:02:00,01,Atlantic,0105,Buena Vista Twsp,,Railroad Blvd,1,0,1,0,0,2026-06-15 19:01:38
 2026,14634,2026-06-13,00:28:00,06,Cumberland,0605,Fairfield Twsp,49,State Highway 49,1,0,0,1,0,2026-06-15 19:01:38
