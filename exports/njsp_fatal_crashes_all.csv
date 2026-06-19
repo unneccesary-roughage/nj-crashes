@@ -1,8 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
 2026,14639,2026-06-14,02:56:00,14,Morris,1414,Jefferson Twsp,15,State Highway 15,1,1,0,0,0,2026-06-17 17:47:37
-2026,14642,2026-06-14,01:01:00,12,Middlesex,1222,South Plainfield Bo,,Stelton Road,1,1,0,0,0,2026-06-18 17:57:18
+2026,14642,2026-06-14,01:01:00,12,Middlesex,1222,South Plainfield Bo,529,County 529 MP 5.88,1,1,0,0,0,2026-06-19 17:16:07
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
 2026,14635,2026-06-13,18:02:00,01,Atlantic,0105,Buena Vista Twsp,,Railroad Blvd,1,0,1,0,0,2026-06-15 19:01:38
 2026,14634,2026-06-13,00:28:00,06,Cumberland,0605,Fairfield Twsp,49,State Highway 49,1,0,0,1,0,2026-06-15 19:01:38
@@ -212,7 +213,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76,1,1,0,0,0,2026-02-19 15:23:13
 2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645,1,0,0,1,0,2026-02-19 15:23:13
 2026,14367,2026-01-09,20:29:00,20,Union,2019,Union Twsp,22,State Highway 22,1,0,0,1,0,2026-02-19 15:23:13
-2026,14380,2026-01-08,15:33:00,09,Hudson,0907,Kearny Town,507,County 507,1,0,0,1,0,2026-05-08 16:11:10
+2026,14380,2026-01-08,15:33:00,09,Hudson,0904,Harrison Town,,Woodland Drive,1,0,0,1,0,2026-06-19 17:16:07
 2026,14365,2026-01-07,21:20:00,15,Ocean,1506,Brick Twsp,66,County 66 MP .82,1,1,0,0,0,2026-02-19 15:23:13
 2026,14363,2026-01-07,09:37:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,0,1,0,0,2026-02-19 15:23:13
 2026,14389,2026-01-05,17:40:00,15,Ocean,1529,South Toms River Bo,166,State Highway 166,1,1,0,0,0,2026-02-19 15:23:13
