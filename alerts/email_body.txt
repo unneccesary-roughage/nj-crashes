@@ -1,11 +1,7 @@
-RUNDATE: Fri Jun 19 10:00:01 EDT 2026
+RUNDATE: Sat Jun 20 10:00:06 EDT 2026
 
-New crashes: 1
-Updated crashes: 2
-
-NEW:
-  - ACCID 14644 | 06/18/2026 9:32 AM | Franklin Boro, Sussex | 23 | State Highway 23 MP 33.5 | Killed: Driver (1)
+New crashes: 0
+Updated crashes: 1
 
 UPDATED:
-  - ACCID 14642 | 06/14/2026 1:01 AM | South Plainfield Bo, Middlesex | 529 | County 529 MP 5.88 | Killed: Driver (1)
-  - ACCID 14380 | 01/08/2026 3:33 PM | Harrison Town, Hudson | None | Woodland Drive | Killed: Pedestrian (1)
+  - ACCID 14420 | 02/11/2026 8:15 AM | Kearny Town, Hudson | None | Kearny Ave | Killed: Pedestrian (1)
