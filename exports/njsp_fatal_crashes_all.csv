@@ -1,4 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
+2026,14646,2026-06-20,22:57:00,07,Essex,0714,Newark City,,N. 7th St,2,0,0,2,0,2026-06-22 18:42:57
+2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway,1,0,0,1,0,2026-06-22 18:42:57
 2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
@@ -9,6 +12,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14634,2026-06-13,00:28:00,06,Cumberland,0605,Fairfield Twsp,49,State Highway 49,1,0,0,1,0,2026-06-15 19:01:38
 2026,14636,2026-06-13,00:06:00,09,Hudson,0907,Kearny Town,699,County 699 MP 1.57,1,1,0,0,0,2026-06-16 18:53:24
 2026,14630,2026-06-11,10:18:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,0,0,0,1,2026-06-12 17:35:32
+2026,14648,2026-06-10,17:24:00,13,Monmouth,1331,Middletown Twsp,520,County 520,1,1,0,0,0,2026-06-22 18:42:57
 2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
 2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
 2026,14640,2026-06-09,01:10:00,07,Essex,0714,Newark City,603,County 603,1,0,0,1,0,2026-06-17 17:47:37
@@ -171,7 +175,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14446,2026-02-21,15:31:00,15,Ocean,1517,Long Beach Twsp,607,County 607,1,1,0,0,0,2026-03-07 15:42:28
 2026,14425,2026-02-21,02:17:00,03,Burlington,0338,Westampton Twsp,95,New Jersey Turnpike,3,1,2,0,0,2026-02-23 16:36:28
 2026,14424,2026-02-19,23:58:00,12,Middlesex,1225,Woodbridge Twsp,1,State Highway 1,1,0,1,0,0,2026-02-21 15:45:34
-2026,14445,2026-02-19,06:08:00,09,Hudson,0910,Union City,,Bergenline Ave,1,1,0,0,0,2026-03-07 15:42:28
+2026,14445,2026-02-19,06:08:00,09,Hudson,0910,Union City,,Bergenline Ave,1,1,0,0,0,2026-06-22 18:42:57
 2026,14422,2026-02-18,22:36:00,12,Middlesex,1225,Woodbridge Twsp,27,State Highway 27 (Business),1,1,0,0,0,2026-02-20 15:57:20
 2026,14419,2026-02-16,09:14:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,1,0,0,0,2026-02-19 15:23:13
 2026,14431,2026-02-15,22:46:00,20,Union,2013,Rahway City,1,State Highway 1,1,1,0,0,0,2026-02-26 16:12:44

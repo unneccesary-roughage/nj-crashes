@@ -1,7 +1,13 @@
-RUNDATE: Sat Jun 20 10:00:06 EDT 2026
+RUNDATE: Mon Jun 22 10:00:04 EDT 2026
 
-New crashes: 0
+New crashes: 4
 Updated crashes: 1
 
+NEW:
+  - ACCID 14647 | 06/21/2026 1:39 AM | Manalapan Twsp, Monmouth | None | Daum Rd | Killed: Driver (1)
+  - ACCID 14646 | 06/20/2026 10:57 PM | Newark City, Essex | None | N. 7th St | Killed: Pedestrian (2)
+  - ACCID 14645 | 06/20/2026 10:16 PM | Hamilton Twsp, Atlantic | 446 | Atlantic City Expressway | Killed: Pedestrian (1)
+  - ACCID 14648 | 06/10/2026 5:24 PM | Middletown Twsp, Monmouth | 520 | County 520 | Killed: Driver (1)
+
 UPDATED:
-  - ACCID 14420 | 02/11/2026 8:15 AM | Kearny Town, Hudson | None | Kearny Ave | Killed: Pedestrian (1)
+  - ACCID 14445 | 02/19/2026 6:08 AM | Union City, Hudson | None | Bergenline Ave | Killed: Driver (1)
