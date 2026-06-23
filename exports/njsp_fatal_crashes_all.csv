@@ -1,10 +1,14 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14650,2026-06-22,20:35:00,12,Middlesex,1221,South Brunswick Tws,535,County 535 MP 16.98,1,1,0,0,0,2026-06-23 17:14:15
+2026,14652,2026-06-21,18:02:00,21,Warren,2112,Independence Twsp,517,County 517,1,1,0,0,0,2026-06-23 17:14:15
+2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
 2026,14646,2026-06-20,22:57:00,07,Essex,0714,Newark City,,N. 7th St,2,0,0,2,0,2026-06-22 18:42:57
 2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway,1,0,0,1,0,2026-06-22 18:42:57
 2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
+2026,14649,2026-06-15,16:15:00,17,Salem,1704,Lower Alloways Cree,626,County 626,1,1,0,0,0,2026-06-23 17:14:15
 2026,14639,2026-06-14,02:56:00,14,Morris,1414,Jefferson Twsp,15,State Highway 15,1,1,0,0,0,2026-06-17 17:47:37
 2026,14642,2026-06-14,01:01:00,12,Middlesex,1222,South Plainfield Bo,529,County 529 MP 5.88,1,1,0,0,0,2026-06-19 17:16:07
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
