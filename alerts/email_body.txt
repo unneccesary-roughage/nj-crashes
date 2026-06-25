@@ -1,10 +1,15 @@
-RUNDATE: Tue Jun 23 10:00:05 EDT 2026
+RUNDATE: Thu Jun 25 10:00:01 EDT 2026
 
-New crashes: 4
-Updated crashes: 0
+New crashes: 6
+Updated crashes: 1
 
 NEW:
-  - ACCID 14650 | 06/22/2026 8:35 PM | South Brunswick Tws, Middlesex | 535 | County 535 MP 16.98 | Killed: Driver (1)
-  - ACCID 14652 | 06/21/2026 6:02 PM | Independence Twsp, Warren | 517 | County 517 | Killed: Driver (1)
-  - ACCID 14651 | 06/21/2026 2:33 PM | Washington Twsp, Warren | 623 | County 623 | Killed: Driver (1)
-  - ACCID 14649 | 06/15/2026 4:15 PM | Lower Alloways Cree, Salem | 626 | County 626 | Killed: Driver (1)
+  - ACCID 14655 | 06/24/2026 3:39 AM | Deptford Twsp, Gloucester | 42 | State Highway 42 MP 12 | Killed: Driver (1)
+  - ACCID 14657 | 06/24/2026 1:47 AM | Wall Twsp, Monmouth | 138 | State Highway 138 | Killed: Driver (1)
+  - ACCID 14654 | 06/23/2026 8:22 PM | Lacey Twsp, Ocean | 444 | Garden State Parkway MP 75.7 | Killed: Passenger (1)
+  - ACCID 14658 | 06/20/2026 1:02 AM | Pennsauken Twsp, Camden | 130 | State Highway 130 | Killed: Pedestrian (1)
+  - ACCID 14653 | 06/06/2026 9:48 PM | Elizabeth City, Union | 27 | State Highway 27 | Killed: Pedestrian (1)
+  - ACCID 14656 | 05/14/2026 2:54 PM | Perth Amboy City, Middlesex | 35 | State Highway 35 MP .21 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14502 | 03/13/2026 6:46 AM | Phillipsburg To, Warren | 22 | State Highway 22 MP 1 | Killed: Pedestrian (1)

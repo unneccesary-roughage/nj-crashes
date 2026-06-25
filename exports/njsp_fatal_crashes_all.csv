@@ -1,10 +1,14 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14655,2026-06-24,03:39:00,08,Gloucester,0802,Deptford Twsp,42,State Highway 42 MP 12,1,1,0,0,0,2026-06-25 17:09:15
+2026,14657,2026-06-24,01:47:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-06-25 17:09:15
+2026,14654,2026-06-23,20:22:00,15,Ocean,1512,Lacey Twsp,444,Garden State Parkway MP 75.7,1,0,1,0,0,2026-06-25 17:09:15
 2026,14650,2026-06-22,20:35:00,12,Middlesex,1221,South Brunswick Tws,535,County 535 MP 16.98,1,1,0,0,0,2026-06-23 17:14:15
 2026,14652,2026-06-21,18:02:00,21,Warren,2112,Independence Twsp,517,County 517,1,1,0,0,0,2026-06-23 17:14:15
 2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
 2026,14646,2026-06-20,22:57:00,07,Essex,0714,Newark City,,N. 7th St,2,0,0,2,0,2026-06-22 18:42:57
 2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway,1,0,0,1,0,2026-06-22 18:42:57
+2026,14658,2026-06-20,01:02:00,04,Camden,0427,Pennsauken Twsp,130,State Highway 130,1,0,0,1,0,2026-06-25 17:09:15
 2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
@@ -25,6 +29,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14623,2026-06-07,19:00:00,03,Burlington,0325,Mount Laurel Twsp,295,Interstate 295 MP 36.2,1,1,0,0,0,2026-06-10 17:55:13
 2026,14638,2026-06-07,15:54:00,10,Hunterdon,1021,Raritan Twsp,523,County 523,1,0,0,1,0,2026-06-17 17:47:37
 2026,14621,2026-06-07,00:40:00,20,Union,2012,Plainfield City,,Woodland Ave,1,0,1,0,0,2026-06-08 17:49:30
+2026,14653,2026-06-06,21:48:00,20,Union,2004,Elizabeth City,27,State Highway 27,1,0,0,1,0,2026-06-25 17:09:15
 2026,14622,2026-06-06,07:28:00,02,Bergen,0270,Wyckoff Twsp,,Russell Ave,1,1,0,0,0,2026-06-08 17:49:30
 2026,14633,2026-06-05,18:00:00,08,Gloucester,0824,Woolwich Twsp,45,State Highway 45,1,0,1,0,0,2026-06-15 19:01:38
 2026,14609,2026-06-05,08:31:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-06-06 16:03:59
@@ -61,6 +66,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14575,2026-05-17,03:59:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,0,1,0,0,2026-05-19 17:36:29
 2026,14573,2026-05-17,00:45:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15 MP 14.13,1,1,0,0,0,2026-05-19 17:36:29
 2026,14572,2026-05-16,23:28:00,20,Union,2004,Elizabeth City,27,State Highway 27,1,0,0,1,0,2026-05-19 17:36:29
+2026,14656,2026-05-14,14:54:00,12,Middlesex,1216,Perth Amboy City,35,State Highway 35 MP .21,1,1,0,0,0,2026-06-25 17:09:15
 2026,14571,2026-05-13,21:24:00,20,Union,2004,Elizabeth City,,Newark Ave,1,1,0,0,0,2026-05-14 16:57:59
 2026,14579,2026-05-13,20:52:00,15,Ocean,1514,Lakewood Twsp,,E. 4th Street,1,0,0,0,1,2026-05-21 17:29:07
 2026,14592,2026-05-12,17:33:00,10,Hunterdon,1021,Raritan Twsp,523,County 523,1,1,0,0,0,2026-05-28 18:07:31
@@ -152,7 +158,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14465,2026-03-15,19:23:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-03-22 01:37:08
 2026,14462,2026-03-14,19:19:00,20,Union,2017,Springfield Twsp,,Bryant Ave,1,1,0,0,0,2026-03-20 18:34:30
 2026,14469,2026-03-14,05:08:00,12,Middlesex,1225,Woodbridge Twsp,35,State Highway 35,1,0,0,1,0,2026-03-22 01:37:08
-2026,14502,2026-03-13,06:46:00,21,Warren,2119,Phillipsburg To,22,State Highway 22,1,0,0,1,0,2026-04-07 16:08:00
+2026,14502,2026-03-13,06:46:00,21,Warren,2119,Phillipsburg To,22,State Highway 22 MP 1,1,0,0,1,0,2026-06-25 17:09:15
 2026,14455,2026-03-13,05:36:00,15,Ocean,1518,Manchester Twsp,530,County 530,1,1,0,0,0,2026-03-14 15:25:01
 2026,14457,2026-03-10,16:43:00,02,Bergen,0256,Rutherford Boro,3,State Highway 3 MP 6.7,1,1,0,0,0,2026-03-20 18:34:30
 2026,14452,2026-03-10,10:45:00,08,Gloucester,0804,Elk Twsp,,Hardingville Rd,1,1,0,0,0,2026-03-11 15:44:13
