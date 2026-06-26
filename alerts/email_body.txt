@@ -1,15 +1,9 @@
-RUNDATE: Thu Jun 25 10:00:01 EDT 2026
+RUNDATE: Fri Jun 26 10:00:05 EDT 2026
 
-New crashes: 6
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 0
 
 NEW:
-  - ACCID 14655 | 06/24/2026 3:39 AM | Deptford Twsp, Gloucester | 42 | State Highway 42 MP 12 | Killed: Driver (1)
-  - ACCID 14657 | 06/24/2026 1:47 AM | Wall Twsp, Monmouth | 138 | State Highway 138 | Killed: Driver (1)
-  - ACCID 14654 | 06/23/2026 8:22 PM | Lacey Twsp, Ocean | 444 | Garden State Parkway MP 75.7 | Killed: Passenger (1)
-  - ACCID 14658 | 06/20/2026 1:02 AM | Pennsauken Twsp, Camden | 130 | State Highway 130 | Killed: Pedestrian (1)
-  - ACCID 14653 | 06/06/2026 9:48 PM | Elizabeth City, Union | 27 | State Highway 27 | Killed: Pedestrian (1)
-  - ACCID 14656 | 05/14/2026 2:54 PM | Perth Amboy City, Middlesex | 35 | State Highway 35 MP .21 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14502 | 03/13/2026 6:46 AM | Phillipsburg To, Warren | 22 | State Highway 22 MP 1 | Killed: Pedestrian (1)
+  - ACCID 14661 | 06/25/2026 7:41 PM | West Deptford Twsp, Gloucester | 648 | County 648 | Killed: Driver (1)
+  - ACCID 14662 | 06/25/2026 7:03 PM | Millstone Twsp, Monmouth | 33 | State Highway 33 | Killed: Driver (1)
+  - ACCID 14660 | 06/25/2026 4:07 AM | Carteret Boro, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
