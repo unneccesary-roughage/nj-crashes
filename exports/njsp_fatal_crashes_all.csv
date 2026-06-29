@@ -1,6 +1,12 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 (Business) MP 45,1,1,0,0,0,2026-06-29 17:32:44
+2026,14664,2026-06-27,20:31:00,18,Somerset,1806,Bridgewater Twsp,22,State Highway 22 MP 34.6,1,1,0,0,0,2026-06-29 17:32:44
+2026,14665,2026-06-26,09:34:00,17,Salem,1707,Oldmans Twsp,295,Interstate 295 MP 7.2,1,1,0,0,0,2026-06-29 17:32:44
+2026,14666,2026-06-26,03:42:00,07,Essex,0714,Newark City,,Empire St,1,0,0,1,0,2026-06-29 17:32:44
+2026,14667,2026-06-25,21:42:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 62.3,2,1,1,0,0,2026-06-29 17:32:44
 2026,14661,2026-06-25,19:41:00,08,Gloucester,0820,West Deptford Twsp,648,County 648,1,1,0,0,0,2026-06-26 16:58:14
 2026,14662,2026-06-25,19:03:00,13,Monmouth,1332,Millstone Twsp,33,State Highway 33,1,1,0,0,0,2026-06-26 16:58:14
+2026,14663,2026-06-25,16:45:00,20,Union,2019,Union Twsp,82,State Highway 82 MP 3.48,1,1,0,0,0,2026-06-29 17:32:44
 2026,14660,2026-06-25,04:07:00,12,Middlesex,1201,Carteret Boro,95,New Jersey Turnpike,1,1,0,0,0,2026-06-26 16:58:14
 2026,14655,2026-06-24,03:39:00,08,Gloucester,0802,Deptford Twsp,42,State Highway 42 MP 12,1,1,0,0,0,2026-06-25 17:09:15
 2026,14657,2026-06-24,01:47:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-06-25 17:09:15
