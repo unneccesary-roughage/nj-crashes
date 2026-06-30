@@ -1,5 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 (Business) MP 45,1,1,0,0,0,2026-06-29 17:32:44
+2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 MP 45,1,1,0,0,0,2026-06-30 17:03:04
 2026,14664,2026-06-27,20:31:00,18,Somerset,1806,Bridgewater Twsp,22,State Highway 22 MP 34.6,1,1,0,0,0,2026-06-29 17:32:44
 2026,14665,2026-06-26,09:34:00,17,Salem,1707,Oldmans Twsp,295,Interstate 295 MP 7.2,1,1,0,0,0,2026-06-29 17:32:44
 2026,14666,2026-06-26,03:42:00,07,Essex,0714,Newark City,,Empire St,1,0,0,1,0,2026-06-29 17:32:44

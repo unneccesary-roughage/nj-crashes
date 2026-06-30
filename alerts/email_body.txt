@@ -1,12 +1,7 @@
-RUNDATE: Mon Jun 29 10:00:04 EDT 2026
+RUNDATE: Tue Jun 30 10:00:01 EDT 2026
 
-New crashes: 6
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14668 | 06/29/2026 2:17 AM | Vineland City, Cumberland | 47 | State Highway 47 (Business) MP 45 | Killed: Driver (1)
-  - ACCID 14664 | 06/27/2026 8:31 PM | Bridgewater Twsp, Somerset | 22 | State Highway 22 MP 34.6 | Killed: Driver (1)
-  - ACCID 14665 | 06/26/2026 9:34 AM | Oldmans Twsp, Salem | 295 | Interstate 295 MP 7.2 | Killed: Driver (1)
-  - ACCID 14666 | 06/26/2026 3:42 AM | Newark City, Essex | None | Empire St | Killed: Pedestrian (1)
-  - ACCID 14667 | 06/25/2026 9:42 PM | Atlantic City, Atlantic | 40 | State Highway 40 MP 62.3 | Killed: Driver (1), Passenger (1)
-  - ACCID 14663 | 06/25/2026 4:45 PM | Union Twsp, Union | 82 | State Highway 82 MP 3.48 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14668 | 06/29/2026 2:17 AM | Vineland City, Cumberland | 47 | State Highway 47 MP 45 | Killed: Driver (1)
