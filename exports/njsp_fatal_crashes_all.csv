@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14672,2026-06-30,21:29:00,02,Bergen,0249,Ridgefield Boro,1,State Highway 1,1,0,0,1,0,2026-07-02 16:46:40
+2026,14671,2026-06-29,07:26:00,09,Hudson,0908,North Bergen Twsp,,78th St,1,1,0,0,0,2026-07-02 16:46:40
 2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 MP 45,1,1,0,0,0,2026-06-30 17:03:04
 2026,14664,2026-06-27,20:31:00,18,Somerset,1806,Bridgewater Twsp,22,State Highway 22 MP 34.6,1,1,0,0,0,2026-06-29 17:32:44
 2026,14665,2026-06-26,09:34:00,17,Salem,1707,Oldmans Twsp,295,Interstate 295 MP 7.2,1,1,0,0,0,2026-06-29 17:32:44
@@ -101,7 +103,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14549,2026-04-29,15:03:00,13,Monmouth,1339,Hazlet Boro,35,State Highway 35,1,1,0,0,0,2026-05-01 15:54:07
 2026,14568,2026-04-27,19:30:00,01,Atlantic,0102,Atlantic City,,Atlantic Ave,1,1,0,0,0,2026-05-13 17:14:04
 2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
-2026,14542,2026-04-27,11:00:00,12,Middlesex,1223,South River Boro,535,County 535 (Spur (County Routes Only)),1,1,0,0,0,2026-04-28 16:49:04
 2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
 2026,14548,2026-04-25,11:30:00,09,Hudson,0909,Secaucus Town,681,County 681,1,1,0,0,0,2026-04-30 16:16:23
 2026,14567,2026-04-24,21:18:00,01,Atlantic,0119,Pleasantville City,40,State Highway 40 MP 59.82,1,0,0,1,0,2026-05-15 16:48:44

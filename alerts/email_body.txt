@@ -1,7 +1,8 @@
-RUNDATE: Tue Jun 30 10:00:01 EDT 2026
+RUNDATE: Thu Jul 02 10:00:02 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14668 | 06/29/2026 2:17 AM | Vineland City, Cumberland | 47 | State Highway 47 MP 45 | Killed: Driver (1)
+NEW:
+  - ACCID 14672 | 06/30/2026 9:29 PM | Ridgefield Boro, Bergen | 1 | State Highway 1 | Killed: Pedestrian (1)
+  - ACCID 14671 | 06/29/2026 7:26 AM | North Bergen Twsp, Hudson | None | 78th St | Killed: Driver (1)
