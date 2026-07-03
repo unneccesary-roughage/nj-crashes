@@ -1,8 +1,7 @@
-RUNDATE: Thu Jul 02 10:00:02 EDT 2026
+RUNDATE: Fri Jul 03 10:00:02 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14672 | 06/30/2026 9:29 PM | Ridgefield Boro, Bergen | 1 | State Highway 1 | Killed: Pedestrian (1)
-  - ACCID 14671 | 06/29/2026 7:26 AM | North Bergen Twsp, Hudson | None | 78th St | Killed: Driver (1)
+  - ACCID 14673 | 06/25/2026 9:40 AM | Atlantic City, Atlantic | 40 | State Highway 40 MP 62.2 | Killed: Driver (1), Passenger (1)
