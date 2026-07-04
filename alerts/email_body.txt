@@ -1,7 +1,8 @@
-RUNDATE: Fri Jul 03 10:00:02 EDT 2026
+RUNDATE: Sat Jul 04 10:00:04 EDT 2026
 
-New crashes: 1
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14673 | 06/25/2026 9:40 AM | Atlantic City, Atlantic | 40 | State Highway 40 MP 62.2 | Killed: Driver (1), Passenger (1)
+  - ACCID 14675 | 07/03/2026 6:58 PM | Union Twsp, Union | 22 | State Highway 22 MP 54.1 | Killed: Pedestrian (1)
+  - ACCID 14674 | 07/01/2026 3:49 PM | Hillside Twsp, Union | None | Cornell Pl | Killed: Driver (1)

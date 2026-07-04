@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14675,2026-07-03,18:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 54.1,1,0,0,1,0,2026-07-04 15:58:12
+2026,14674,2026-07-01,15:49:00,20,Union,2007,Hillside Twsp,,Cornell Pl,1,1,0,0,0,2026-07-04 15:58:12
 2026,14672,2026-06-30,21:29:00,02,Bergen,0249,Ridgefield Boro,1,State Highway 1,1,0,0,1,0,2026-07-02 16:46:40
 2026,14671,2026-06-29,07:26:00,09,Hudson,0908,North Bergen Twsp,,78th St,1,1,0,0,0,2026-07-02 16:46:40
 2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 MP 45,1,1,0,0,0,2026-06-30 17:03:04
