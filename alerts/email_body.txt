@@ -1,8 +1,7 @@
-RUNDATE: Sat Jul 04 10:00:04 EDT 2026
+RUNDATE: Sun Jul 05 10:00:01 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14675 | 07/03/2026 6:58 PM | Union Twsp, Union | 22 | State Highway 22 MP 54.1 | Killed: Pedestrian (1)
-  - ACCID 14674 | 07/01/2026 3:49 PM | Hillside Twsp, Union | None | Cornell Pl | Killed: Driver (1)
+  - ACCID 14676 | 07/05/2026 12:45 AM | Marlboro Twsp, Monmouth | 18 | State Highway 18 (Freeway) MP 25.8 | Killed: Driver (1)
