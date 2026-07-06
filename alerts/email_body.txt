@@ -1,7 +1,12 @@
-RUNDATE: Sun Jul 05 10:00:01 EDT 2026
+RUNDATE: Mon Jul 06 10:00:04 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 3
+Updated crashes: 1
 
 NEW:
-  - ACCID 14676 | 07/05/2026 12:45 AM | Marlboro Twsp, Monmouth | 18 | State Highway 18 (Freeway) MP 25.8 | Killed: Driver (1)
+  - ACCID 14679 | 07/05/2026 10:55 AM | Deptford Twsp, Gloucester | 295 | Interstate 295 | Killed: Driver (1), Passenger (1)
+  - ACCID 14678 | 07/03/2026 10:44 PM | Newark City, Essex | None | Lake St | Killed: Pedestrian (1)
+  - ACCID 14677 | 07/03/2026 8:21 PM | Washington Twsp, Burlington | 542 | County 542 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14676 | 07/05/2026 12:45 AM | Marlboro Twsp, Monmouth | 18 | State Highway 18 MP 25.8 | Killed: Driver (1)
