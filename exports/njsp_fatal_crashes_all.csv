@@ -1,8 +1,10 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14681,2026-07-06,04:11:00,16,Passaic,1607,Passaic City,21,State Highway 21,1,1,0,0,0,2026-07-07 17:10:01
 2026,14679,2026-07-05,10:55:00,08,Gloucester,0802,Deptford Twsp,295,Interstate 295,2,1,1,0,0,2026-07-06 17:40:01
 2026,14676,2026-07-05,00:45:00,13,Monmouth,1328,Marlboro Twsp,18,State Highway 18 MP 25.8,1,1,0,0,0,2026-07-06 17:40:01
 2026,14678,2026-07-03,22:44:00,07,Essex,0714,Newark City,,Lake St,1,0,0,1,0,2026-07-06 17:40:01
 2026,14677,2026-07-03,20:21:00,03,Burlington,0337,Washington Twsp,542,County 542,1,1,0,0,0,2026-07-06 17:40:01
+2026,14680,2026-07-03,20:08:00,20,Union,2016,Scotch Plains Twsp,,Raritan Road,1,1,0,0,0,2026-07-07 17:10:01
 2026,14675,2026-07-03,18:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 54.1,1,0,0,1,0,2026-07-04 15:58:12
 2026,14674,2026-07-01,15:49:00,20,Union,2007,Hillside Twsp,,Cornell Pl,1,1,0,0,0,2026-07-04 15:58:12
 2026,14672,2026-06-30,21:29:00,02,Bergen,0249,Ridgefield Boro,1,State Highway 1,1,0,0,1,0,2026-07-02 16:46:40
@@ -20,7 +22,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14655,2026-06-24,03:39:00,08,Gloucester,0802,Deptford Twsp,42,State Highway 42 MP 12,1,1,0,0,0,2026-06-25 17:09:15
 2026,14657,2026-06-24,01:47:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-06-25 17:09:15
 2026,14654,2026-06-23,20:22:00,15,Ocean,1512,Lacey Twsp,444,Garden State Parkway MP 75.7,1,0,1,0,0,2026-06-25 17:09:15
-2026,14650,2026-06-22,20:35:00,12,Middlesex,1221,South Brunswick Tws,535,County 535 MP 16.98,1,1,0,0,0,2026-06-23 17:14:15
 2026,14652,2026-06-21,18:02:00,21,Warren,2112,Independence Twsp,517,County 517,1,1,0,0,0,2026-06-23 17:14:15
 2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
