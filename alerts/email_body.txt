@@ -1,8 +1,9 @@
-RUNDATE: Tue Jul 07 10:00:05 EDT 2026
+RUNDATE: Wed Jul 08 10:00:05 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 3
 
-NEW:
-  - ACCID 14681 | 07/06/2026 4:11 AM | Passaic City, Passaic | 21 | State Highway 21 | Killed: Driver (1)
-  - ACCID 14680 | 07/03/2026 8:08 PM | Scotch Plains Twsp, Union | None | Raritan Road | Killed: Driver (1)
+UPDATED:
+  - ACCID 14386 | 01/17/2026 6:05 PM | Voorhees Twsp, Camden | 544 | County 544 MP 6.18 | Killed: Pedestrian (1)
+  - ACCID 14379 | 01/16/2026 10:10 AM | Winslow Twsp, Camden | 705 | County 705 MP 2.84 | Killed: Pedestrian (1)
+  - ACCID 14375 | 01/11/2026 3:02 AM | Gloucester City, Camden | 76 | Interstate 76 MP 3 | Killed: Pedestrian (1)
