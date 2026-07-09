@@ -1,9 +1,14 @@
-RUNDATE: Wed Jul 08 10:00:05 EDT 2026
+RUNDATE: Thu Jul 09 10:00:03 EDT 2026
 
-New crashes: 0
-Updated crashes: 3
+New crashes: 1
+Updated crashes: 5
+
+NEW:
+  - ACCID 14682 | 07/06/2026 1:09 PM | Freehold Twsp, Monmouth | 524 | County 524 | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14386 | 01/17/2026 6:05 PM | Voorhees Twsp, Camden | 544 | County 544 MP 6.18 | Killed: Pedestrian (1)
-  - ACCID 14379 | 01/16/2026 10:10 AM | Winslow Twsp, Camden | 705 | County 705 MP 2.84 | Killed: Pedestrian (1)
-  - ACCID 14375 | 01/11/2026 3:02 AM | Gloucester City, Camden | 76 | Interstate 76 MP 3 | Killed: Pedestrian (1)
+  - ACCID 14680 | 07/03/2026 8:08 PM | Scotch Plains Twsp, Union | None | Raritan Rd | Killed: Driver (1)
+  - ACCID 14601 | 05/31/2026 10:46 PM | Cherry Hill Twsp, Camden | 70 | State Highway 70 MP 2.1 | Killed: Driver (1)
+  - ACCID 14490 | 03/27/2026 5:45 AM | Waterford Twsp, Camden | 30 | State Highway 30 MP 20.47 | Killed: Pedestrian (1)
+  - ACCID 14503 | 03/26/2026 2:33 PM | Gloucester Twsp, Camden | 673 | County 673 MP 1.32 | Killed: Driver (1)
+  - ACCID 14379 | 01/16/2026 6:44 AM | Winslow Twsp, Camden | 705 | County 705 MP 2.84 | Killed: Pedestrian (1)
