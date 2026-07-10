@@ -1,14 +1,12 @@
-RUNDATE: Thu Jul 09 10:00:03 EDT 2026
+RUNDATE: Fri Jul 10 10:00:05 EDT 2026
 
-New crashes: 1
-Updated crashes: 5
+New crashes: 3
+Updated crashes: 1
 
 NEW:
-  - ACCID 14682 | 07/06/2026 1:09 PM | Freehold Twsp, Monmouth | 524 | County 524 | Killed: Driver (1)
+  - ACCID 14686 | 07/10/2026 1:00 AM | Wayne Twsp, Passaic | 23 | State Highway 23 | Killed: Driver (1)
+  - ACCID 14684 | 07/08/2026 8:46 PM | Monroe Twsp, Gloucester | 42 | State Highway 42 MP .78 | Killed: Passenger (1)
+  - ACCID 14685 | 06/23/2026 1:04 PM | Clifton City, Passaic | 3 | State Highway 3 | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14680 | 07/03/2026 8:08 PM | Scotch Plains Twsp, Union | None | Raritan Rd | Killed: Driver (1)
-  - ACCID 14601 | 05/31/2026 10:46 PM | Cherry Hill Twsp, Camden | 70 | State Highway 70 MP 2.1 | Killed: Driver (1)
-  - ACCID 14490 | 03/27/2026 5:45 AM | Waterford Twsp, Camden | 30 | State Highway 30 MP 20.47 | Killed: Pedestrian (1)
-  - ACCID 14503 | 03/26/2026 2:33 PM | Gloucester Twsp, Camden | 673 | County 673 MP 1.32 | Killed: Driver (1)
-  - ACCID 14379 | 01/16/2026 6:44 AM | Winslow Twsp, Camden | 705 | County 705 MP 2.84 | Killed: Pedestrian (1)
+  - ACCID 14645 | 06/20/2026 10:16 PM | Hamilton Twsp, Atlantic | 446 | Atlantic City Expressway MP 11.3 | Killed: Pedestrian (1)
