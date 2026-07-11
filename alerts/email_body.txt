@@ -1,12 +1,9 @@
-RUNDATE: Fri Jul 10 10:00:05 EDT 2026
+RUNDATE: Sat Jul 11 10:00:05 EDT 2026
 
 New crashes: 3
-Updated crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14686 | 07/10/2026 1:00 AM | Wayne Twsp, Passaic | 23 | State Highway 23 | Killed: Driver (1)
-  - ACCID 14684 | 07/08/2026 8:46 PM | Monroe Twsp, Gloucester | 42 | State Highway 42 MP .78 | Killed: Passenger (1)
-  - ACCID 14685 | 06/23/2026 1:04 PM | Clifton City, Passaic | 3 | State Highway 3 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14645 | 06/20/2026 10:16 PM | Hamilton Twsp, Atlantic | 446 | Atlantic City Expressway MP 11.3 | Killed: Pedestrian (1)
+  - ACCID 14689 | 07/09/2026 9:58 PM | Winslow Twsp, Camden | 30 | State Highway 30 MP 26.85 | Killed: Pedestrian (1)
+  - ACCID 14687 | 07/01/2026 9:50 AM | Mansfield Twsp, Warren | None | Janes Chapel Rd | Killed: Driver (1)
+  - ACCID 14688 | 06/27/2026 10:26 AM | Vineland City, Cumberland | None | N Delsea Dr | Killed: Driver (1)

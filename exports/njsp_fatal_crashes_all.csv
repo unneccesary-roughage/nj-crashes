@@ -1,5 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14686,2026-07-10,01:00:00,16,Passaic,1614,Wayne Twsp,23,State Highway 23,1,1,0,0,0,2026-07-10 16:52:45
+2026,14689,2026-07-09,21:58:00,04,Camden,0436,Winslow Twsp,30,State Highway 30 MP 26.85,1,0,0,1,0,2026-07-11 15:51:53
 2026,14684,2026-07-08,20:46:00,08,Gloucester,0811,Monroe Twsp,42,State Highway 42 MP .78,1,0,1,0,0,2026-07-10 16:52:45
 2026,14682,2026-07-06,13:09:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,1,0,0,0,2026-07-09 17:19:24
 2026,14681,2026-07-06,04:11:00,16,Passaic,1607,Passaic City,21,State Highway 21,1,1,0,0,0,2026-07-07 17:10:01
@@ -10,10 +11,12 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14680,2026-07-03,20:08:00,20,Union,2016,Scotch Plains Twsp,,Raritan Rd,1,1,0,0,0,2026-07-09 17:19:24
 2026,14675,2026-07-03,18:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 54.1,1,0,0,1,0,2026-07-04 15:58:12
 2026,14674,2026-07-01,15:49:00,20,Union,2007,Hillside Twsp,,Cornell Pl,1,1,0,0,0,2026-07-04 15:58:12
+2026,14687,2026-07-01,09:50:00,21,Warren,2116,Mansfield Twsp,,Janes Chapel Rd,1,1,0,0,0,2026-07-11 15:51:53
 2026,14672,2026-06-30,21:29:00,02,Bergen,0249,Ridgefield Boro,1,State Highway 1,1,0,0,1,0,2026-07-02 16:46:40
 2026,14671,2026-06-29,07:26:00,09,Hudson,0908,North Bergen Twsp,,78th St,1,1,0,0,0,2026-07-02 16:46:40
 2026,14668,2026-06-29,02:17:00,06,Cumberland,0614,Vineland City,47,State Highway 47 MP 45,1,1,0,0,0,2026-06-30 17:03:04
 2026,14664,2026-06-27,20:31:00,18,Somerset,1806,Bridgewater Twsp,22,State Highway 22 MP 34.6,1,1,0,0,0,2026-06-29 17:32:44
+2026,14688,2026-06-27,10:26:00,06,Cumberland,0614,Vineland City,,N Delsea Dr,1,1,0,0,0,2026-07-11 15:51:53
 2026,14665,2026-06-26,09:34:00,17,Salem,1707,Oldmans Twsp,295,Interstate 295 MP 7.2,1,1,0,0,0,2026-06-29 17:32:44
 2026,14666,2026-06-26,03:42:00,07,Essex,0714,Newark City,,Empire St,1,0,0,1,0,2026-06-29 17:32:44
 2026,14667,2026-06-25,21:42:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 62.3,2,1,1,0,0,2026-06-29 17:32:44
