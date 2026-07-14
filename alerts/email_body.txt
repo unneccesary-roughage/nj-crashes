@@ -1,10 +1,14 @@
-RUNDATE: Mon Jul 13 10:00:05 EDT 2026
+RUNDATE: Tue Jul 14 10:00:02 EDT 2026
 
-New crashes: 1
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 3
 
 NEW:
-  - ACCID 14690 | 07/10/2026 11:46 PM | Lower Twsp, Cape May | 47 | State Highway 47 | Killed: Driver (1)
+  - ACCID 14693 | 07/13/2026 10:30 PM | Mantua Twsp, Gloucester | 55 | State Highway 55 | Killed: Driver (1)
+  - ACCID 14692 | 07/13/2026 9:19 PM | South Brunswick Tws, Middlesex | 1 | State Highway 1 MP 17.37 | Killed: Pedestrian (1)
+  - ACCID 14691 | 07/10/2026 2:20 PM | Stafford Twsp, Ocean | 72 | State Highway 72 | Killed: Passenger (1)
 
 UPDATED:
-  - ACCID 14688 | 06/27/2026 10:26 AM | Vineland City, Cumberland | None | N. Delsea Dr | Killed: Driver (1)
+  - ACCID 14658 | 06/20/2026 1:02 AM | Pennsauken Twsp, Camden | 130 | State Highway 130 MP 31.56 | Killed: Pedestrian (1)
+  - ACCID 14516 | 04/11/2026 3:33 PM | Gloucester City, Camden | 76 | Interstate 76 MP 2.58 | Killed: Driver (1)
+  - ACCID 14504 | 04/01/2026 12:22 PM | Haddon Twsp, Camden | 636 | County 636 MP 2.1 | Killed: Pedalcyclist (1)
