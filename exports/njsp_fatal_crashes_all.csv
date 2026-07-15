@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14693,2026-07-13,22:30:00,08,Gloucester,0810,Mantua Twsp,55,State Highway 55,1,1,0,0,0,2026-07-14 16:10:22
+2026,14695,2026-07-14,13:08:00,04,Camden,0408,Camden City,551,County 551,1,1,0,0,0,2026-07-15 16:17:33
+2026,14694,2026-07-14,02:33:00,04,Camden,0421,Lawnside Boro,95,New Jersey Turnpike MP 28.6,1,0,1,0,0,2026-07-15 16:17:33
+2026,14693,2026-07-13,22:30:00,08,Gloucester,0810,Mantua Twsp,55,State Highway 55 MP 52,1,1,0,0,0,2026-07-15 16:17:33
 2026,14692,2026-07-13,21:19:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 17.37,1,0,0,1,0,2026-07-14 16:10:22
 2026,14690,2026-07-10,23:46:00,05,Cape May,0505,Lower Twsp,47,State Highway 47,1,1,0,0,0,2026-07-13 17:10:14
 2026,14691,2026-07-10,14:20:00,15,Ocean,1530,Stafford Twsp,72,State Highway 72,1,0,1,0,0,2026-07-14 16:10:22

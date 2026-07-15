@@ -1,14 +1,11 @@
-RUNDATE: Tue Jul 14 10:00:02 EDT 2026
+RUNDATE: Wed Jul 15 10:00:03 EDT 2026
 
-New crashes: 3
-Updated crashes: 3
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14693 | 07/13/2026 10:30 PM | Mantua Twsp, Gloucester | 55 | State Highway 55 | Killed: Driver (1)
-  - ACCID 14692 | 07/13/2026 9:19 PM | South Brunswick Tws, Middlesex | 1 | State Highway 1 MP 17.37 | Killed: Pedestrian (1)
-  - ACCID 14691 | 07/10/2026 2:20 PM | Stafford Twsp, Ocean | 72 | State Highway 72 | Killed: Passenger (1)
+  - ACCID 14695 | 07/14/2026 1:08 PM | Camden City, Camden | 551 | County 551 | Killed: Driver (1)
+  - ACCID 14694 | 07/14/2026 2:33 AM | Lawnside Boro, Camden | 95 | New Jersey Turnpike MP 28.6 | Killed: Passenger (1)
 
 UPDATED:
-  - ACCID 14658 | 06/20/2026 1:02 AM | Pennsauken Twsp, Camden | 130 | State Highway 130 MP 31.56 | Killed: Pedestrian (1)
-  - ACCID 14516 | 04/11/2026 3:33 PM | Gloucester City, Camden | 76 | Interstate 76 MP 2.58 | Killed: Driver (1)
-  - ACCID 14504 | 04/01/2026 12:22 PM | Haddon Twsp, Camden | 636 | County 636 MP 2.1 | Killed: Pedalcyclist (1)
+  - ACCID 14693 | 07/13/2026 10:30 PM | Mantua Twsp, Gloucester | 55 | State Highway 55 MP 52 | Killed: Driver (1)
