@@ -1,11 +1,12 @@
-RUNDATE: Wed Jul 15 10:00:03 EDT 2026
+RUNDATE: Thu Jul 16 10:00:01 EDT 2026
 
-New crashes: 2
+New crashes: 3
 Updated crashes: 1
 
 NEW:
-  - ACCID 14695 | 07/14/2026 1:08 PM | Camden City, Camden | 551 | County 551 | Killed: Driver (1)
-  - ACCID 14694 | 07/14/2026 2:33 AM | Lawnside Boro, Camden | 95 | New Jersey Turnpike MP 28.6 | Killed: Passenger (1)
+  - ACCID 14698 | 07/15/2026 8:35 PM | Franklin Twsp, Somerset | 514 | County 514 | Killed: Pedestrian (1)
+  - ACCID 14697 | 07/15/2026 2:43 PM | Egg Harbor Twsp, Atlantic | 559 | County 559 MP 2.45 | Killed: Driver (1)
+  - ACCID 14696 | 07/15/2026 11:06 AM | Fort Lee Boro, Bergen | 56 | County 56 MP 4.4 | Killed: Pedestrian (1)
 
 UPDATED:
-  - ACCID 14693 | 07/13/2026 10:30 PM | Mantua Twsp, Gloucester | 55 | State Highway 55 MP 52 | Killed: Driver (1)
+  - ACCID 14478 | 03/16/2026 1:03 PM | Union City, Hudson | None | 34th St | Killed: Pedestrian (1)
