@@ -6,6 +6,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14694,2026-07-14,02:33:00,04,Camden,0421,Lawnside Boro,95,New Jersey Turnpike MP 28.6,1,0,1,0,0,2026-07-15 16:17:33
 2026,14693,2026-07-13,22:30:00,08,Gloucester,0810,Mantua Twsp,55,State Highway 55 MP 52,1,1,0,0,0,2026-07-15 16:17:33
 2026,14692,2026-07-13,21:19:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 17.37,1,0,0,1,0,2026-07-14 16:10:22
+2026,14699,2026-07-11,15:34:00,02,Bergen,0256,Rutherford Boro,,East Van Ness Ave,1,1,0,0,0,2026-07-17 16:11:18
 2026,14690,2026-07-10,23:46:00,05,Cape May,0505,Lower Twsp,47,State Highway 47,1,1,0,0,0,2026-07-13 17:10:14
 2026,14691,2026-07-10,14:20:00,15,Ocean,1530,Stafford Twsp,72,State Highway 72,1,0,1,0,0,2026-07-14 16:10:22
 2026,14686,2026-07-10,01:00:00,16,Passaic,1614,Wayne Twsp,23,State Highway 23,1,1,0,0,0,2026-07-10 16:52:45
@@ -238,7 +239,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14401,2026-02-03,23:22:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 1.2,2,1,1,0,0,2026-02-19 15:23:13
 2026,14407,2026-02-03,14:51:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206,1,1,0,0,0,2026-02-19 15:23:13
 2026,14399,2026-01-31,17:33:00,07,Essex,0714,Newark City,,Clinton Ave,1,0,0,1,0,2026-02-19 15:23:13
-2026,14398,2026-01-30,18:18:00,17,Salem,1710,Pittsgrove Twsp,56,State Highway 56 MP 7.2,1,1,0,0,0,2026-02-19 15:23:13
+2026,14398,2026-01-30,18:18:00,17,Salem,1710,Pittsgrove Twsp,56,State Highway 56 MP 7.2,1,1,0,0,0,2026-07-17 16:11:18
 2026,14396,2026-01-29,20:59:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike MP 39.6,1,1,0,0,0,2026-02-19 15:23:13
 2026,14394,2026-01-29,05:20:00,20,Union,2009,Linden City,95,New Jersey Turnpike,1,0,0,1,0,2026-02-19 15:23:13
 2026,14392,2026-01-23,20:51:00,15,Ocean,1507,Toms River,37,State Highway 37,1,1,0,0,0,2026-02-19 15:23:13

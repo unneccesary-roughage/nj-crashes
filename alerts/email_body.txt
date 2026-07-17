@@ -1,12 +1,10 @@
-RUNDATE: Thu Jul 16 10:00:01 EDT 2026
+RUNDATE: Fri Jul 17 10:00:01 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 1
 
 NEW:
-  - ACCID 14698 | 07/15/2026 8:35 PM | Franklin Twsp, Somerset | 514 | County 514 | Killed: Pedestrian (1)
-  - ACCID 14697 | 07/15/2026 2:43 PM | Egg Harbor Twsp, Atlantic | 559 | County 559 MP 2.45 | Killed: Driver (1)
-  - ACCID 14696 | 07/15/2026 11:06 AM | Fort Lee Boro, Bergen | 56 | County 56 MP 4.4 | Killed: Pedestrian (1)
+  - ACCID 14699 | 07/11/2026 3:34 PM | Rutherford Boro, Bergen | None | East Van Ness Ave | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14478 | 03/16/2026 1:03 PM | Union City, Hudson | None | 34th St | Killed: Pedestrian (1)
+  - ACCID 14398 | 01/30/2026 6:18 PM | Pittsgrove Twsp, Salem | 56 | State Highway 56 MP 7.2 | Killed: Driver (1)
