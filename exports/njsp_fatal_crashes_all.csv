@@ -1,7 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14701,2026-07-17,21:26:00,16,Passaic,1602,Clifton City,,Shafto St,1,0,0,1,0,2026-07-18 15:52:29
 2026,14698,2026-07-15,20:35:00,18,Somerset,1808,Franklin Twsp,514,County 514,1,0,0,1,0,2026-07-16 16:14:30
 2026,14697,2026-07-15,14:43:00,01,Atlantic,0108,Egg Harbor Twsp,559,County 559 MP 2.45,1,1,0,0,0,2026-07-16 16:14:30
 2026,14696,2026-07-15,11:06:00,02,Bergen,0219,Fort Lee Boro,56,County 56 MP 4.4,1,0,0,1,0,2026-07-16 16:14:30
+2026,14700,2026-07-15,03:30:00,09,Hudson,0910,Union City,691,County 691,1,0,0,1,0,2026-07-18 15:52:29
 2026,14695,2026-07-14,13:08:00,04,Camden,0408,Camden City,551,County 551,1,1,0,0,0,2026-07-15 16:17:33
 2026,14694,2026-07-14,02:33:00,04,Camden,0421,Lawnside Boro,95,New Jersey Turnpike MP 28.6,1,0,1,0,0,2026-07-15 16:17:33
 2026,14693,2026-07-13,22:30:00,08,Gloucester,0810,Mantua Twsp,55,State Highway 55 MP 52,1,1,0,0,0,2026-07-15 16:17:33

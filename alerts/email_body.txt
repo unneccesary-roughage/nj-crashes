@@ -1,10 +1,8 @@
-RUNDATE: Fri Jul 17 10:00:01 EDT 2026
+RUNDATE: Sat Jul 18 10:00:03 EDT 2026
 
-New crashes: 1
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
 NEW:
-  - ACCID 14699 | 07/11/2026 3:34 PM | Rutherford Boro, Bergen | None | East Van Ness Ave | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14398 | 01/30/2026 6:18 PM | Pittsgrove Twsp, Salem | 56 | State Highway 56 MP 7.2 | Killed: Driver (1)
+  - ACCID 14701 | 07/17/2026 9:26 PM | Clifton City, Passaic | None | Shafto St | Killed: Pedestrian (1)
+  - ACCID 14700 | 07/15/2026 3:30 AM | Union City, Hudson | 691 | County 691 | Killed: Pedestrian (1)
