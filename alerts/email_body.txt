@@ -1,8 +1,7 @@
-RUNDATE: Sat Jul 18 10:00:03 EDT 2026
+RUNDATE: Mon Jul 20 10:00:08 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14701 | 07/17/2026 9:26 PM | Clifton City, Passaic | None | Shafto St | Killed: Pedestrian (1)
-  - ACCID 14700 | 07/15/2026 3:30 AM | Union City, Hudson | 691 | County 691 | Killed: Pedestrian (1)
+  - ACCID 14702 | 07/18/2026 7:13 AM | Woodbridge Twsp, Middlesex | 440 | State Highway 440 | Killed: Driver (1)
