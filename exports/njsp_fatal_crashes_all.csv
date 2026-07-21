@@ -1,5 +1,10 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-07-21 16:20:14
+2026,14708,2026-07-20,18:26:00,12,Middlesex,1219,Sayreville Boro,,Chevalier Ave,1,1,0,0,0,2026-07-21 16:20:14
+2026,14703,2026-07-20,00:36:00,08,Gloucester,0804,Elk Twsp,55,State Highway 55,1,1,0,0,0,2026-07-21 16:20:14
+2026,14705,2026-07-18,13:23:00,08,Gloucester,0820,West Deptford Twsp,642,County 642,1,1,0,0,0,2026-07-21 16:20:14
 2026,14702,2026-07-18,07:13:00,12,Middlesex,1225,Woodbridge Twsp,440,State Highway 440,1,1,0,0,0,2026-07-20 16:21:28
+2026,14706,2026-07-18,01:50:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,1,0,0,0,2026-07-21 16:20:14
 2026,14701,2026-07-17,21:26:00,16,Passaic,1602,Clifton City,,Shafto St,1,0,0,1,0,2026-07-18 15:52:29
 2026,14698,2026-07-15,20:35:00,18,Somerset,1808,Franklin Twsp,514,County 514,1,0,0,1,0,2026-07-16 16:14:30
 2026,14697,2026-07-15,14:43:00,01,Atlantic,0108,Egg Harbor Twsp,559,County 559 MP 2.45,1,1,0,0,0,2026-07-16 16:14:30
@@ -14,6 +19,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14691,2026-07-10,14:20:00,15,Ocean,1530,Stafford Twsp,72,State Highway 72,1,0,1,0,0,2026-07-14 16:10:22
 2026,14686,2026-07-10,01:00:00,16,Passaic,1614,Wayne Twsp,23,State Highway 23,1,1,0,0,0,2026-07-10 16:52:45
 2026,14689,2026-07-09,21:58:00,04,Camden,0436,Winslow Twsp,30,State Highway 30 MP 26.85,1,0,0,1,0,2026-07-11 15:51:53
+2026,14704,2026-07-09,19:47:00,15,Ocean,1516,Little Egg Harbor T,,Railroad Dr,1,1,0,0,0,2026-07-21 16:20:14
 2026,14684,2026-07-08,20:46:00,08,Gloucester,0811,Monroe Twsp,42,State Highway 42 MP .78,1,0,1,0,0,2026-07-10 16:52:45
 2026,14682,2026-07-06,13:09:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,1,0,0,0,2026-07-09 17:19:24
 2026,14681,2026-07-06,04:11:00,16,Passaic,1607,Passaic City,21,State Highway 21,1,1,0,0,0,2026-07-07 17:10:01
@@ -252,15 +258,15 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14385,2026-01-20,16:08:00,01,Atlantic,0112,Hamilton Twsp,559,County 559 MP 19.5,1,1,0,0,0,2026-04-10 15:49:42
 2026,14395,2026-01-20,08:15:00,01,Atlantic,0113,Hammonton Town,30,State Highway 30 MP 32.63,1,1,0,0,0,2026-04-10 15:49:42
 2026,14381,2026-01-17,18:17:00,08,Gloucester,0808,Harrison Twsp,,Banff Dr,2,1,1,0,0,2026-02-19 15:23:13
-2026,14386,2026-01-17,18:05:00,04,Camden,0434,Voorhees Twsp,544,County 544 MP 6.18,1,0,0,1,0,2026-07-08 16:27:22
+2026,14386,2026-01-17,18:05:00,04,Camden,0434,Voorhees Twsp,544,County 544 MP 6.18,1,0,0,1,0,2026-07-21 16:20:14
 2026,14384,2026-01-17,10:58:00,13,Monmouth,1334,Neptune Twsp,33,State Highway 33,1,1,0,0,0,2026-02-19 15:23:13
 2026,14383,2026-01-16,18:36:00,07,Essex,0703,Caldwell Boro,506,County 506,1,0,0,1,0,2026-02-19 15:23:13
-2026,14379,2026-01-16,06:44:00,04,Camden,0436,Winslow Twsp,705,County 705 MP 2.84,1,0,0,1,0,2026-07-09 17:19:24
+2026,14379,2026-01-16,06:44:00,04,Camden,0436,Winslow Twsp,705,County 705 MP 2.84,1,0,0,1,0,2026-07-21 16:20:14
 2026,14378,2026-01-15,19:38:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.5,1,0,0,1,0,2026-04-10 15:49:42
 2026,14393,2026-01-13,18:01:00,12,Middlesex,1205,Edison Twsp,,Oakwood Ave,1,0,0,1,0,2026-02-19 15:23:13
 2026,14371,2026-01-11,11:57:00,15,Ocean,1506,Brick Twsp,,Lagoon Dr West,1,0,0,1,0,2026-02-19 15:23:13
 2026,14372,2026-01-11,06:45:00,02,Bergen,0202,Alpine Boro,445,Palisades Interstate Parkway,1,1,0,0,0,2026-02-19 15:23:13
-2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 3,1,0,0,1,0,2026-07-08 16:27:22
+2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 3,1,0,0,1,0,2026-07-21 16:20:14
 2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645,1,0,0,1,0,2026-02-19 15:23:13
 2026,14367,2026-01-09,20:29:00,20,Union,2019,Union Twsp,22,State Highway 22,1,0,0,1,0,2026-02-19 15:23:13
 2026,14380,2026-01-08,15:33:00,09,Hudson,0904,Harrison Town,,Woodland Drive,1,0,0,1,0,2026-06-19 17:16:07
