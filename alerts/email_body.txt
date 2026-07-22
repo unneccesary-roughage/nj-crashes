@@ -1,17 +1,11 @@
-RUNDATE: Tue Jul 21 10:00:00 EDT 2026
+RUNDATE: Wed Jul 22 10:00:04 EDT 2026
 
-New crashes: 6
-Updated crashes: 3
+New crashes: 1
+Updated crashes: 2
 
 NEW:
-  - ACCID 14707 | 07/20/2026 7:48 PM | Wantage Twsp, Sussex | None | Brink Rd | Killed: Driver (1)
-  - ACCID 14708 | 07/20/2026 6:26 PM | Sayreville Boro, Middlesex | None | Chevalier Ave | Killed: Driver (1)
-  - ACCID 14703 | 07/20/2026 12:36 AM | Elk Twsp, Gloucester | 55 | State Highway 55 | Killed: Driver (1)
-  - ACCID 14705 | 07/18/2026 1:23 PM | West Deptford Twsp, Gloucester | 642 | County 642 | Killed: Driver (1)
-  - ACCID 14706 | 07/18/2026 1:50 AM | North Bergen Twsp, Hudson | 1 | State Highway 1 | Killed: Driver (1)
-  - ACCID 14704 | 07/09/2026 7:47 PM | Little Egg Harbor T, Ocean | None | Railroad Dr | Killed: Driver (1)
+  - ACCID 14709 | 07/14/2026 6:29 AM | Lincoln Park Bo, Morris | None | Beaver Brook Rd | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14386 | 01/17/2026 6:05 PM | Voorhees Twsp, Camden | 544 | County 544 MP 6.18 | Killed: Pedestrian (1)
-  - ACCID 14379 | 01/16/2026 6:44 AM | Winslow Twsp, Camden | 705 | County 705 MP 2.84 | Killed: Pedestrian (1)
-  - ACCID 14375 | 01/11/2026 3:02 AM | Gloucester City, Camden | 76 | Interstate 76 MP 3 | Killed: Pedestrian (1)
+  - ACCID 14663 | 06/25/2026 4:45 PM | Union Twsp, Union | 82 | State Highway 82 MP 3.48 | Killed: Driver (2)
+  - ACCID 14521 | 03/21/2026 5:14 PM | West New York Town, Hudson | None | Kennedy Blvd | Killed: Pedestrian (1)
