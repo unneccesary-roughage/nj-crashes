@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14710,2026-07-22,20:47:00,04,Camden,0408,Camden City,543,County 543,1,1,0,0,0,2026-07-23 16:23:28
 2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-07-21 16:20:14
 2026,14708,2026-07-20,18:26:00,12,Middlesex,1219,Sayreville Boro,,Chevalier Ave,1,1,0,0,0,2026-07-21 16:20:14
 2026,14703,2026-07-20,00:36:00,08,Gloucester,0804,Elk Twsp,55,State Highway 55,1,1,0,0,0,2026-07-21 16:20:14

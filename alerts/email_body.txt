@@ -1,11 +1,7 @@
-RUNDATE: Wed Jul 22 10:00:04 EDT 2026
+RUNDATE: Thu Jul 23 10:00:05 EDT 2026
 
 New crashes: 1
-Updated crashes: 2
+Updated crashes: 0
 
 NEW:
-  - ACCID 14709 | 07/14/2026 6:29 AM | Lincoln Park Bo, Morris | None | Beaver Brook Rd | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14663 | 06/25/2026 4:45 PM | Union Twsp, Union | 82 | State Highway 82 MP 3.48 | Killed: Driver (2)
-  - ACCID 14521 | 03/21/2026 5:14 PM | West New York Town, Hudson | None | Kennedy Blvd | Killed: Pedestrian (1)
+  - ACCID 14710 | 07/22/2026 8:47 PM | Camden City, Camden | 543 | County 543 | Killed: Driver (1)
