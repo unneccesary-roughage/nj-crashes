@@ -1,7 +1,7 @@
-RUNDATE: Fri Jul 24 10:00:05 EDT 2026
+RUNDATE: Sat Jul 25 10:00:01 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14712 | 07/22/2026 11:52 PM | Washington Twsp, Burlington | 563 | County 563 | Killed: Driver (1)
+  - ACCID 14713 | 07/23/2026 12:37 PM | Rumson Boro, Monmouth | 34 | County 34 | Killed: Pedalcyclist (1)
