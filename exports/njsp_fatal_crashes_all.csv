@@ -166,6 +166,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14508,2026-04-07,22:56:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9,1,0,0,1,0,2026-04-09 16:15:29
 2026,14501,2026-04-05,15:57:00,17,Salem,1711,Quinton Twsp,647,County 647 MP .8,1,1,0,0,0,2026-04-06 15:42:19
 2026,14507,2026-04-04,10:42:00,14,Morris,1436,Roxbury Twsp,,275 Route 10,1,0,0,1,0,2026-04-09 16:15:29
+2026,14715,2026-04-03,09:34:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,0,1,0,0,2026-07-27 16:54:41
 2026,14498,2026-04-01,18:27:00,07,Essex,0714,Newark City,78,Interstate 78 MP 56.6,2,1,1,0,0,2026-04-02 15:57:59
 2026,14504,2026-04-01,12:22:00,04,Camden,0416,Haddon Twsp,636,County 636 MP 2.1,1,0,0,0,1,2026-07-14 16:10:22
 2026,14497,2026-04-01,04:19:00,14,Morris,1436,Roxbury Twsp,80,Interstate 80,1,1,0,0,0,2026-04-02 15:57:59
@@ -218,6 +219,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28
 2026,14439,2026-03-05,01:57:00,13,Monmouth,1334,Neptune Twsp,35,State Highway 35,1,0,0,1,0,2026-03-06 15:58:05
 2026,14440,2026-03-04,20:36:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 25.63,1,0,0,1,0,2026-03-06 15:58:05
+2026,14714,2026-03-02,17:52:00,11,Mercer,1113,West Windsor Twp,571,County 571,1,1,0,0,0,2026-07-27 16:54:41
 2026,14436,2026-03-02,14:44:00,12,Middlesex,1205,Edison Twsp,501,County 501,1,1,0,0,0,2026-03-04 14:34:41
 2026,14435,2026-03-01,21:52:00,08,Gloucester,0801,Clayton Boro,655,County 655,1,0,1,0,0,2026-03-02 15:59:06
 2026,14434,2026-03-01,06:25:00,12,Middlesex,1225,Woodbridge Twsp,611,County 611,1,0,0,1,0,2026-03-02 15:59:06
