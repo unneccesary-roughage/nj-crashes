@@ -1,8 +1,8 @@
-RUNDATE: Mon Jul 27 10:00:05 EDT 2026
+RUNDATE: Tue Jul 28 10:00:01 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 2
 
-NEW:
-  - ACCID 14715 | 04/03/2026 9:34 AM | Newark City, Essex | 95 | New Jersey Turnpike | Killed: Passenger (1)
-  - ACCID 14714 | 03/02/2026 5:52 PM | West Windsor Twp, Mercer | 571 | County 571 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14471 | 03/22/2026 4:18 AM | Morristown Town, Morris | 287 | Interstate 287 MP 35.8 | Killed: Driver (1)
+  - ACCID 14426 | 02/21/2026 9:09 PM | Elizabeth City, Union | 95 | New Jersey Turnpike MP 100.5 | Killed: Pedestrian (1)
