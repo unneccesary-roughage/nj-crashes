@@ -1,8 +1,8 @@
-RUNDATE: Tue Jul 28 10:00:01 EDT 2026
+RUNDATE: Wed Jul 29 10:00:01 EDT 2026
 
-New crashes: 0
-Updated crashes: 2
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14471 | 03/22/2026 4:18 AM | Morristown Town, Morris | 287 | Interstate 287 MP 35.8 | Killed: Driver (1)
-  - ACCID 14426 | 02/21/2026 9:09 PM | Elizabeth City, Union | 95 | New Jersey Turnpike MP 100.5 | Killed: Pedestrian (1)
+NEW:
+  - ACCID 14717 | 07/28/2026 3:04 PM | Cranbury Twsp, Middlesex | 130 | State Highway 130 MP 70.84 | Killed: Driver (1)
+  - ACCID 14718 | 07/27/2026 6:29 AM | Raritan Boro, Somerset | 202 | State Highway 202 | Killed: Driver (1)
