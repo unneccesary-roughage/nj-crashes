@@ -1,8 +1,10 @@
-RUNDATE: Wed Jul 29 10:00:01 EDT 2026
+RUNDATE: Thu Jul 30 10:00:00 EDT 2026
 
-New crashes: 2
-Updated crashes: 0
+New crashes: 1
+Updated crashes: 1
 
 NEW:
-  - ACCID 14717 | 07/28/2026 3:04 PM | Cranbury Twsp, Middlesex | 130 | State Highway 130 MP 70.84 | Killed: Driver (1)
-  - ACCID 14718 | 07/27/2026 6:29 AM | Raritan Boro, Somerset | 202 | State Highway 202 | Killed: Driver (1)
+  - ACCID 14719 | 07/28/2026 7:55 PM | Beverly City, Burlington | 626 | County 626 MP .32 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14482 | 03/07/2026 9:23 AM | Springfield Twsp, Burlington | 660 | County 660 MP 1.5 | Killed: Driver (1)
