@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14720,2026-07-30,23:57:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-07-31 16:41:50
 2026,14719,2026-07-28,19:55:00,03,Burlington,0302,Beverly City,626,County 626 MP .32,1,1,0,0,0,2026-07-30 16:23:39
 2026,14717,2026-07-28,15:04:00,12,Middlesex,1202,Cranbury Twsp,130,State Highway 130 MP 70.84,1,1,0,0,0,2026-07-29 16:17:42
 2026,14718,2026-07-27,06:29:00,18,Somerset,1816,Raritan Boro,202,State Highway 202,1,1,0,0,0,2026-07-29 16:17:42

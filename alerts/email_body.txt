@@ -1,10 +1,7 @@
-RUNDATE: Thu Jul 30 10:00:00 EDT 2026
+RUNDATE: Fri Jul 31 10:00:03 EDT 2026
 
 New crashes: 1
-Updated crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14719 | 07/28/2026 7:55 PM | Beverly City, Burlington | 626 | County 626 MP .32 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14482 | 03/07/2026 9:23 AM | Springfield Twsp, Burlington | 660 | County 660 MP 1.5 | Killed: Driver (1)
+  - ACCID 14720 | 07/30/2026 11:57 PM | Wall Twsp, Monmouth | 138 | State Highway 138 | Killed: Driver (1)
