@@ -1,7 +1,7 @@
-RUNDATE: Sat Aug 01 10:00:01 EDT 2026
+RUNDATE: Sun Aug 02 10:00:04 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14721 | 07/30/2026 5:14 PM | Manchester Twsp, Ocean | 70 | State Highway 70 | Killed: Driver (1)
+  - ACCID 14722 | 07/31/2026 10:16 PM | Logan Twsp, Gloucester | 295 | Interstate 295 | Killed: Driver (1)
