@@ -1,5 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14722,2026-07-31,22:16:00,08,Gloucester,0809,Logan Twsp,295,Interstate 295,1,1,0,0,0,2026-08-02 15:57:19
+2026,14722,2026-07-31,22:16:00,08,Gloucester,0809,Logan Twsp,295,Interstate 295 MP 9.8,1,1,0,0,0,2026-08-03 17:06:26
 2026,14720,2026-07-30,23:57:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-07-31 16:41:50
 2026,14721,2026-07-30,17:14:00,15,Ocean,1518,Manchester Twsp,70,State Highway 70,1,1,0,0,0,2026-08-01 15:57:47
 2026,14719,2026-07-28,19:55:00,03,Burlington,0302,Beverly City,626,County 626 MP .32,1,1,0,0,0,2026-07-30 16:23:39

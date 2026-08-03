@@ -1,7 +1,7 @@
-RUNDATE: Sun Aug 02 10:00:04 EDT 2026
+RUNDATE: Mon Aug 03 10:00:01 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 0
+Updated crashes: 1
 
-NEW:
-  - ACCID 14722 | 07/31/2026 10:16 PM | Logan Twsp, Gloucester | 295 | Interstate 295 | Killed: Driver (1)
+UPDATED:
+  - ACCID 14722 | 07/31/2026 10:16 PM | Logan Twsp, Gloucester | 295 | Interstate 295 MP 9.8 | Killed: Driver (1)
