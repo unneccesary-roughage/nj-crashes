@@ -1,7 +1,8 @@
-RUNDATE: Mon Aug 03 10:00:01 EDT 2026
+RUNDATE: Tue Aug 04 10:00:02 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14722 | 07/31/2026 10:16 PM | Logan Twsp, Gloucester | 295 | Interstate 295 MP 9.8 | Killed: Driver (1)
+NEW:
+  - ACCID 14727 | 08/01/2026 9:35 PM | Bridgeton City, Cumberland | 49 | State Highway 49 MP 25.02 | Killed: Pedalcyclist (1)
+  - ACCID 14726 | 07/27/2026 11:56 AM | Toms River, Ocean | 549 | County 549 | Killed: Driver (1)
