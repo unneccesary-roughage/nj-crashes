@@ -18,7 +18,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14706,2026-07-18,01:50:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,1,0,0,0,2026-07-21 16:20:14
 2026,14701,2026-07-17,21:26:00,16,Passaic,1602,Clifton City,,Shafto St,1,0,0,1,0,2026-07-18 15:52:29
 2026,14698,2026-07-15,20:35:00,18,Somerset,1808,Franklin Twsp,514,County 514,1,0,0,1,0,2026-07-16 16:14:30
-2026,14697,2026-07-15,14:43:00,01,Atlantic,0108,Egg Harbor Twsp,559,County 559 MP 2.45,1,1,0,0,0,2026-07-16 16:14:30
+2026,14697,2026-07-15,14:43:00,01,Atlantic,0108,Egg Harbor Twsp,559,County 559 MP 2.45,1,1,0,0,0,2026-08-05 16:28:46
 2026,14696,2026-07-15,11:06:00,02,Bergen,0219,Fort Lee Boro,56,County 56 MP 4.4,1,0,0,1,0,2026-07-16 16:14:30
 2026,14700,2026-07-15,03:30:00,09,Hudson,0910,Union City,691,County 691,1,0,0,1,0,2026-07-18 15:52:29
 2026,14695,2026-07-14,13:08:00,04,Camden,0408,Camden City,551,County 551,1,1,0,0,0,2026-07-15 16:17:33
@@ -35,7 +35,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14684,2026-07-08,20:46:00,08,Gloucester,0811,Monroe Twsp,42,State Highway 42 MP .78,1,0,1,0,0,2026-07-10 16:52:45
 2026,14682,2026-07-06,13:09:00,13,Monmouth,1316,Freehold Twsp,524,County 524,1,1,0,0,0,2026-07-09 17:19:24
 2026,14681,2026-07-06,04:11:00,16,Passaic,1607,Passaic City,21,State Highway 21,1,1,0,0,0,2026-07-07 17:10:01
-2026,14679,2026-07-05,10:55:00,08,Gloucester,0802,Deptford Twsp,295,Interstate 295,2,1,1,0,0,2026-07-06 17:40:01
+2026,14679,2026-07-05,10:55:00,08,Gloucester,0802,Deptford Twsp,295,Interstate 295 MP 57.1,2,1,1,0,0,2026-08-05 16:28:46
 2026,14676,2026-07-05,00:45:00,13,Monmouth,1328,Marlboro Twsp,18,State Highway 18 MP 25.8,1,1,0,0,0,2026-07-06 17:40:01
 2026,14678,2026-07-03,22:44:00,07,Essex,0714,Newark City,,Lake St,1,0,0,1,0,2026-07-06 17:40:01
 2026,14677,2026-07-03,20:21:00,03,Burlington,0337,Washington Twsp,542,County 542,1,1,0,0,0,2026-07-06 17:40:01
@@ -49,7 +49,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14688,2026-06-27,10:26:00,06,Cumberland,0614,Vineland City,,N. Delsea Dr,1,1,0,0,0,2026-07-13 17:10:14
 2026,14665,2026-06-26,09:34:00,17,Salem,1707,Oldmans Twsp,295,Interstate 295 MP 7.2,1,1,0,0,0,2026-06-29 17:32:44
 2026,14666,2026-06-26,03:42:00,07,Essex,0714,Newark City,,Empire St,1,0,0,1,0,2026-06-29 17:32:44
-2026,14667,2026-06-25,21:42:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 62.3,2,1,1,0,0,2026-06-29 17:32:44
+2026,14667,2026-06-25,21:42:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 62.3,2,1,1,0,0,2026-08-05 16:28:46
 2026,14661,2026-06-25,19:41:00,08,Gloucester,0820,West Deptford Twsp,648,County 648,1,1,0,0,0,2026-06-26 16:58:14
 2026,14662,2026-06-25,19:03:00,13,Monmouth,1332,Millstone Twsp,33,State Highway 33,1,1,0,0,0,2026-06-26 16:58:14
 2026,14663,2026-06-25,16:45:00,20,Union,2019,Union Twsp,82,State Highway 82 MP 3.48,2,2,0,0,0,2026-07-22 16:17:31
@@ -57,7 +57,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14655,2026-06-24,03:39:00,08,Gloucester,0802,Deptford Twsp,42,State Highway 42 MP 12,1,1,0,0,0,2026-06-25 17:09:15
 2026,14657,2026-06-24,01:47:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-06-25 17:09:15
 2026,14654,2026-06-23,20:22:00,15,Ocean,1512,Lacey Twsp,444,Garden State Parkway MP 75.7,1,0,1,0,0,2026-06-25 17:09:15
-2026,14685,2026-06-23,13:04:00,16,Passaic,1602,Clifton City,3,State Highway 3,1,1,0,0,0,2026-07-10 16:52:45
 2026,14652,2026-06-21,18:02:00,21,Warren,2112,Independence Twsp,517,County 517,1,1,0,0,0,2026-06-23 17:14:15
 2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
@@ -104,7 +103,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14629,2026-05-30,04:33:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,1,0,0,0,2026-06-11 18:09:44
 2026,14595,2026-05-29,14:36:00,11,Mercer,1112,Robbinsville Twsp,130,State Highway 130 MP 63.8,1,1,0,0,0,2026-05-30 16:02:22
 2026,14594,2026-05-29,05:20:00,11,Mercer,1113,West Windsor Twp,1,State Highway 1 MP 11.29,1,1,0,0,0,2026-05-30 16:02:22
-2026,14604,2026-05-28,18:46:00,01,Atlantic,0112,Hamilton Twsp,,West Point Ave,1,1,0,0,0,2026-06-03 18:41:27
+2026,14604,2026-05-28,18:46:00,01,Atlantic,0112,Hamilton Twsp,,West Point Ave,1,1,0,0,0,2026-08-05 16:28:46
 2026,14593,2026-05-28,17:58:00,20,Union,2019,Union Twsp,78,Interstate 78,1,0,1,0,0,2026-05-29 18:10:40
 2026,14591,2026-05-27,00:39:00,06,Cumberland,0605,Fairfield Twsp,698,County 698,1,1,0,0,0,2026-05-27 17:55:30
 2026,14588,2026-05-26,23:44:00,20,Union,2009,Linden City,1,State Highway 1,1,1,0,0,0,2026-05-27 17:55:30
@@ -115,7 +114,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14584,2026-05-22,20:11:00,12,Middlesex,1221,South Brunswick Tws,95,New Jersey Turnpike,1,0,1,0,0,2026-05-25 17:04:48
 2026,14580,2026-05-21,02:13:00,04,Camden,0408,Camden City,676,Interstate 676 MP 3.3,1,0,0,1,0,2026-05-21 17:29:07
 2026,14578,2026-05-19,06:52:00,15,Ocean,1506,Brick Twsp,549,County 549,1,0,0,0,1,2026-05-20 17:52:49
-2026,14574,2026-05-17,17:58:00,01,Atlantic,0107,Egg Harbor City,30,State Highway 30 MP 40.8,1,1,0,0,0,2026-05-19 17:36:29
+2026,14574,2026-05-17,17:58:00,01,Atlantic,0107,Egg Harbor City,30,State Highway 30 MP 40.8,1,1,0,0,0,2026-08-05 16:28:46
 2026,14587,2026-05-17,08:44:00,05,Cape May,0506,Middle Twsp,9,State Highway 9 MP 16,1,1,0,0,0,2026-05-27 17:55:30
 2026,14576,2026-05-17,05:53:00,12,Middlesex,1210,Metuchen Boro,287,Interstate 287,2,1,1,0,0,2026-05-19 17:36:29
 2026,14575,2026-05-17,03:59:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,0,1,0,0,2026-05-19 17:36:29
@@ -221,8 +220,8 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
 2026,14466,2026-03-08,22:15:00,12,Middlesex,1214,New Brunswick City,18,State Highway 18,1,1,0,0,0,2026-03-22 01:37:08
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
-2026,14482,2026-03-07,09:23:00,03,Burlington,0335,Springfield Twsp,660,County 660 MP 1.5,1,1,0,0,0,2026-07-30 16:23:39
 2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
+2026,14482,2026-03-07,05:27:00,03,Burlington,0335,Springfield Twsp,660,County 660 MP 1.5,1,1,0,0,0,2026-08-05 16:28:46
 2026,14443,2026-03-05,17:20:00,13,Monmouth,1352,Wall Twsp,70,State Highway 70,1,1,0,0,0,2026-03-07 15:42:28
 2026,14439,2026-03-05,01:57:00,13,Monmouth,1334,Neptune Twsp,35,State Highway 35,1,0,0,1,0,2026-03-06 15:58:05
 2026,14440,2026-03-04,20:36:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 25.63,1,0,0,1,0,2026-03-06 15:58:05
