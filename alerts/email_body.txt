@@ -1,12 +1,8 @@
-RUNDATE: Wed Aug 05 10:00:01 EDT 2026
+RUNDATE: Fri Aug 07 10:00:05 EDT 2026
 
-New crashes: 0
-Updated crashes: 6
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14697 | 07/15/2026 2:43 PM | Egg Harbor Twsp, Atlantic | 559 | County 559 MP 2.45 | Killed: Driver (1)
-  - ACCID 14679 | 07/05/2026 10:55 AM | Deptford Twsp, Gloucester | 295 | Interstate 295 MP 57.1 | Killed: Driver (1), Passenger (1)
-  - ACCID 14667 | 06/25/2026 9:42 PM | Atlantic City, Atlantic | 40 | State Highway 40 MP 62.3 | Killed: Driver (1), Passenger (1)
-  - ACCID 14604 | 05/28/2026 6:46 PM | Hamilton Twsp, Atlantic | None | West Point Ave | Killed: Driver (1)
-  - ACCID 14574 | 05/17/2026 5:58 PM | Egg Harbor City, Atlantic | 30 | State Highway 30 MP 40.8 | Killed: Driver (1)
-  - ACCID 14482 | 03/07/2026 5:27 AM | Springfield Twsp, Burlington | 660 | County 660 MP 1.5 | Killed: Driver (1)
+NEW:
+  - ACCID 14728 | 08/06/2026 1:15 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 49.1 | Killed: Driver (1)
+  - ACCID 14729 | 07/18/2026 5:16 PM | Pine Hill Boro, Camden | 689 | County 689 MP 4.58 | Killed: Driver (1)

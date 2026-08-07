@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14728,2026-08-06,01:15:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 49.1,1,1,0,0,0,2026-08-07 15:51:58
 2026,14727,2026-08-01,21:35:00,06,Cumberland,0601,Bridgeton City,49,State Highway 49 MP 25.02,1,0,0,0,1,2026-08-04 16:48:46
 2026,14722,2026-07-31,22:16:00,08,Gloucester,0809,Logan Twsp,295,Interstate 295 MP 9.8,1,1,0,0,0,2026-08-03 17:06:26
 2026,14720,2026-07-30,23:57:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-07-31 16:41:50
@@ -13,6 +14,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-07-21 16:20:14
 2026,14708,2026-07-20,18:26:00,12,Middlesex,1219,Sayreville Boro,,Chevalier Ave,1,1,0,0,0,2026-07-21 16:20:14
 2026,14703,2026-07-20,00:36:00,08,Gloucester,0804,Elk Twsp,55,State Highway 55,1,1,0,0,0,2026-07-21 16:20:14
+2026,14729,2026-07-18,17:16:00,04,Camden,0428,Pine Hill Boro,689,County 689 MP 4.58,1,1,0,0,0,2026-08-07 15:51:58
 2026,14705,2026-07-18,13:23:00,08,Gloucester,0820,West Deptford Twsp,642,County 642,1,1,0,0,0,2026-07-21 16:20:14
 2026,14702,2026-07-18,07:13:00,12,Middlesex,1225,Woodbridge Twsp,440,State Highway 440,1,1,0,0,0,2026-07-20 16:21:28
 2026,14706,2026-07-18,01:50:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,1,0,0,0,2026-07-21 16:20:14
