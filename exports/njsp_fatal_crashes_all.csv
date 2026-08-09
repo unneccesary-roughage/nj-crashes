@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14731,2026-08-07,22:00:00,15,Ocean,1507,Toms River,70,State Highway 70,1,0,0,1,0,2026-08-09 15:26:15
+2026,14730,2026-08-07,11:23:00,14,Morris,1421,Montville Twsp,621,County 621,1,1,0,0,0,2026-08-09 15:26:15
 2026,14728,2026-08-06,01:15:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 49.1,1,1,0,0,0,2026-08-07 15:51:58
 2026,14727,2026-08-01,21:35:00,06,Cumberland,0601,Bridgeton City,49,State Highway 49 MP 25.02,1,0,0,0,1,2026-08-04 16:48:46
 2026,14722,2026-07-31,22:16:00,08,Gloucester,0809,Logan Twsp,295,Interstate 295 MP 9.8,1,1,0,0,0,2026-08-03 17:06:26

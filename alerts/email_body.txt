@@ -1,8 +1,8 @@
-RUNDATE: Fri Aug 07 10:00:05 EDT 2026
+RUNDATE: Sat Aug 08 10:00:03 EDT 2026
 
 New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14728 | 08/06/2026 1:15 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 49.1 | Killed: Driver (1)
-  - ACCID 14729 | 07/18/2026 5:16 PM | Pine Hill Boro, Camden | 689 | County 689 MP 4.58 | Killed: Driver (1)
+  - ACCID 14731 | 08/07/2026 10:00 PM | Toms River, Ocean | 70 | State Highway 70 | Killed: Pedestrian (1)
+  - ACCID 14730 | 08/07/2026 11:23 AM | Montville Twsp, Morris | 621 | County 621 | Killed: Driver (1)
