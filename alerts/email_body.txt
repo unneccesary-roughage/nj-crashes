@@ -1,8 +1,12 @@
-RUNDATE: Sat Aug 08 10:00:03 EDT 2026
+RUNDATE: Mon Aug 10 10:00:05 EDT 2026
 
-New crashes: 2
+New crashes: 6
 Updated crashes: 0
 
 NEW:
-  - ACCID 14731 | 08/07/2026 10:00 PM | Toms River, Ocean | 70 | State Highway 70 | Killed: Pedestrian (1)
-  - ACCID 14730 | 08/07/2026 11:23 AM | Montville Twsp, Morris | 621 | County 621 | Killed: Driver (1)
+  - ACCID 14734 | 08/08/2026 9:14 PM | Vineland City, Cumberland | None | West Landis Ave | Killed: Pedestrian (1)
+  - ACCID 14737 | 08/08/2026 1:33 PM | Belleville Town, Essex | None | Brookside Dr | Killed: Driver (1)
+  - ACCID 14732 | 08/08/2026 2:11 AM | Cherry Hill Twsp, Camden | 38 | State Highway 38 MP 3.5 | Killed: Pedestrian (1)
+  - ACCID 14736 | 08/07/2026 2:57 PM | Lacey Twsp, Ocean | 444 | Garden State Parkway | Killed: Passenger (1)
+  - ACCID 14735 | 08/06/2026 8:04 PM | Mountainside Boro, Union | 22 | State Highway 22 | Killed: Pedalcyclist (1)
+  - ACCID 14733 | 08/05/2026 4:53 AM | Neptune City Boro, Monmouth | 35 | State Highway 35 | Killed: Pedalcyclist (1)
