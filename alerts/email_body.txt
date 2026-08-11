@@ -1,12 +1,13 @@
-RUNDATE: Mon Aug 10 10:00:05 EDT 2026
+RUNDATE: Tue Aug 11 11:19:51 EDT 2026
 
-New crashes: 6
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 3
 
 NEW:
-  - ACCID 14734 | 08/08/2026 9:14 PM | Vineland City, Cumberland | None | West Landis Ave | Killed: Pedestrian (1)
-  - ACCID 14737 | 08/08/2026 1:33 PM | Belleville Town, Essex | None | Brookside Dr | Killed: Driver (1)
-  - ACCID 14732 | 08/08/2026 2:11 AM | Cherry Hill Twsp, Camden | 38 | State Highway 38 MP 3.5 | Killed: Pedestrian (1)
-  - ACCID 14736 | 08/07/2026 2:57 PM | Lacey Twsp, Ocean | 444 | Garden State Parkway | Killed: Passenger (1)
-  - ACCID 14735 | 08/06/2026 8:04 PM | Mountainside Boro, Union | 22 | State Highway 22 | Killed: Pedalcyclist (1)
-  - ACCID 14733 | 08/05/2026 4:53 AM | Neptune City Boro, Monmouth | 35 | State Highway 35 | Killed: Pedalcyclist (1)
+  - ACCID 14739 | 08/09/2026 10:59 AM | East Windsor Twsp, Mercer | 33 | State Highway 33 | Killed: Pedestrian (1)
+  - ACCID 14738 | 08/09/2026 8:52 AM | Newark City, Essex | 506 | County 506 | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14712 | 07/22/2026 11:52 PM | Washington Twsp, Burlington | 563 | County 563 | Killed: Driver (1)
+  - ACCID 14677 | 07/03/2026 8:21 PM | Washington Twsp, Burlington | 542 | County 542 MP 14.35 | Killed: Driver (1)
+  - ACCID 14590 | 05/26/2026 8:14 PM | Lakewood Twsp, Ocean | 444 | Garden State Parkway | Killed: Driver (1)

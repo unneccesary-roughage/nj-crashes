@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14739,2026-08-09,10:59:00,11,Mercer,1101,East Windsor Twsp,33,State Highway 33,1,0,0,1,0,2026-08-11 15:56:48
+2026,14738,2026-08-09,08:52:00,07,Essex,0714,Newark City,506,County 506,1,0,0,1,0,2026-08-11 15:56:48
 2026,14734,2026-08-08,21:14:00,06,Cumberland,0614,Vineland City,,West Landis Ave,1,0,0,1,0,2026-08-10 15:56:22
 2026,14737,2026-08-08,13:33:00,07,Essex,0701,Belleville Town,,Brookside Dr,1,1,0,0,0,2026-08-10 15:56:22
 2026,14732,2026-08-08,02:11:00,04,Camden,0412,Cherry Hill Twsp,38,State Highway 38 MP 3.5,1,0,0,1,0,2026-08-10 15:56:22
@@ -17,7 +19,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14726,2026-07-27,11:56:00,15,Ocean,1507,Toms River,549,County 549,1,1,0,0,0,2026-08-04 16:48:46
 2026,14718,2026-07-27,06:29:00,18,Somerset,1816,Raritan Boro,202,State Highway 202,1,1,0,0,0,2026-07-29 16:17:42
 2026,14713,2026-07-23,12:37:00,13,Monmouth,1342,Rumson Boro,34,County 34,1,0,0,0,1,2026-07-25 16:01:53
-2026,14712,2026-07-22,23:52:00,03,Burlington,0337,Washington Twsp,563,County 563,1,1,0,0,0,2026-07-24 16:32:13
+2026,14712,2026-07-22,23:52:00,03,Burlington,0337,Washington Twsp,563,County 563,1,1,0,0,0,2026-08-11 15:56:48
 2026,14710,2026-07-22,20:47:00,04,Camden,0408,Camden City,543,County 543,1,1,0,0,0,2026-07-23 16:23:28
 2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-07-21 16:20:14
 2026,14708,2026-07-20,18:26:00,12,Middlesex,1219,Sayreville Boro,,Chevalier Ave,1,1,0,0,0,2026-07-21 16:20:14
@@ -48,7 +50,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14679,2026-07-05,10:55:00,08,Gloucester,0802,Deptford Twsp,295,Interstate 295 MP 57.1,2,1,1,0,0,2026-08-05 16:28:46
 2026,14676,2026-07-05,00:45:00,13,Monmouth,1328,Marlboro Twsp,18,State Highway 18 MP 25.8,1,1,0,0,0,2026-07-06 17:40:01
 2026,14678,2026-07-03,22:44:00,07,Essex,0714,Newark City,,Lake St,1,0,0,1,0,2026-07-06 17:40:01
-2026,14677,2026-07-03,20:21:00,03,Burlington,0337,Washington Twsp,542,County 542,1,1,0,0,0,2026-07-06 17:40:01
+2026,14677,2026-07-03,20:21:00,03,Burlington,0337,Washington Twsp,542,County 542 MP 14.35,1,1,0,0,0,2026-08-11 15:56:48
 2026,14680,2026-07-03,20:08:00,20,Union,2016,Scotch Plains Twsp,,Raritan Rd,1,1,0,0,0,2026-07-09 17:19:24
 2026,14675,2026-07-03,18:58:00,20,Union,2019,Union Twsp,22,State Highway 22 MP 54.1,1,0,0,1,0,2026-07-04 15:58:12
 2026,14674,2026-07-01,15:49:00,20,Union,2007,Hillside Twsp,,Cornell Pl,1,1,0,0,0,2026-07-04 15:58:12
@@ -117,7 +119,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14593,2026-05-28,17:58:00,20,Union,2019,Union Twsp,78,Interstate 78,1,0,1,0,0,2026-05-29 18:10:40
 2026,14591,2026-05-27,00:39:00,06,Cumberland,0605,Fairfield Twsp,698,County 698,1,1,0,0,0,2026-05-27 17:55:30
 2026,14588,2026-05-26,23:44:00,20,Union,2009,Linden City,1,State Highway 1,1,1,0,0,0,2026-05-27 17:55:30
-2026,14590,2026-05-26,20:14:00,15,Ocean,1514,Lakewood Twsp,444,Garden State Parkway,1,1,0,0,0,2026-05-27 17:55:30
+2026,14590,2026-05-26,20:14:00,15,Ocean,1514,Lakewood Twsp,444,Garden State Parkway,1,1,0,0,0,2026-08-11 15:56:48
 2026,14589,2026-05-26,11:07:00,09,Hudson,0901,Bayonne City,95,New Jersey Turnpike MP 2.8,1,1,0,0,0,2026-06-02 18:36:10
 2026,14586,2026-05-25,17:50:00,13,Monmouth,1352,Wall Twsp,35,State Highway 35,1,1,0,0,0,2026-05-26 17:54:26
 2026,14585,2026-05-24,00:10:00,03,Burlington,0338,Westampton Twsp,295,Interstate 295,1,1,0,0,0,2026-05-25 17:04:48
