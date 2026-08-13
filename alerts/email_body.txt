@@ -1,7 +1,7 @@
-RUNDATE: Wed Aug 12 10:00:01 EDT 2026
+RUNDATE: Thu Aug 13 10:00:01 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14740 | 08/07/2026 11:48 PM | Camden City, Camden | 601 | County 601 | Killed: Pedestrian (1)
+  - ACCID 14742 | 08/10/2026 4:34 PM | Bethlehem Twsp, Hunterdon | 173 | State Highway 173 | Killed: Passenger (1)
