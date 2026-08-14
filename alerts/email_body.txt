@@ -1,7 +1,12 @@
-RUNDATE: Thu Aug 13 10:00:01 EDT 2026
+RUNDATE: Fri Aug 14 10:00:05 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 3
+Updated crashes: 1
 
 NEW:
-  - ACCID 14742 | 08/10/2026 4:34 PM | Bethlehem Twsp, Hunterdon | 173 | State Highway 173 | Killed: Passenger (1)
+  - ACCID 14744 | 08/13/2026 10:30 PM | Newark City, Essex | 1 | State Highway 1 | Killed: Driver (1)
+  - ACCID 14743 | 08/13/2026 5:36 AM | Wall Twsp, Monmouth | 21 | County 21 | Killed: Driver (1)
+  - ACCID 14745 | 08/12/2026 12:17 PM | Clifton City, Passaic | 444 | Garden State Parkway | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14481 | 03/26/2026 9:51 AM | Willingboro Twsp, Burlington | 626 | County 626 MP 2.26 | Killed: Driver (1)
