@@ -1,12 +1,11 @@
-RUNDATE: Fri Aug 14 10:00:05 EDT 2026
+RUNDATE: Sat Aug 15 10:00:04 EDT 2026
 
-New crashes: 3
-Updated crashes: 1
+New crashes: 5
+Updated crashes: 0
 
 NEW:
-  - ACCID 14744 | 08/13/2026 10:30 PM | Newark City, Essex | 1 | State Highway 1 | Killed: Driver (1)
-  - ACCID 14743 | 08/13/2026 5:36 AM | Wall Twsp, Monmouth | 21 | County 21 | Killed: Driver (1)
-  - ACCID 14745 | 08/12/2026 12:17 PM | Clifton City, Passaic | 444 | Garden State Parkway | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14481 | 03/26/2026 9:51 AM | Willingboro Twsp, Burlington | 626 | County 626 MP 2.26 | Killed: Driver (1)
+  - ACCID 14750 | 08/14/2026 8:46 PM | Galloway Twsp, Atlantic | 30 | State Highway 30 MP 45.9 | Killed: Driver (1)
+  - ACCID 14749 | 08/14/2026 9:01 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14748 | 08/09/2026 9:37 PM | Manchester Twsp, Ocean | 530 | County 530 | Killed: Pedestrian (1)
+  - ACCID 14746 | 08/09/2026 2:00 AM | Montague Twsp, Sussex | 521 | County 521 | Killed: Driver (1)
+  - ACCID 14747 | 08/03/2026 9:34 AM | Franklin Twsp, Somerset | 287 | Interstate 287 | Killed: Driver (1)
