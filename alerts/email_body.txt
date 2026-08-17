@@ -1,11 +1,8 @@
-RUNDATE: Sat Aug 15 10:00:04 EDT 2026
+RUNDATE: Sun Aug 16 10:00:03 EDT 2026
 
-New crashes: 5
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14750 | 08/14/2026 8:46 PM | Galloway Twsp, Atlantic | 30 | State Highway 30 MP 45.9 | Killed: Driver (1)
-  - ACCID 14749 | 08/14/2026 9:01 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14748 | 08/09/2026 9:37 PM | Manchester Twsp, Ocean | 530 | County 530 | Killed: Pedestrian (1)
-  - ACCID 14746 | 08/09/2026 2:00 AM | Montague Twsp, Sussex | 521 | County 521 | Killed: Driver (1)
-  - ACCID 14747 | 08/03/2026 9:34 AM | Franklin Twsp, Somerset | 287 | Interstate 287 | Killed: Driver (1)
+  - ACCID 14751 | 08/15/2026 1:28 PM | Franklin Twsp, Somerset | 27 | State Highway 27 | Killed: Driver (1)
+  - ACCID 14752 | 08/13/2026 2:26 PM | Camden City, Camden | 609 | County 609 | Killed: Pedestrian (1)
