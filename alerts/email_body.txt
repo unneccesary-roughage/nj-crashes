@@ -1,8 +1,11 @@
-RUNDATE: Sun Aug 16 10:00:03 EDT 2026
+RUNDATE: Mon Aug 17 10:00:01 EDT 2026
 
 New crashes: 2
-Updated crashes: 0
+Updated crashes: 1
 
 NEW:
-  - ACCID 14751 | 08/15/2026 1:28 PM | Franklin Twsp, Somerset | 27 | State Highway 27 | Killed: Driver (1)
-  - ACCID 14752 | 08/13/2026 2:26 PM | Camden City, Camden | 609 | County 609 | Killed: Pedestrian (1)
+  - ACCID 14754 | 08/16/2026 12:34 PM | Mansfield Twsp, Burlington | 206 | State Highway 206 | Killed: Passenger (1)
+  - ACCID 14753 | 08/16/2026 2:35 AM | Harrison Town, Hudson | 280 | Interstate 280 | Killed: Passenger (1)
+
+UPDATED:
+  - ACCID 14751 | 08/15/2026 1:28 PM | Franklin Twsp, Somerset | 27 | State Highway 27 | Killed: Pedestrian (1)

@@ -1,5 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14751,2026-08-15,13:28:00,18,Somerset,1808,Franklin Twsp,27,State Highway 27,1,1,0,0,0,2026-08-17 15:20:45
+2026,14754,2026-08-16,12:34:00,03,Burlington,0319,Mansfield Twsp,206,State Highway 206,1,0,1,0,0,2026-08-17 19:12:00
+2026,14753,2026-08-16,02:35:00,09,Hudson,0904,Harrison Town,280,Interstate 280,1,0,1,0,0,2026-08-17 19:12:00
+2026,14751,2026-08-15,13:28:00,18,Somerset,1808,Franklin Twsp,27,State Highway 27,1,0,0,1,0,2026-08-17 19:12:00
 2026,14750,2026-08-14,20:46:00,01,Atlantic,0111,Galloway Twsp,30,State Highway 30 MP 45.9,1,1,0,0,0,2026-08-16 15:16:55
 2026,14749,2026-08-14,09:01:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike,1,1,0,0,0,2026-08-16 15:16:55
 2026,14744,2026-08-13,22:30:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-08-14 15:46:42
