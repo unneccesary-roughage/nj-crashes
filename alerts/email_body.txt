@@ -1,11 +1,9 @@
-RUNDATE: Mon Aug 17 10:00:01 EDT 2026
+RUNDATE: Tue Aug 18 10:00:03 EDT 2026
 
-New crashes: 2
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 0
 
 NEW:
-  - ACCID 14754 | 08/16/2026 12:34 PM | Mansfield Twsp, Burlington | 206 | State Highway 206 | Killed: Passenger (1)
-  - ACCID 14753 | 08/16/2026 2:35 AM | Harrison Town, Hudson | 280 | Interstate 280 | Killed: Passenger (1)
-
-UPDATED:
-  - ACCID 14751 | 08/15/2026 1:28 PM | Franklin Twsp, Somerset | 27 | State Highway 27 | Killed: Pedestrian (1)
+  - ACCID 14755 | 08/15/2026 10:24 PM | Lindenwold Boro, Camden | 673 | County 673 | Killed: Pedestrian (1)
+  - ACCID 14757 | 08/06/2026 6:32 AM | Jersey City, Hudson | None | Summit Ave | Killed: Driver (1)
+  - ACCID 14756 | 07/26/2026 1:29 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Passenger (1)
