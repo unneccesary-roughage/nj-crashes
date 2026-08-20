@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14758,2026-08-18,04:47:00,09,Hudson,0908,North Bergen Twsp,9,State Highway 9 (Truck (Rt. 1 and 9 Only)),1,0,0,1,0,2026-08-20 15:28:37
 2026,14754,2026-08-16,12:34:00,03,Burlington,0319,Mansfield Twsp,206,State Highway 206,1,0,1,0,0,2026-08-17 19:12:00
 2026,14753,2026-08-16,02:35:00,09,Hudson,0904,Harrison Town,280,Interstate 280,1,0,1,0,0,2026-08-17 19:12:00
 2026,14755,2026-08-15,22:24:00,04,Camden,0422,Lindenwold Boro,673,County 673,1,0,0,1,0,2026-08-19 15:26:10
@@ -265,7 +266,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14446,2026-02-21,15:31:00,15,Ocean,1517,Long Beach Twsp,607,County 607,1,1,0,0,0,2026-03-07 15:42:28
 2026,14425,2026-02-21,02:17:00,03,Burlington,0338,Westampton Twsp,95,New Jersey Turnpike,3,1,2,0,0,2026-02-23 16:36:28
 2026,14424,2026-02-19,23:58:00,12,Middlesex,1225,Woodbridge Twsp,1,State Highway 1,1,0,1,0,0,2026-02-21 15:45:34
-2026,14445,2026-02-19,06:08:00,09,Hudson,0910,Union City,,Bergenline Ave,1,1,0,0,0,2026-06-22 18:42:57
 2026,14422,2026-02-18,22:36:00,12,Middlesex,1225,Woodbridge Twsp,27,State Highway 27 (Business),1,1,0,0,0,2026-02-20 15:57:20
 2026,14419,2026-02-16,09:14:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,1,0,0,0,2026-02-19 15:23:13
 2026,14431,2026-02-15,22:46:00,20,Union,2013,Rahway City,1,State Highway 1,1,1,0,0,0,2026-02-26 16:12:44
