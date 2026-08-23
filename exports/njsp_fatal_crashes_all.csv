@@ -7,7 +7,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14755,2026-08-15,22:24:00,04,Camden,0422,Lindenwold Boro,673,County 673,1,0,0,1,0,2026-08-19 15:26:10
 2026,14751,2026-08-15,13:28:00,18,Somerset,1808,Franklin Twsp,27,State Highway 27,1,0,0,1,0,2026-08-17 19:12:00
 2026,14750,2026-08-14,20:46:00,01,Atlantic,0111,Galloway Twsp,30,State Highway 30 MP 45.9,1,1,0,0,0,2026-08-16 15:16:55
-2026,14749,2026-08-14,09:01:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike,1,1,0,0,0,2026-08-16 15:16:55
+2026,14749,2026-08-14,09:01:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike MP 112.4,1,1,0,0,0,2026-08-23 15:17:38
 2026,14744,2026-08-13,22:30:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-08-14 15:46:42
 2026,14752,2026-08-13,14:26:00,04,Camden,0408,Camden City,609,County 609,1,0,0,1,0,2026-08-17 15:20:45
 2026,14743,2026-08-13,05:36:00,13,Monmouth,1352,Wall Twsp,21,County 21,1,1,0,0,0,2026-08-14 15:46:42

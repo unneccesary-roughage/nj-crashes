@@ -1,12 +1,7 @@
-RUNDATE: Thu Aug 20 10:00:06 EDT 2026
+RUNDATE: Sat Aug 22 10:00:06 EDT 2026
 
-New crashes: 3
+New crashes: 0
 Updated crashes: 1
 
-NEW:
-  - ACCID 14760 | 08/19/2026 11:58 PM | Jersey City, Hudson | 440 | State Highway 440 | Killed: Passenger (1)
-  - ACCID 14759 | 08/18/2026 9:48 PM | Upper Freehold Twsp, Monmouth | 27 | County 27 | Killed: Driver (1)
-  - ACCID 14761 | 07/24/2026 7:30 AM | Mount Arlington Bor, Morris | None | Seasons Dr | Killed: Pedestrian (1)
-
 UPDATED:
-  - ACCID 14758 | 08/18/2026 4:47 AM | North Bergen Twsp, Hudson | 1 | State Highway 1 | Killed: Pedestrian (1)
+  - ACCID 14749 | 08/14/2026 9:01 AM | Secaucus Town, Hudson | 95 | New Jersey Turnpike MP 112.4 | Killed: Driver (1)
