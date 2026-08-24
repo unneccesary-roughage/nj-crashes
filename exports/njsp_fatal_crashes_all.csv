@@ -1,4 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14766,2026-08-23,16:12:00,18,Somerset,1806,Bridgewater Twsp,633,County 633,1,1,0,0,0,2026-08-24 15:34:26
+2026,14769,2026-08-22,08:31:00,06,Cumberland,0614,Vineland City,55,State Highway 55,1,1,0,0,0,2026-08-24 15:34:26
+2026,14765,2026-08-22,07:45:00,01,Atlantic,0112,Hamilton Twsp,50,State Highway 50 MP 19.28,2,1,1,0,0,2026-08-24 15:34:26
+2026,14763,2026-08-22,04:05:00,18,Somerset,1821,Watchung Boro,22,State Highway 22,1,0,0,1,0,2026-08-24 15:34:26
+2026,14768,2026-08-21,19:58:00,14,Morris,1439,Wharton Boro,80,Interstate 80,1,1,0,0,0,2026-08-24 15:34:26
 2026,14760,2026-08-19,23:58:00,09,Hudson,0906,Jersey City,440,State Highway 440,1,0,1,0,0,2026-08-21 15:27:57
 2026,14759,2026-08-18,21:48:00,13,Monmouth,1351,Upper Freehold Twsp,27,County 27,1,1,0,0,0,2026-08-21 15:27:57
 2026,14758,2026-08-18,04:47:00,09,Hudson,0908,North Bergen Twsp,1,State Highway 1,1,0,0,1,0,2026-08-21 15:27:57
@@ -14,6 +19,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14745,2026-08-12,12:17:00,16,Passaic,1602,Clifton City,444,Garden State Parkway,1,1,0,0,0,2026-08-14 15:46:42
 2026,14742,2026-08-10,16:34:00,10,Hunterdon,1002,Bethlehem Twsp,173,State Highway 173,1,0,1,0,0,2026-08-13 15:55:27
 2026,14748,2026-08-09,21:37:00,15,Ocean,1518,Manchester Twsp,530,County 530,1,0,0,1,0,2026-08-16 15:16:55
+2026,14767,2026-08-09,16:26:00,12,Middlesex,1213,Monroe Twsp,614,County 614,1,1,0,0,0,2026-08-24 15:34:26
 2026,14739,2026-08-09,10:59:00,11,Mercer,1101,East Windsor Twsp,33,State Highway 33,1,0,0,1,0,2026-08-11 15:56:48
 2026,14738,2026-08-09,08:52:00,07,Essex,0714,Newark City,506,County 506,1,0,0,1,0,2026-08-11 15:56:48
 2026,14746,2026-08-09,02:00:00,19,Sussex,1914,Montague Twsp,521,County 521,1,1,0,0,0,2026-08-16 15:16:55
@@ -22,8 +28,8 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14732,2026-08-08,02:11:00,04,Camden,0412,Cherry Hill Twsp,38,State Highway 38 MP 3.5,1,0,0,1,0,2026-08-10 15:56:22
 2026,14740,2026-08-07,23:48:00,04,Camden,0408,Camden City,601,County 601,1,0,0,1,0,2026-08-12 15:55:21
 2026,14731,2026-08-07,22:00:00,15,Ocean,1507,Toms River,70,State Highway 70,1,0,0,1,0,2026-08-09 15:26:15
+2026,14770,2026-08-07,17:53:00,05,Cape May,0514,Wildwood City,621,County 621,1,1,0,0,0,2026-08-24 15:34:26
 2026,14736,2026-08-07,14:57:00,15,Ocean,1512,Lacey Twsp,444,Garden State Parkway,1,0,1,0,0,2026-08-10 15:56:22
-2026,14730,2026-08-07,11:23:00,14,Morris,1421,Montville Twsp,621,County 621,1,1,0,0,0,2026-08-09 15:26:15
 2026,14735,2026-08-06,20:04:00,20,Union,2010,Mountainside Boro,22,State Highway 22,1,0,0,0,1,2026-08-10 15:56:22
 2026,14757,2026-08-06,06:32:00,09,Hudson,0906,Jersey City,,Summit Ave,1,1,0,0,0,2026-08-19 15:26:10
 2026,14728,2026-08-06,01:15:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 49.1,1,1,0,0,0,2026-08-07 15:51:58
