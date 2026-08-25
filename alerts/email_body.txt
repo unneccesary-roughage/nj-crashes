@@ -1,13 +1,14 @@
-RUNDATE: Mon Aug 24 10:00:03 EDT 2026
+RUNDATE: Tue Aug 25 10:00:00 EDT 2026
 
-New crashes: 7
-Updated crashes: 0
+New crashes: 4
+Updated crashes: 2
 
 NEW:
-  - ACCID 14766 | 08/23/2026 4:12 PM | Bridgewater Twsp, Somerset | 633 | County 633 | Killed: Driver (1)
-  - ACCID 14769 | 08/22/2026 8:31 AM | Vineland City, Cumberland | 55 | State Highway 55 | Killed: Driver (1)
-  - ACCID 14765 | 08/22/2026 7:45 AM | Hamilton Twsp, Atlantic | 50 | State Highway 50 MP 19.28 | Killed: Driver (1), Passenger (1)
-  - ACCID 14763 | 08/22/2026 4:05 AM | Watchung Boro, Somerset | 22 | State Highway 22 | Killed: Pedestrian (1)
-  - ACCID 14768 | 08/21/2026 7:58 PM | Wharton Boro, Morris | 80 | Interstate 80 | Killed: Driver (1)
-  - ACCID 14767 | 08/09/2026 4:26 PM | Monroe Twsp, Middlesex | 614 | County 614 | Killed: Driver (1)
-  - ACCID 14770 | 08/07/2026 5:53 PM | Wildwood City, Cape May | 621 | County 621 | Killed: Driver (1)
+  - ACCID 14774 | 08/24/2026 7:26 PM | Weymouth Twsp, Atlantic | 50 | State Highway 50 | Killed: Driver (1)
+  - ACCID 14772 | 08/24/2026 8:55 AM | Hamilton Twsp, Mercer | None | Talbot Way | Killed: Driver (1)
+  - ACCID 14771 | 08/12/2026 1:09 PM | Delanco Twsp, Burlington | 625 | County 625 | Killed: Driver (1)
+  - ACCID 14773 | 08/07/2026 8:01 AM | Jersey City, Hudson | None | Montgomery St | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14768 | 08/21/2026 7:58 PM | Wharton Boro, Morris | 80 | Interstate 80 MP 33.9 | Killed: Driver (1)
+  - ACCID 14756 | 07/30/2026 1:29 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Passenger (1)
