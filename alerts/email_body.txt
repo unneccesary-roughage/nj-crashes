@@ -1,14 +1,7 @@
-RUNDATE: Tue Aug 25 10:00:00 EDT 2026
+RUNDATE: Wed Aug 26 10:00:01 EDT 2026
 
-New crashes: 4
-Updated crashes: 2
+New crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14774 | 08/24/2026 7:26 PM | Weymouth Twsp, Atlantic | 50 | State Highway 50 | Killed: Driver (1)
-  - ACCID 14772 | 08/24/2026 8:55 AM | Hamilton Twsp, Mercer | None | Talbot Way | Killed: Driver (1)
-  - ACCID 14771 | 08/12/2026 1:09 PM | Delanco Twsp, Burlington | 625 | County 625 | Killed: Driver (1)
-  - ACCID 14773 | 08/07/2026 8:01 AM | Jersey City, Hudson | None | Montgomery St | Killed: Pedestrian (1)
-
-UPDATED:
-  - ACCID 14768 | 08/21/2026 7:58 PM | Wharton Boro, Morris | 80 | Interstate 80 MP 33.9 | Killed: Driver (1)
-  - ACCID 14756 | 07/30/2026 1:29 PM | Hope Twsp, Warren | 519 | County 519 | Killed: Passenger (1)
+  - ACCID 14775 | 08/25/2026 9:08 AM | Newark City, Essex | 78 | Interstate 78 | Killed: Driver (1), Passenger (1)
