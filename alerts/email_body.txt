@@ -1,7 +1,7 @@
-RUNDATE: Thu Aug 27 10:00:01 EDT 2026
+RUNDATE: Fri Aug 28 10:00:06 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14777 | 08/26/2026 9:01 PM | Jackson Twsp, Ocean | 195 | Interstate 195 | Killed: Driver (1)
+  - ACCID 14778 | 08/26/2026 12:45 PM | Berkeley Twsp, Ocean | None | Moorage Ave | Killed: Pedalcyclist (1)
