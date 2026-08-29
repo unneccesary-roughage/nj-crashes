@@ -1,6 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14779,2026-08-28,11:56:00,15,Ocean,1511,Jackson Twsp,,2080 W County Line Rd,1,0,0,1,0,2026-08-29 18:08:44
 2026,14777,2026-08-26,21:01:00,15,Ocean,1511,Jackson Twsp,195,Interstate 195,1,1,0,0,0,2026-08-28 00:12:42
-2026,14778,2026-08-26,12:45:00,15,Ocean,1505,Berkeley Twsp,,Moorage Ave,1,0,0,0,1,2026-08-28 23:50:19
+2026,14778,2026-08-26,12:45:00,15,Ocean,1505,Berkeley Twsp,,Moorage Ave,1,0,1,0,0,2026-08-29 18:08:44
 2026,14775,2026-08-25,09:08:00,07,Essex,0714,Newark City,78,Interstate 78,2,1,1,0,0,2026-08-26 16:13:59
 2026,14774,2026-08-24,19:26:00,01,Atlantic,0123,Weymouth Twsp,50,State Highway 50,1,1,0,0,0,2026-08-25 15:37:39
 2026,14772,2026-08-24,08:55:00,11,Mercer,1103,Hamilton Twsp,,Talbot Way,1,1,0,0,0,2026-08-25 15:37:39

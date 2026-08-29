@@ -1,7 +1,10 @@
-RUNDATE: Fri Aug 28 10:00:06 EDT 2026
+RUNDATE: Sat Aug 29 10:00:05 EDT 2026
 
 New crashes: 1
-Updated crashes: 0
+Updated crashes: 1
 
 NEW:
-  - ACCID 14778 | 08/26/2026 12:45 PM | Berkeley Twsp, Ocean | None | Moorage Ave | Killed: Pedalcyclist (1)
+  - ACCID 14779 | 08/28/2026 11:56 AM | Jackson Twsp, Ocean | None | 2080 W County Line Rd | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14778 | 08/26/2026 12:45 PM | Berkeley Twsp, Ocean | None | Moorage Ave | Killed: Passenger (1)
