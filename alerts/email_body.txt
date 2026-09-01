@@ -1,8 +1,8 @@
-RUNDATE: Mon Aug 31 10:00:05 EDT 2026
+RUNDATE: Tue Sep 01 10:00:04 EDT 2026
 
 New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14781 | 08/29/2026 6:31 AM | Woodland Twsp, Burlington | 70 | State Highway 70 | Killed: Driver (1)
-  - ACCID 14780 | 08/29/2026 12:40 AM | Mount Laurel Twsp, Burlington | 95 | New Jersey Turnpike | Killed: Passenger (1)
+  - ACCID 14785 | 08/13/2026 12:24 PM | Bayonne City, Hudson | None | Broadway | Killed: Pedalcyclist (1)
+  - ACCID 14784 | 08/10/2026 1:00 PM | Irvington Town, Essex | 601 | County 601 | Killed: Driver (1)
