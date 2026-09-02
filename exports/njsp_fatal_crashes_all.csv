@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
 2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70,1,1,0,0,0,2026-08-31 20:36:54
 2026,14780,2026-08-29,00:40:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-08-31 20:36:54
 2026,14777,2026-08-26,21:01:00,15,Ocean,1511,Jackson Twsp,195,Interstate 195,1,1,0,0,0,2026-08-28 00:12:42
@@ -7,7 +8,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14774,2026-08-24,19:26:00,01,Atlantic,0123,Weymouth Twsp,50,State Highway 50,1,1,0,0,0,2026-08-25 15:37:39
 2026,14772,2026-08-24,08:55:00,11,Mercer,1103,Hamilton Twsp,,Talbot Way,1,1,0,0,0,2026-08-25 15:37:39
 2026,14766,2026-08-23,16:12:00,18,Somerset,1806,Bridgewater Twsp,633,County 633,1,1,0,0,0,2026-08-24 15:34:26
-2026,14769,2026-08-22,08:31:00,06,Cumberland,0614,Vineland City,55,State Highway 55,1,1,0,0,0,2026-08-24 15:34:26
+2026,14769,2026-08-22,08:31:00,06,Cumberland,0614,Vineland City,55,State Highway 55 MP 34.6,1,1,0,0,0,2026-09-02 18:23:21
 2026,14765,2026-08-22,07:45:00,01,Atlantic,0112,Hamilton Twsp,50,State Highway 50 MP 19.28,2,1,1,0,0,2026-08-24 15:34:26
 2026,14763,2026-08-22,04:05:00,18,Somerset,1821,Watchung Boro,22,State Highway 22,1,0,0,1,0,2026-08-24 15:34:26
 2026,14768,2026-08-21,19:58:00,14,Morris,1439,Wharton Boro,80,Interstate 80 MP 33.9,1,1,0,0,0,2026-08-25 15:37:39
@@ -22,7 +23,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14749,2026-08-14,09:01:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike MP 112.4,1,1,0,0,0,2026-08-23 15:17:38
 2026,14744,2026-08-13,22:30:00,07,Essex,0714,Newark City,1,State Highway 1,1,1,0,0,0,2026-08-14 15:46:42
 2026,14752,2026-08-13,14:26:00,04,Camden,0408,Camden City,609,County 609,1,0,0,1,0,2026-08-17 15:20:45
-2026,14785,2026-08-13,12:24:00,09,Hudson,0901,Bayonne City,,Broadway,1,0,0,0,1,2026-09-01 18:07:02
+2026,14785,2026-08-13,12:24:00,09,Hudson,0901,Bayonne City,,Broadway,1,0,0,1,0,2026-09-02 18:23:21
 2026,14743,2026-08-13,05:36:00,13,Monmouth,1352,Wall Twsp,21,County 21,1,1,0,0,0,2026-08-14 15:46:42
 2026,14771,2026-08-12,13:09:00,03,Burlington,0309,Delanco Twsp,625,County 625,1,1,0,0,0,2026-08-25 15:37:39
 2026,14745,2026-08-12,12:17:00,16,Passaic,1602,Clifton City,444,Garden State Parkway,1,1,0,0,0,2026-08-14 15:46:42
