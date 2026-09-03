@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
+2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
 2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70,1,1,0,0,0,2026-08-31 20:36:54
 2026,14780,2026-08-29,00:40:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-08-31 20:36:54

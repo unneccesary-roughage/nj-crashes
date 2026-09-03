@@ -1,11 +1,8 @@
-RUNDATE: Wed Sep 02 10:00:05 EDT 2026
+RUNDATE: Thu Sep 03 10:00:04 EDT 2026
 
-New crashes: 1
-Updated crashes: 2
+New crashes: 2
+Updated crashes: 0
 
 NEW:
-  - ACCID 14786 | 08/30/2026 4:28 AM | Monroe Twsp, Middlesex | 33 | State Highway 33 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14769 | 08/22/2026 8:31 AM | Vineland City, Cumberland | 55 | State Highway 55 MP 34.6 | Killed: Driver (1)
-  - ACCID 14785 | 08/13/2026 12:24 PM | Bayonne City, Hudson | None | Broadway | Killed: Pedestrian (1)
+  - ACCID 14788 | 09/02/2026 7:32 AM | Bloomsbury Boro, Hunterdon | 78 | Interstate 78 | Killed: Driver (1)
+  - ACCID 14787 | 09/01/2026 12:51 AM | Camden City, Camden | 30 | State Highway 30 | Killed: Pedestrian (1)
