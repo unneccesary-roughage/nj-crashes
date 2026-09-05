@@ -1,7 +1,7 @@
-RUNDATE: Fri Sep 04 10:00:04 EDT 2026
+RUNDATE: Sat Sep 05 10:00:03 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14789 | 09/04/2026 12:06 AM | Monroe Twsp, Gloucester | 322 | State Highway 322 MP 26.78 | Killed: Driver (1)
+  - ACCID 14791 | 05/01/2026 9:23 PM | Jersey City, Hudson | None | FOREST ST | Killed: Pedestrian (1)
