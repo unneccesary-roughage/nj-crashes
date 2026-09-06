@@ -1,7 +1,7 @@
-RUNDATE: Sat Sep 05 10:00:03 EDT 2026
+RUNDATE: Sun Sep 06 10:00:04 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14791 | 05/01/2026 9:23 PM | Jersey City, Hudson | None | FOREST ST | Killed: Pedestrian (1)
+  - ACCID 14793 | 09/05/2026 2:02 PM | Andover Twsp, Sussex | 206 | State Highway 206 (Freeway) MP 104.5 | Killed: Passenger (1)
