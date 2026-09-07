@@ -1,6 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14793,2026-09-05,14:02:00,19,Sussex,1902,Andover Twsp,206,State Highway 206 (Freeway) MP 104.5,1,0,1,0,0,2026-09-06 17:28:32
+2026,14793,2026-09-05,14:02:00,19,Sussex,1902,Andover Twsp,206,State Highway 206 MP 104.5,1,0,1,0,0,2026-09-07 18:57:54
 2026,14789,2026-09-04,00:06:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 26.78,1,1,0,0,0,2026-09-04 18:01:45
+2026,14795,2026-09-03,15:46:00,05,Cape May,0511,Upper Twsp,9,State Highway 9,1,1,0,0,0,2026-09-07 18:57:54
 2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
 2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
@@ -14,6 +15,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14766,2026-08-23,16:12:00,18,Somerset,1806,Bridgewater Twsp,633,County 633,1,1,0,0,0,2026-08-24 15:34:26
 2026,14769,2026-08-22,08:31:00,06,Cumberland,0614,Vineland City,55,State Highway 55 MP 34.6,1,1,0,0,0,2026-09-02 18:23:21
 2026,14765,2026-08-22,07:45:00,01,Atlantic,0112,Hamilton Twsp,50,State Highway 50 MP 19.28,2,1,1,0,0,2026-08-24 15:34:26
+2026,14794,2026-08-22,07:41:00,10,Hunterdon,1009,Flemington Boro,,Pennsylvania Ave,1,0,0,1,0,2026-09-07 18:57:54
 2026,14763,2026-08-22,04:05:00,18,Somerset,1821,Watchung Boro,22,State Highway 22,1,0,0,1,0,2026-08-24 15:34:26
 2026,14768,2026-08-21,19:58:00,14,Morris,1439,Wharton Boro,80,Interstate 80 MP 33.9,1,1,0,0,0,2026-08-25 15:37:39
 2026,14760,2026-08-19,23:58:00,09,Hudson,0906,Jersey City,440,State Highway 440,1,0,1,0,0,2026-08-21 15:27:57
@@ -193,7 +195,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,,Main Ave,1,1,0,0,0,2026-05-04 16:28:48
 2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611,1,1,0,0,0,2026-05-04 16:28:48
 2026,14554,2026-05-01,21:25:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-05-04 16:28:48
-2026,14791,2026-05-01,21:23:00,09,Hudson,0906,Jersey City,,FOREST ST,1,0,0,1,0,2026-09-05 17:05:37
 2026,14557,2026-05-01,20:46:00,13,Monmouth,1325,Long Branch City,,Broadway,1,0,0,1,0,2026-05-05 16:21:42
 2026,14552,2026-04-30,23:05:00,11,Mercer,1107,Lawrence Twsp,1,State Highway 1,1,1,0,0,0,2026-05-02 15:42:02
 2026,14550,2026-04-30,13:55:00,15,Ocean,1511,Jackson Twsp,54,County 54,1,1,0,0,0,2026-05-01 15:54:07
@@ -202,7 +203,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14568,2026-04-27,19:30:00,01,Atlantic,0102,Atlantic City,,Atlantic Ave,1,1,0,0,0,2026-05-13 17:14:04
 2026,14544,2026-04-27,14:14:00,07,Essex,0714,Newark City,,Irvington Ave,1,0,0,1,0,2026-04-28 16:49:04
 2026,14545,2026-04-26,12:01:00,11,Mercer,1110,Princeton,,Terhune Road,1,0,0,0,1,2026-04-29 16:26:00
-2026,14548,2026-04-25,11:30:00,09,Hudson,0909,Secaucus Town,681,County 681,1,1,0,0,0,2026-04-30 16:16:23
+2026,14548,2026-04-25,11:30:00,09,Hudson,0909,Secaucus Town,681,County 681 MP 5.25,1,1,0,0,0,2026-09-07 18:57:54
 2026,14567,2026-04-24,21:18:00,01,Atlantic,0119,Pleasantville City,40,State Highway 40 MP 59.82,1,0,0,1,0,2026-05-15 16:48:44
 2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
