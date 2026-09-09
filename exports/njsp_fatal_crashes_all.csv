@@ -1,7 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14793,2026-09-05,14:02:00,19,Sussex,1902,Andover Twsp,206,State Highway 206 MP 104.5,1,0,1,0,0,2026-09-07 18:57:54
 2026,14789,2026-09-04,00:06:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 26.78,1,1,0,0,0,2026-09-04 18:01:45
-2026,14795,2026-09-03,15:46:00,05,Cape May,0511,Upper Twsp,9,State Highway 9,1,1,0,0,0,2026-09-07 18:57:54
+2026,14795,2026-09-03,15:46:00,05,Cape May,0511,Upper Twsp,9,State Highway 9 MP 27.6,1,1,0,0,0,2026-09-09 18:16:28
 2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
 2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
