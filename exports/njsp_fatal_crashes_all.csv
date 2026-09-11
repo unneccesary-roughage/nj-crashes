@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14799,2026-09-10,16:45:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,1,0,0,0,2026-09-11 18:08:07
+2026,14798,2026-09-06,23:49:00,12,Middlesex,1216,Perth Amboy City,611,County 611,1,1,0,0,0,2026-09-11 18:08:07
 2026,14793,2026-09-05,14:02:00,19,Sussex,1902,Andover Twsp,206,State Highway 206 MP 104.5,1,0,1,0,0,2026-09-07 18:57:54
 2026,14789,2026-09-04,00:06:00,08,Gloucester,0811,Monroe Twsp,322,State Highway 322 MP 26.78,1,1,0,0,0,2026-09-04 18:01:45
 2026,14795,2026-09-03,15:46:00,05,Cape May,0511,Upper Twsp,9,State Highway 9 MP 27.6,1,1,0,0,0,2026-09-09 18:16:28

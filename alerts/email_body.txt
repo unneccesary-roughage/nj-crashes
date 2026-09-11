@@ -1,7 +1,8 @@
-RUNDATE: Wed Sep 09 10:00:04 EDT 2026
+RUNDATE: Fri Sep 11 10:00:03 EDT 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14795 | 09/03/2026 3:46 PM | Upper Twsp, Cape May | 9 | State Highway 9 MP 27.6 | Killed: Driver (1)
+NEW:
+  - ACCID 14799 | 09/10/2026 4:45 PM | Tinton Falls Boro, Monmouth | 444 | Garden State Parkway | Killed: Driver (1)
+  - ACCID 14798 | 09/06/2026 11:49 PM | Perth Amboy City, Middlesex | 611 | County 611 | Killed: Driver (1)
