@@ -1,8 +1,7 @@
-RUNDATE: Sat Sep 12 10:00:06 EDT 2026
+RUNDATE: Mon Sep 14 10:00:01 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14801 | 09/11/2026 7:04 PM | Lakewood Twsp, Ocean | None | Lenape Trail | Killed: Pedestrian (1)
-  - ACCID 14800 | 09/11/2026 11:47 AM | Marlboro Twsp, Monmouth | 79 | State Highway 79 MP 8 | Killed: Driver (1)
+  - ACCID 14802 | 09/12/2026 11:48 PM | Cranford Twsp, Union | 444 | Garden State Parkway | Killed: Passenger (1)
