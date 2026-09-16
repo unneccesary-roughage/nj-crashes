@@ -1,12 +1,7 @@
-RUNDATE: Tue Sep 15 10:00:02 EDT 2026
+RUNDATE: Wed Sep 16 10:00:02 EDT 2026
 
-New crashes: 3
-Updated crashes: 1
+New crashes: 1
+Updated crashes: 0
 
 NEW:
-  - ACCID 14806 | 09/14/2026 8:49 PM | Linden City, Union | 27 | State Highway 27 | Killed: Driver (1)
-  - ACCID 14804 | 09/14/2026 8:37 AM | Union Twsp, Union | 78 | Interstate 78 | Killed: Driver (1)
-  - ACCID 14805 | 09/12/2026 7:23 PM | South Plainfield Bo, Middlesex | 605 | County 605 MP .88 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14781 | 08/29/2026 6:31 AM | Woodland Twsp, Burlington | 70 | State Highway 70 | Killed: Driver (1)
+  - ACCID 14807 | 09/13/2026 9:30 PM | Pleasantville City, Atlantic | 40 | State Highway 40 MP 58.5 | Killed: Pedestrian (1)
