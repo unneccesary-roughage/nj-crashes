@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14808,2026-09-15,14:39:00,11,Mercer,1103,Hamilton Twsp,533,County 533,1,1,0,0,0,2026-09-17 18:46:00
 2026,14806,2026-09-14,20:49:00,20,Union,2009,Linden City,27,State Highway 27,1,1,0,0,0,2026-09-15 18:40:51
 2026,14804,2026-09-14,08:37:00,20,Union,2019,Union Twsp,78,Interstate 78,1,1,0,0,0,2026-09-15 18:40:51
 2026,14807,2026-09-13,21:30:00,01,Atlantic,0119,Pleasantville City,40,State Highway 40 MP 58.5,1,0,0,1,0,2026-09-16 18:37:19
@@ -126,7 +127,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
 2026,14646,2026-06-20,22:57:00,07,Essex,0714,Newark City,,N. 7th St,2,0,0,2,0,2026-06-22 18:42:57
-2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway MP 11.3,1,0,0,1,0,2026-07-10 16:52:45
+2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway MP 11.3,1,0,0,1,0,2026-09-17 18:46:00
 2026,14658,2026-06-20,01:02:00,04,Camden,0427,Pennsauken Twsp,130,State Highway 130 MP 31.56,1,0,0,1,0,2026-07-14 16:10:22
 2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
@@ -183,7 +184,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14587,2026-05-17,08:44:00,05,Cape May,0506,Middle Twsp,9,State Highway 9 MP 16,1,1,0,0,0,2026-05-27 17:55:30
 2026,14576,2026-05-17,05:53:00,12,Middlesex,1210,Metuchen Boro,287,Interstate 287,2,1,1,0,0,2026-05-19 17:36:29
 2026,14575,2026-05-17,03:59:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,0,1,0,0,2026-05-19 17:36:29
-2026,14573,2026-05-17,00:45:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15 MP 14.13,1,1,0,0,0,2026-05-19 17:36:29
+2026,14573,2026-05-17,00:45:00,19,Sussex,1918,Sparta Twsp,15,State Highway 15 MP 14.13,1,1,0,0,0,2026-09-17 18:46:00
 2026,14572,2026-05-16,23:28:00,20,Union,2004,Elizabeth City,27,State Highway 27,1,0,0,1,0,2026-05-19 17:36:29
 2026,14656,2026-05-14,14:54:00,12,Middlesex,1216,Perth Amboy City,35,State Highway 35 MP .21,1,1,0,0,0,2026-06-25 17:09:15
 2026,14571,2026-05-13,21:24:00,20,Union,2004,Elizabeth City,,Newark Ave,1,1,0,0,0,2026-05-14 16:57:59
@@ -217,7 +218,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14541,2026-04-24,15:31:00,11,Mercer,1103,Hamilton Twsp,295,Interstate 295 MP 64.7,1,0,1,0,0,2026-04-28 16:49:04
 2026,14539,2026-04-24,06:31:00,20,Union,2012,Plainfield City,601,County 601,1,0,0,1,0,2026-04-25 15:36:42
 2026,14537,2026-04-21,23:45:00,20,Union,2004,Elizabeth City,,Elizabeth Ave,1,1,0,0,0,2026-04-23 16:26:37
-2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-04-22 16:06:43
+2026,14536,2026-04-21,20:14:00,03,Burlington,0323,Moorestown Twsp,,Nixon Dr,1,0,0,1,0,2026-09-17 18:46:00
 2026,14559,2026-04-21,17:46:00,06,Cumberland,0605,Fairfield Twsp,553,County 553,1,1,0,0,0,2026-05-06 16:24:26
 2026,14523,2026-04-19,02:02:00,12,Middlesex,1221,South Brunswick Tws,1,State Highway 1 MP 14.56,1,0,0,1,0,2026-04-19 15:34:41
 2026,14522,2026-04-18,21:20:00,10,Hunterdon,1019,Lebanon Twsp,513,County 513 MP 21.1,1,1,0,0,0,2026-04-19 15:34:41
