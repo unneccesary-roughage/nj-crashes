@@ -1,12 +1,14 @@
-RUNDATE: Thu Sep 17 10:00:02 EDT 2026
+RUNDATE: Fri Sep 18 10:00:03 EDT 2026
 
-New crashes: 1
+New crashes: 3
 Updated crashes: 3
 
 NEW:
-  - ACCID 14808 | 09/15/2026 2:39 PM | Hamilton Twsp, Mercer | 533 | County 533 | Killed: Driver (1)
+  - ACCID 14810 | 09/16/2026 12:19 PM | Springfield Twsp, Union | 124 | State Highway 124 | Killed: Driver (1)
+  - ACCID 14811 | 09/13/2026 9:30 PM | Pleasantville City, Atlantic | 40 | State Highway 40 (Alternate) | Killed: Pedestrian (1)
+  - ACCID 14809 | 09/10/2026 5:13 AM | Jersey City, Hudson | 1 | State Highway 1 | Killed: Pedestrian (1)
 
 UPDATED:
-  - ACCID 14645 | 06/20/2026 10:16 PM | Hamilton Twsp, Atlantic | 446 | Atlantic City Expressway MP 11.3 | Killed: Pedestrian (1)
-  - ACCID 14573 | 05/17/2026 12:45 AM | Sparta Twsp, Sussex | 15 | State Highway 15 MP 14.13 | Killed: Driver (1)
-  - ACCID 14536 | 04/21/2026 8:14 PM | Moorestown Twsp, Burlington | None | Nixon Dr | Killed: Pedestrian (1)
+  - ACCID 14690 | 07/10/2026 11:43 PM | Lower Twsp, Cape May | 47 | State Highway 47 MP 1.16 | Killed: Driver (1)
+  - ACCID 14587 | 05/17/2026 8:44 AM | Middle Twsp, Cape May | 9 | State Highway 9 MP 16 | Killed: Driver (1)
+  - ACCID 14551 | 04/30/2026 11:19 AM | Ridgefield Park Tws, Bergen | 95 | New Jersey Turnpike MP 118.3 | Killed: Driver (1)
