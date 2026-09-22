@@ -1,8 +1,10 @@
-RUNDATE: Mon Sep 21 10:28:29 EDT 2026
+RUNDATE: Tue Sep 22 10:00:06 EDT 2026
 
-New crashes: 2
+New crashes: 4
 Updated crashes: 0
 
 NEW:
-  - ACCID 14813 | 09/17/2026 8:32 PM | Elizabeth City, Union | 1 | State Highway 1 | Killed: Pedestrian (1)
-  - ACCID 14812 | 09/16/2026 3:59 PM | Robbinsville Twsp, Mercer | 195 | Interstate 195 MP 5.6 | Killed: Driver (1)
+  - ACCID 14816 | 09/21/2026 6:09 AM | Old Bridge Twsp, Middlesex | 34 | State Highway 34 MP 23.9 | Killed: Pedestrian (1)
+  - ACCID 14815 | 09/20/2026 5:00 PM | Atlantic City, Atlantic | None | Massachusetts Ave | Killed: Driver (1)
+  - ACCID 14814 | 09/19/2026 9:11 PM | Newark City, Essex | 21 | State Highway 21 | Killed: Driver (1)
+  - ACCID 14817 | 09/13/2026 9:42 PM | Paterson City, Passaic | None | Trenton Ave | Killed: Pedestrian (1)

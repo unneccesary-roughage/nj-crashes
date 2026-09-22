@@ -1,10 +1,14 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14816,2026-09-21,06:09:00,12,Middlesex,1209,Old Bridge Twsp,34,State Highway 34 MP 23.9,1,0,0,1,0,2026-09-22 18:27:58
+2026,14815,2026-09-20,17:00:00,01,Atlantic,0102,Atlantic City,,Massachusetts Ave,1,1,0,0,0,2026-09-22 18:27:58
+2026,14814,2026-09-19,21:11:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-09-22 18:27:58
 2026,14813,2026-09-17,20:32:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-09-21 19:50:52
 2026,14812,2026-09-16,15:59:00,11,Mercer,1112,Robbinsville Twsp,195,Interstate 195 MP 5.6,1,1,0,0,0,2026-09-21 19:50:52
 2026,14810,2026-09-16,12:19:00,20,Union,2017,Springfield Twsp,124,State Highway 124,1,1,0,0,0,2026-09-18 18:01:51
 2026,14808,2026-09-15,14:39:00,11,Mercer,1103,Hamilton Twsp,533,County 533,1,1,0,0,0,2026-09-17 18:46:00
 2026,14806,2026-09-14,20:49:00,20,Union,2009,Linden City,27,State Highway 27,1,1,0,0,0,2026-09-15 18:40:51
 2026,14804,2026-09-14,08:37:00,20,Union,2019,Union Twsp,78,Interstate 78,1,1,0,0,0,2026-09-15 18:40:51
+2026,14817,2026-09-13,21:42:00,16,Passaic,1608,Paterson City,,Trenton Ave,1,0,0,1,0,2026-09-22 18:27:58
 2026,14807,2026-09-13,21:30:00,01,Atlantic,0119,Pleasantville City,40,State Highway 40 MP 58.5,1,0,0,1,0,2026-09-16 18:37:19
 2026,14802,2026-09-12,23:48:00,20,Union,2003,Cranford Twsp,444,Garden State Parkway,1,0,1,0,0,2026-09-14 19:42:51
 2026,14805,2026-09-12,19:23:00,12,Middlesex,1222,South Plainfield Bo,605,County 605 MP .88,1,1,0,0,0,2026-09-15 18:40:51
