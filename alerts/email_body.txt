@@ -1,10 +1,8 @@
-RUNDATE: Tue Sep 22 10:00:06 EDT 2026
+RUNDATE: Wed Sep 23 10:00:02 EDT 2026
 
-New crashes: 4
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14816 | 09/21/2026 6:09 AM | Old Bridge Twsp, Middlesex | 34 | State Highway 34 MP 23.9 | Killed: Pedestrian (1)
-  - ACCID 14815 | 09/20/2026 5:00 PM | Atlantic City, Atlantic | None | Massachusetts Ave | Killed: Driver (1)
-  - ACCID 14814 | 09/19/2026 9:11 PM | Newark City, Essex | 21 | State Highway 21 | Killed: Driver (1)
-  - ACCID 14817 | 09/13/2026 9:42 PM | Paterson City, Passaic | None | Trenton Ave | Killed: Pedestrian (1)
+  - ACCID 14819 | 09/22/2026 1:41 PM | Hanover Twsp, Morris | None | Elm Place | Killed: Driver (1)
+  - ACCID 14818 | 08/29/2026 9:39 AM | Pemberton Twsp, Burlington | None | Springfield Rd | Killed: Driver (1)

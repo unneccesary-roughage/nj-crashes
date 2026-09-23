@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14819,2026-09-22,13:41:00,14,Morris,1412,Hanover Twsp,,Elm Place,1,1,0,0,0,2026-09-23 18:47:50
 2026,14816,2026-09-21,06:09:00,12,Middlesex,1209,Old Bridge Twsp,34,State Highway 34 MP 23.9,1,0,0,1,0,2026-09-22 18:27:58
 2026,14815,2026-09-20,17:00:00,01,Atlantic,0102,Atlantic City,,Massachusetts Ave,1,1,0,0,0,2026-09-22 18:27:58
 2026,14814,2026-09-19,21:11:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-09-22 18:27:58
@@ -23,6 +24,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
 2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
+2026,14818,2026-08-29,09:39:00,03,Burlington,0330,Pemberton Twsp,,Springfield Rd,1,1,0,0,0,2026-09-23 18:47:50
 2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70,1,1,0,0,0,2026-09-15 18:40:51
 2026,14780,2026-08-29,00:40:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-08-31 20:36:54
 2026,14796,2026-08-26,22:12:00,15,Ocean,1512,Lacey Twsp,9,State Highway 9,1,0,0,1,0,2026-09-08 18:15:55
