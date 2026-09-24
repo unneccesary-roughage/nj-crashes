@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14820,2026-09-23,14:35:00,05,Cape May,0511,Upper Twsp,9,State Highway 9,1,1,0,0,0,2026-09-24 18:48:25
 2026,14819,2026-09-22,13:41:00,14,Morris,1412,Hanover Twsp,,Elm Place,1,1,0,0,0,2026-09-23 18:47:50
 2026,14816,2026-09-21,06:09:00,12,Middlesex,1209,Old Bridge Twsp,34,State Highway 34 MP 23.9,1,0,0,1,0,2026-09-22 18:27:58
 2026,14815,2026-09-20,17:00:00,01,Atlantic,0102,Atlantic City,,Massachusetts Ave,1,1,0,0,0,2026-09-22 18:27:58

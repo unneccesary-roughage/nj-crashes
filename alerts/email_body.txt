@@ -1,8 +1,7 @@
-RUNDATE: Wed Sep 23 10:00:02 EDT 2026
+RUNDATE: Thu Sep 24 10:00:03 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14819 | 09/22/2026 1:41 PM | Hanover Twsp, Morris | None | Elm Place | Killed: Driver (1)
-  - ACCID 14818 | 08/29/2026 9:39 AM | Pemberton Twsp, Burlington | None | Springfield Rd | Killed: Driver (1)
+  - ACCID 14820 | 09/23/2026 2:35 PM | Upper Twsp, Cape May | 9 | State Highway 9 | Killed: Driver (1)
