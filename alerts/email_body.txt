@@ -1,7 +1,10 @@
-RUNDATE: Thu Sep 24 10:00:03 EDT 2026
+RUNDATE: Fri Sep 25 10:00:01 EDT 2026
 
 New crashes: 1
-Updated crashes: 0
+Updated crashes: 1
 
 NEW:
-  - ACCID 14820 | 09/23/2026 2:35 PM | Upper Twsp, Cape May | 9 | State Highway 9 | Killed: Driver (1)
+  - ACCID 14821 | 09/22/2026 10:08 PM | Rahway City, Union | None | W. Main Street | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14820 | 09/23/2026 2:35 PM | Upper Twsp, Cape May | 9 | State Highway 9 MP 26.8 | Killed: Driver (1)
