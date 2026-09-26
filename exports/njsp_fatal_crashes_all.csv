@@ -1,10 +1,11 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
 2026,14820,2026-09-23,14:35:00,05,Cape May,0511,Upper Twsp,9,State Highway 9 MP 26.8,1,1,0,0,0,2026-09-25 19:06:05
-2026,14821,2026-09-22,22:08:00,20,Union,2013,Rahway City,,W. Main Street,1,0,0,1,0,2026-09-25 19:06:05
+2026,14821,2026-09-22,22:08:00,20,Union,2013,Rahway City,,West Main St,1,0,0,1,0,2026-09-26 18:15:47
 2026,14819,2026-09-22,13:41:00,14,Morris,1412,Hanover Twsp,,Elm Place,1,1,0,0,0,2026-09-23 18:47:50
 2026,14816,2026-09-21,06:09:00,12,Middlesex,1209,Old Bridge Twsp,34,State Highway 34 MP 23.9,1,0,0,1,0,2026-09-22 18:27:58
 2026,14815,2026-09-20,17:00:00,01,Atlantic,0102,Atlantic City,,Massachusetts Ave,1,1,0,0,0,2026-09-22 18:27:58
 2026,14814,2026-09-19,21:11:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-09-22 18:27:58
+2026,14822,2026-09-19,11:12:00,15,Ocean,1515,Lavallette Boro,35,State Highway 35,1,0,0,1,0,2026-09-26 18:15:47
 2026,14813,2026-09-17,20:32:00,20,Union,2004,Elizabeth City,1,State Highway 1,1,0,0,1,0,2026-09-21 19:50:52
 2026,14812,2026-09-16,15:59:00,11,Mercer,1112,Robbinsville Twsp,195,Interstate 195 MP 5.6,1,1,0,0,0,2026-09-21 19:50:52
 2026,14810,2026-09-16,12:19:00,20,Union,2017,Springfield Twsp,124,State Highway 124,1,1,0,0,0,2026-09-18 18:01:51
