@@ -1,10 +1,9 @@
-RUNDATE: Sat Sep 26 10:00:02 EDT 2026
+RUNDATE: Mon Sep 28 10:00:01 EDT 2026
 
-New crashes: 1
-Updated crashes: 1
+New crashes: 3
+Updated crashes: 0
 
 NEW:
-  - ACCID 14822 | 09/19/2026 11:12 AM | Lavallette Boro, Ocean | 35 | State Highway 35 | Killed: Pedestrian (1)
-
-UPDATED:
-  - ACCID 14821 | 09/22/2026 10:08 PM | Rahway City, Union | None | West Main St | Killed: Pedestrian (1)
+  - ACCID 14823 | 09/27/2026 7:18 AM | Delran Twsp, Burlington | 130 | State Highway 130 MP 40 | Killed: Driver (1)
+  - ACCID 14824 | 09/27/2026 3:34 AM | Union Twsp, Hunterdon | None | None | Killed: Driver (1)
+  - ACCID 14825 | 09/20/2026 2:49 AM | New Brunswick City, Middlesex | 91 | County 91 | Killed: Driver (1)
