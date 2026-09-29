@@ -1,9 +1,16 @@
-RUNDATE: Mon Sep 28 10:00:01 EDT 2026
+RUNDATE: Tue Sep 29 10:00:02 EDT 2026
 
-New crashes: 3
-Updated crashes: 0
+New crashes: 7
+Updated crashes: 1
 
 NEW:
-  - ACCID 14823 | 09/27/2026 7:18 AM | Delran Twsp, Burlington | 130 | State Highway 130 MP 40 | Killed: Driver (1)
-  - ACCID 14824 | 09/27/2026 3:34 AM | Union Twsp, Hunterdon | None | None | Killed: Driver (1)
-  - ACCID 14825 | 09/20/2026 2:49 AM | New Brunswick City, Middlesex | 91 | County 91 | Killed: Driver (1)
+  - ACCID 14832 | 09/28/2026 7:15 PM | Brick Twsp, Ocean | 624 | County 624 | Killed: Driver (1)
+  - ACCID 14830 | 09/26/2026 2:53 AM | Hamilton Twsp, Atlantic | None | Columbia Rd | Killed: Passenger (1)
+  - ACCID 14831 | 09/20/2026 10:03 PM | Deptford Twsp, Gloucester | 553 | County 553 | Killed: Driver (1)
+  - ACCID 14829 | 09/06/2026 1:34 PM | Trenton, Mercer | 31 | State Highway 31 | Killed: Driver (1)
+  - ACCID 14828 | 08/06/2026 5:21 AM | Passaic City, Passaic | 504 | County 504 | Killed: Pedestrian (1)
+  - ACCID 14827 | 07/29/2026 3:13 PM | Toms River, Ocean | 444 | Garden State Parkway | Killed: Driver (1)
+  - ACCID 14826 | 06/10/2026 11:22 AM | Paterson City, Passaic | None | W. Broadway | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14804 | 09/14/2026 8:37 AM | Union Twsp, Union | 78 | Interstate 78 MP 52.9 | Killed: Driver (1)
