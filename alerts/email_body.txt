@@ -1,7 +1,7 @@
-RUNDATE: Thu Oct 01 10:00:06 EDT 2026
+RUNDATE: Fri Oct 02 10:00:02 EDT 2026
 
 New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14833 | 09/30/2026 5:51 AM | Pittsgrove Twsp, Salem | 613 | County 613 | Killed: Driver (1)
+  - ACCID 14834 | 10/01/2026 11:11 PM | Vineland City, Cumberland | None | e chestnut ave | Killed: Pedalcyclist (1)

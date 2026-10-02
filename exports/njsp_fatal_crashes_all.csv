@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,e chestnut ave,1,0,0,0,1,2026-10-02 19:43:13
 2026,14833,2026-09-30,05:51:00,17,Salem,1710,Pittsgrove Twsp,613,County 613,1,1,0,0,0,2026-10-01 20:04:24
 2026,14832,2026-09-28,19:15:00,15,Ocean,1506,Brick Twsp,624,County 624,1,1,0,0,0,2026-09-29 19:45:21
 2026,14823,2026-09-27,07:18:00,03,Burlington,0310,Delran Twsp,130,State Highway 130 MP 40,1,1,0,0,0,2026-09-28 21:02:07
