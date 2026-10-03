@@ -1,5 +1,8 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,e chestnut ave,1,0,0,0,1,2026-10-02 19:43:13
+2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
+2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
+2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
+2026,14835,2026-10-01,22:49:00,05,Cape May,0505,Lower Twsp,9,State Highway 9,1,1,0,0,0,2026-10-03 18:30:21
 2026,14833,2026-09-30,05:51:00,17,Salem,1710,Pittsgrove Twsp,613,County 613,1,1,0,0,0,2026-10-01 20:04:24
 2026,14832,2026-09-28,19:15:00,15,Ocean,1506,Brick Twsp,624,County 624,1,1,0,0,0,2026-09-29 19:45:21
 2026,14823,2026-09-27,07:18:00,03,Burlington,0310,Delran Twsp,130,State Highway 130 MP 40,1,1,0,0,0,2026-09-28 21:02:07
@@ -9,7 +12,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14821,2026-09-22,22:08:00,20,Union,2013,Rahway City,,West Main St,1,0,0,1,0,2026-09-26 18:15:47
 2026,14819,2026-09-22,13:41:00,14,Morris,1412,Hanover Twsp,,Elm Place,1,1,0,0,0,2026-09-23 18:47:50
 2026,14816,2026-09-21,06:09:00,12,Middlesex,1209,Old Bridge Twsp,34,State Highway 34 MP 23.9,1,0,0,1,0,2026-09-22 18:27:58
-2026,14831,2026-09-20,22:03:00,08,Gloucester,0802,Deptford Twsp,553,County 553,1,1,0,0,0,2026-09-29 19:45:21
 2026,14815,2026-09-20,17:00:00,01,Atlantic,0102,Atlantic City,,Massachusetts Ave,1,1,0,0,0,2026-09-22 18:27:58
 2026,14825,2026-09-20,02:49:00,12,Middlesex,1214,New Brunswick City,91,County 91,1,1,0,0,0,2026-09-28 21:02:07
 2026,14814,2026-09-19,21:11:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-09-22 18:27:58
