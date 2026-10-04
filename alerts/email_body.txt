@@ -1,12 +1,10 @@
-RUNDATE: Sat Oct 03 10:00:03 EDT 2026
+RUNDATE: Sun Oct 04 10:00:02 EDT 2026
 
-New crashes: 3
+New crashes: 1
 Updated crashes: 1
 
 NEW:
-  - ACCID 14837 | 10/02/2026 7:24 PM | Egg Harbor Twsp, Atlantic | 40 | State Highway 40 MP 61.35 | Killed: Pedestrian (1)
-  - ACCID 14836 | 10/02/2026 7:02 PM | Paterson City, Passaic | 649 | County 649 | Killed: Pedestrian (1)
-  - ACCID 14835 | 10/01/2026 10:49 PM | Lower Twsp, Cape May | 9 | State Highway 9 | Killed: Driver (1)
+  - ACCID 14838 | 10/03/2026 12:00 PM | Atlantic City, Atlantic | None | Pacific Avenue | Killed: Pedestrian (1)
 
 UPDATED:
-  - ACCID 14834 | 10/01/2026 11:11 PM | Vineland City, Cumberland | None | East Chestnut Ave | Killed: Pedalcyclist (1)
+  - ACCID 14464 | 03/20/2026 2:20 AM | Deptford Twsp, Gloucester | 55 | State Highway 55 MP 56.2 | Killed: Driver (1)

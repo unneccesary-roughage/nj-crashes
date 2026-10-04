@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Avenue,1,0,0,1,0,2026-10-04 18:30:30
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
 2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
@@ -38,7 +39,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
 2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
-2026,14818,2026-08-29,09:39:00,03,Burlington,0330,Pemberton Twsp,,Springfield Rd,1,1,0,0,0,2026-09-23 18:47:50
 2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70,1,1,0,0,0,2026-09-15 18:40:51
 2026,14780,2026-08-29,00:40:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-08-31 20:36:54
 2026,14796,2026-08-26,22:12:00,15,Ocean,1512,Lacey Twsp,9,State Highway 9,1,0,0,1,0,2026-09-08 18:15:55
@@ -290,7 +290,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14494,2026-03-20,06:54:00,14,Morris,1424,Morristown Town,,Speedwell Pl,1,0,0,1,0,2026-04-02 15:57:59
 2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.56,1,1,0,0,0,2026-04-22 16:06:43
 2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
-2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55,1,1,0,0,0,2026-03-20 18:34:30
+2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55 MP 56.2,1,1,0,0,0,2026-10-04 18:30:30
 2026,14477,2026-03-19,08:05:00,07,Essex,0714,Newark City,,Elizabeth Ave,1,0,0,1,0,2026-03-27 15:50:09
 2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
 2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
