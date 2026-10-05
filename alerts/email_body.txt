@@ -1,10 +1,7 @@
-RUNDATE: Sun Oct 04 10:00:02 EDT 2026
+RUNDATE: Mon Oct 05 10:00:02 EDT 2026
 
-New crashes: 1
+New crashes: 0
 Updated crashes: 1
 
-NEW:
-  - ACCID 14838 | 10/03/2026 12:00 PM | Atlantic City, Atlantic | None | Pacific Avenue | Killed: Pedestrian (1)
-
 UPDATED:
-  - ACCID 14464 | 03/20/2026 2:20 AM | Deptford Twsp, Gloucester | 55 | State Highway 55 MP 56.2 | Killed: Driver (1)
+  - ACCID 14838 | 10/03/2026 12:00 PM | Atlantic City, Atlantic | None | Pacific Ave | Killed: Pedestrian (1)

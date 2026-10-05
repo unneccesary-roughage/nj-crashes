@@ -1,5 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Avenue,1,0,0,1,0,2026-10-04 18:30:30
+2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Ave,1,0,0,1,0,2026-10-05 21:47:35
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
 2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
