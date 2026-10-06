@@ -1,7 +1,10 @@
-RUNDATE: Mon Oct 05 10:00:02 EDT 2026
+RUNDATE: Tue Oct 06 10:00:03 EDT 2026
 
-New crashes: 0
+New crashes: 1
 Updated crashes: 1
 
+NEW:
+  - ACCID 14840 | 09/24/2026 6:14 PM | Vineland City, Cumberland | 55 | State Highway 55 | Killed: Driver (1)
+
 UPDATED:
-  - ACCID 14838 | 10/03/2026 12:00 PM | Atlantic City, Atlantic | None | Pacific Ave | Killed: Pedestrian (1)
+  - ACCID 14833 | 09/30/2026 5:51 AM | Pittsgrove Twsp, Salem | 613 | County 613 MP .65 | Killed: Driver (1)
