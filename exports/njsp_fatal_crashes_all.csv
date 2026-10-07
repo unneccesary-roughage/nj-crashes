@@ -30,6 +30,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14805,2026-09-12,19:23:00,12,Middlesex,1222,South Plainfield Bo,605,County 605 MP .88,1,1,0,0,0,2026-09-15 18:40:51
 2026,14801,2026-09-11,19:04:00,15,Ocean,1514,Lakewood Twsp,,Lenape Trail,1,0,0,1,0,2026-09-12 17:39:54
 2026,14800,2026-09-11,11:47:00,13,Monmouth,1328,Marlboro Twsp,79,State Highway 79 MP 8,1,1,0,0,0,2026-09-12 17:39:54
+2026,14841,2026-09-11,02:44:00,11,Mercer,1111,Trenton,1,Interstate 1,1,0,1,0,0,2026-10-07 20:23:24
 2026,14799,2026-09-10,16:45:00,13,Monmouth,1336,Tinton Falls Boro,444,Garden State Parkway,1,1,0,0,0,2026-09-11 18:08:07
 2026,14809,2026-09-10,05:13:00,09,Hudson,0906,Jersey City,1,State Highway 1,1,0,0,1,0,2026-09-18 18:01:51
 2026,14798,2026-09-06,23:49:00,12,Middlesex,1216,Perth Amboy City,611,County 611,1,1,0,0,0,2026-09-11 18:08:07
