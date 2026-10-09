@@ -1,7 +1,13 @@
-RUNDATE: Wed Oct 07 10:00:09 EDT 2026
+RUNDATE: Fri Oct 09 10:00:01 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 3
+Updated crashes: 2
 
 NEW:
-  - ACCID 14841 | 09/11/2026 2:44 AM | Trenton, Mercer | 1 | Interstate 1 | Killed: Passenger (1)
+  - ACCID 14844 | 10/08/2026 7:56 PM | Cherry Hill Twsp, Camden | 38 | State Highway 38 MP 2 | Killed: Pedestrian (1)
+  - ACCID 14843 | 10/08/2026 9:34 AM | Newark City, Essex | 78 | Interstate 78 | Killed: Pedestrian (1)
+  - ACCID 14842 | 10/08/2026 8:06 AM | Mantua Twsp, Gloucester | 626 | County 626 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14627 | 06/09/2026 2:54 PM | Hampton Twsp, Sussex | 622 | County 622 MP 1.6 | Killed: Driver (1)
+  - ACCID 14429 | 02/23/2026 9:45 PM | Bridgewater Twsp, Somerset | 287 | Interstate 287 MP 14.4 | Killed: Pedestrian (1)

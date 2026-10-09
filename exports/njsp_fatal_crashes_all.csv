@@ -1,4 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14844,2026-10-08,19:56:00,04,Camden,0412,Cherry Hill Twsp,38,State Highway 38 MP 2,1,0,0,1,0,2026-10-09 19:58:32
+2026,14843,2026-10-08,09:34:00,07,Essex,0714,Newark City,78,Interstate 78,1,0,0,1,0,2026-10-09 19:58:32
+2026,14842,2026-10-08,08:06:00,08,Gloucester,0810,Mantua Twsp,626,County 626,1,1,0,0,0,2026-10-09 19:58:32
 2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Ave,1,0,0,1,0,2026-10-05 21:47:35
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
@@ -170,7 +173,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14648,2026-06-10,17:24:00,13,Monmouth,1331,Middletown Twsp,520,County 520,1,1,0,0,0,2026-06-22 18:42:57
 2026,14826,2026-06-10,11:22:00,16,Passaic,1608,Paterson City,,W. Broadway,1,1,0,0,0,2026-09-29 19:45:21
 2026,14628,2026-06-10,03:07:00,18,Somerset,1801,Bedminster Twsp,,Meadow Rd,1,1,0,0,0,2026-06-11 18:09:44
-2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622,1,1,0,0,0,2026-06-10 17:55:13
+2026,14627,2026-06-09,14:54:00,19,Sussex,1910,Hampton Twsp,622,County 622 MP 1.6,1,1,0,0,0,2026-10-09 19:58:32
 2026,14640,2026-06-09,01:10:00,07,Essex,0714,Newark City,603,County 603,1,0,0,1,0,2026-06-17 17:47:37
 2026,14624,2026-06-08,13:51:00,13,Monmouth,1304,Colts Neck Twsp,34,State Highway 34 MP 13,1,1,0,0,0,2026-06-09 17:22:48
 2026,14626,2026-06-07,20:22:00,16,Passaic,1608,Paterson City,,Madison Ave,1,0,0,1,0,2026-06-10 17:55:13
@@ -325,7 +328,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14442,2026-02-28,00:53:00,11,Mercer,1102,Ewing Twsp,,Wilburtha Rd,1,1,0,0,0,2026-03-06 15:58:05
 2026,14433,2026-02-28,00:47:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 40.9,1,1,0,0,0,2026-04-10 15:49:42
 2026,14432,2026-02-25,15:26:00,15,Ocean,1518,Manchester Twsp,70,State Highway 70,1,1,0,0,0,2026-02-27 15:56:43
-2026,14429,2026-02-23,21:45:00,18,Somerset,1806,Bridgewater Twsp,287,Interstate 287 MP 14.4,1,0,0,1,0,2026-02-25 16:40:03
+2026,14429,2026-02-23,21:45:00,18,Somerset,1806,Bridgewater Twsp,287,Interstate 287 MP 14.4,1,0,0,1,0,2026-10-09 19:58:32
 2026,14427,2026-02-22,04:02:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-02-23 16:36:28
 2026,14426,2026-02-21,21:09:00,20,Union,2004,Elizabeth City,95,New Jersey Turnpike MP 100.5,1,0,0,1,0,2026-07-28 16:38:05
 2026,14446,2026-02-21,15:31:00,15,Ocean,1517,Long Beach Twsp,607,County 607,1,1,0,0,0,2026-03-07 15:42:28
