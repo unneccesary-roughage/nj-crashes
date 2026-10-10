@@ -2,6 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14844,2026-10-08,19:56:00,04,Camden,0412,Cherry Hill Twsp,38,State Highway 38 MP 2,1,0,0,1,0,2026-10-09 19:58:32
 2026,14843,2026-10-08,09:34:00,07,Essex,0714,Newark City,78,Interstate 78,1,0,0,1,0,2026-10-09 19:58:32
 2026,14842,2026-10-08,08:06:00,08,Gloucester,0810,Mantua Twsp,626,County 626,1,1,0,0,0,2026-10-09 19:58:32
+2026,14845,2026-10-08,05:03:00,12,Middlesex,1204,East Brunswick Twsp,18,State Highway 18,1,1,0,0,0,2026-10-10 19:06:11
 2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Ave,1,0,0,1,0,2026-10-05 21:47:35
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
