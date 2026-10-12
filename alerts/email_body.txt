@@ -1,7 +1,9 @@
-RUNDATE: Sat Oct 10 10:00:01 EDT 2026
+RUNDATE: Mon Oct 12 10:00:01 EDT 2026
 
-New crashes: 1
+New crashes: 3
 Updated crashes: 0
 
 NEW:
-  - ACCID 14845 | 10/08/2026 5:03 AM | East Brunswick Twsp, Middlesex | 18 | State Highway 18 | Killed: Driver (1)
+  - ACCID 14848 | 10/11/2026 7:44 PM | Newark City, Essex | 21 | State Highway 21 | Killed: Pedestrian (1)
+  - ACCID 14847 | 10/11/2026 5:06 AM | Cranbury Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Passenger (2)
+  - ACCID 14846 | 10/10/2026 12:52 PM | Newark City, Essex | 27 | State Highway 27 | Killed: Pedalcyclist (1)
