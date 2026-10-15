@@ -1,6 +1,8 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14852,2026-10-14,21:17:00,20,Union,2004,Elizabeth City,,Spring St,1,0,0,1,0,2026-10-15 18:51:10
 2026,14850,2026-10-13,03:52:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike MP 87.7,1,0,0,1,0,2026-10-14 19:08:34
 2026,14849,2026-10-13,02:11:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9 MP 116.6,2,1,1,0,0,2026-10-14 19:08:34
+2026,14851,2026-10-11,20:52:00,18,Somerset,1809,Green Brook Twsp,22,State Highway 22 MP 39.93,1,0,0,1,0,2026-10-15 18:51:10
 2026,14848,2026-10-11,19:44:00,07,Essex,0714,Newark City,21,State Highway 21,1,0,0,1,0,2026-10-12 22:22:02
 2026,14847,2026-10-11,05:06:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,2,0,2,0,0,2026-10-12 22:22:02
 2026,14846,2026-10-10,12:52:00,07,Essex,0714,Newark City,27,State Highway 27,1,0,0,0,1,2026-10-12 22:22:02

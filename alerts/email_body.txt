@@ -1,8 +1,8 @@
-RUNDATE: Wed Oct 14 10:00:10 EDT 2026
+RUNDATE: Thu Oct 15 10:00:03 EDT 2026
 
 New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14850 | 10/13/2026 3:52 AM | Edison Twsp, Middlesex | 95 | New Jersey Turnpike MP 87.7 | Killed: Pedestrian (1)
-  - ACCID 14849 | 10/13/2026 2:11 AM | Manalapan Twsp, Monmouth | 9 | State Highway 9 MP 116.6 | Killed: Driver (1), Passenger (1)
+  - ACCID 14852 | 10/14/2026 9:17 PM | Elizabeth City, Union | None | Spring St | Killed: Pedestrian (1)
+  - ACCID 14851 | 10/11/2026 8:52 PM | Green Brook Twsp, Somerset | 22 | State Highway 22 MP 39.93 | Killed: Pedestrian (1)
