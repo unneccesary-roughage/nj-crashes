@@ -1,8 +1,7 @@
-RUNDATE: Thu Oct 15 10:00:03 EDT 2026
+RUNDATE: Fri Oct 16 10:00:01 EDT 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14852 | 10/14/2026 9:17 PM | Elizabeth City, Union | None | Spring St | Killed: Pedestrian (1)
-  - ACCID 14851 | 10/11/2026 8:52 PM | Green Brook Twsp, Somerset | 22 | State Highway 22 MP 39.93 | Killed: Pedestrian (1)
+  - ACCID 14853 | 10/15/2026 7:41 PM | Elk Twsp, Gloucester | None | Elk Road | Killed: Pedestrian (1)
