@@ -1,5 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14853,2026-10-15,19:41:00,08,Gloucester,0804,Elk Twsp,,Elk Road,1,0,0,1,0,2026-10-16 18:35:06
+2026,14854,2026-10-16,00:19:00,01,Atlantic,0102,Atlantic City,40,Interstate 40 (Alternate) MP 63,1,1,0,0,0,2026-10-17 17:43:46
+2026,14853,2026-10-15,19:41:00,08,Gloucester,0804,Elk Twsp,538,County 538,1,0,0,1,0,2026-10-17 17:43:46
 2026,14852,2026-10-14,21:17:00,20,Union,2004,Elizabeth City,,Spring St,1,0,0,1,0,2026-10-15 18:51:10
 2026,14850,2026-10-13,03:52:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike MP 87.7,1,0,0,1,0,2026-10-14 19:08:34
 2026,14849,2026-10-13,02:11:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9 MP 116.6,2,1,1,0,0,2026-10-14 19:08:34
@@ -342,7 +343,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14426,2026-02-21,21:09:00,20,Union,2004,Elizabeth City,95,New Jersey Turnpike MP 100.5,1,0,0,1,0,2026-07-28 16:38:05
 2026,14446,2026-02-21,15:31:00,15,Ocean,1517,Long Beach Twsp,607,County 607,1,1,0,0,0,2026-03-07 15:42:28
 2026,14425,2026-02-21,02:17:00,03,Burlington,0338,Westampton Twsp,95,New Jersey Turnpike,3,1,2,0,0,2026-02-23 16:36:28
-2026,14424,2026-02-19,23:58:00,12,Middlesex,1225,Woodbridge Twsp,1,State Highway 1,1,0,1,0,0,2026-02-21 15:45:34
+2026,14424,2026-02-19,23:58:00,12,Middlesex,1225,Woodbridge Twsp,1,State Highway 1 MP 35.13,1,0,1,0,0,2026-10-17 17:43:46
 2026,14422,2026-02-18,22:36:00,12,Middlesex,1225,Woodbridge Twsp,27,State Highway 27 (Business),1,1,0,0,0,2026-02-20 15:57:20
 2026,14419,2026-02-16,09:14:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,1,0,0,0,2026-02-19 15:23:13
 2026,14431,2026-02-15,22:46:00,20,Union,2013,Rahway City,1,State Highway 1,1,1,0,0,0,2026-02-26 16:12:44
