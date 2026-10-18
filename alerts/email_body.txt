@@ -1,11 +1,7 @@
-RUNDATE: Sat Oct 17 10:00:08 EDT 2026
+RUNDATE: Sun Oct 18 10:00:06 EDT 2026
 
 New crashes: 1
-Updated crashes: 2
+Updated crashes: 0
 
 NEW:
-  - ACCID 14854 | 10/16/2026 12:19 AM | Atlantic City, Atlantic | 40 | Interstate 40 (Alternate) MP 63 | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14853 | 10/15/2026 7:41 PM | Elk Twsp, Gloucester | 538 | County 538 | Killed: Pedestrian (1)
-  - ACCID 14424 | 02/19/2026 11:58 PM | Woodbridge Twsp, Middlesex | 1 | State Highway 1 MP 35.13 | Killed: Passenger (1)
+  - ACCID 14855 | 10/17/2026 2:50 PM | Galloway Twsp, Atlantic | 686 | County 686 MP .9 | Killed: Driver (1)
