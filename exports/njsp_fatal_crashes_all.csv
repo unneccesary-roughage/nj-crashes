@@ -1,6 +1,8 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14857,2026-10-18,03:09:00,07,Essex,0709,Irvington Town,603,County 603,1,0,1,0,0,2026-10-19 20:19:27
 2026,14855,2026-10-17,14:50:00,01,Atlantic,0111,Galloway Twsp,686,County 686 MP .9,1,1,0,0,0,2026-10-18 17:45:41
-2026,14854,2026-10-16,00:19:00,01,Atlantic,0102,Atlantic City,40,Interstate 40 (Alternate) MP 63,1,1,0,0,0,2026-10-17 17:43:46
+2026,14856,2026-10-17,03:49:00,12,Middlesex,1217,Piscataway Twsp,287,Interstate 287,1,0,0,1,0,2026-10-19 20:19:27
+2026,14854,2026-10-16,00:19:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 63,1,1,0,0,0,2026-10-19 20:19:27
 2026,14853,2026-10-15,19:41:00,08,Gloucester,0804,Elk Twsp,538,County 538,1,0,0,1,0,2026-10-17 17:43:46
 2026,14852,2026-10-14,21:17:00,20,Union,2004,Elizabeth City,,Spring St,1,0,0,1,0,2026-10-15 18:51:10
 2026,14850,2026-10-13,03:52:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike MP 87.7,1,0,0,1,0,2026-10-14 19:08:34

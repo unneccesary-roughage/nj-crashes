@@ -1,7 +1,11 @@
-RUNDATE: Sun Oct 18 10:00:06 EDT 2026
+RUNDATE: Mon Oct 19 10:00:02 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14855 | 10/17/2026 2:50 PM | Galloway Twsp, Atlantic | 686 | County 686 MP .9 | Killed: Driver (1)
+  - ACCID 14857 | 10/18/2026 3:09 AM | Irvington Town, Essex | 603 | County 603 | Killed: Passenger (1)
+  - ACCID 14856 | 10/17/2026 3:49 AM | Piscataway Twsp, Middlesex | 287 | Interstate 287 | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14854 | 10/16/2026 12:19 AM | Atlantic City, Atlantic | 40 | State Highway 40 MP 63 | Killed: Driver (1)
