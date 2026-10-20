@@ -1,7 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14857,2026-10-18,03:09:00,07,Essex,0709,Irvington Town,603,County 603,1,0,1,0,0,2026-10-19 20:19:27
+2026,14859,2026-10-19,08:49:00,01,Atlantic,0111,Galloway Twsp,561,County 561 MP 11.3,1,1,0,0,0,2026-10-20 18:52:14
+2026,14860,2026-10-18,19:23:00,12,Middlesex,1214,New Brunswick City,,seaman street,1,0,0,1,0,2026-10-20 18:52:14
+2026,14857,2026-10-18,03:09:00,07,Essex,0709,Irvington Town,603,County 603,1,0,0,1,0,2026-10-20 18:52:14
 2026,14855,2026-10-17,14:50:00,01,Atlantic,0111,Galloway Twsp,686,County 686 MP .9,1,1,0,0,0,2026-10-18 17:45:41
-2026,14856,2026-10-17,03:49:00,12,Middlesex,1217,Piscataway Twsp,287,Interstate 287,1,0,0,1,0,2026-10-19 20:19:27
+2026,14856,2026-10-17,03:49:00,12,Middlesex,1217,Piscataway Twsp,287,Interstate 287 MP 7.2,1,0,0,1,0,2026-10-20 18:52:14
 2026,14854,2026-10-16,00:19:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 63,1,1,0,0,0,2026-10-19 20:19:27
 2026,14853,2026-10-15,19:41:00,08,Gloucester,0804,Elk Twsp,538,County 538,1,0,0,1,0,2026-10-17 17:43:46
 2026,14852,2026-10-14,21:17:00,20,Union,2004,Elizabeth City,,Spring St,1,0,0,1,0,2026-10-15 18:51:10
@@ -21,6 +23,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
 2026,14835,2026-10-01,22:49:00,05,Cape May,0505,Lower Twsp,9,State Highway 9,1,1,0,0,0,2026-10-03 18:30:21
 2026,14833,2026-09-30,05:51:00,17,Salem,1710,Pittsgrove Twsp,613,County 613 MP .65,1,1,0,0,0,2026-10-06 19:57:08
+2026,14858,2026-09-28,20:13:00,03,Burlington,0306,Burlington Twsp,634,County 634,1,0,0,1,0,2026-10-20 18:52:14
 2026,14832,2026-09-28,19:15:00,15,Ocean,1506,Brick Twsp,624,County 624,1,1,0,0,0,2026-09-29 19:45:21
 2026,14823,2026-09-27,07:18:00,03,Burlington,0310,Delran Twsp,130,State Highway 130 MP 40,1,1,0,0,0,2026-09-28 21:02:07
 2026,14824,2026-09-27,03:34:00,10,Hunterdon,1025,Union Twsp,,,1,1,0,0,0,2026-09-28 21:02:07
@@ -175,7 +178,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14644,2026-06-18,09:32:00,19,Sussex,1906,Franklin Boro,23,State Highway 23 MP 33.5,1,1,0,0,0,2026-06-19 17:16:07
 2026,14641,2026-06-16,10:45:00,03,Burlington,0334,Southampton Twsp,,Tranquility Ct,1,1,0,0,0,2026-06-18 17:57:18
 2026,14637,2026-06-16,01:29:00,11,Mercer,1101,East Windsor Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-06-17 17:47:37
-2026,14649,2026-06-15,16:15:00,17,Salem,1704,Lower Alloways Cree,626,County 626,1,1,0,0,0,2026-06-23 17:14:15
+2026,14649,2026-06-15,16:15:00,17,Salem,1704,Lower Alloways Cree,626,County 626 MP .66,1,1,0,0,0,2026-10-20 18:52:14
 2026,14639,2026-06-14,02:56:00,14,Morris,1414,Jefferson Twsp,15,State Highway 15,1,1,0,0,0,2026-06-17 17:47:37
 2026,14642,2026-06-14,01:01:00,12,Middlesex,1222,South Plainfield Bo,529,County 529 MP 5.88,1,1,0,0,0,2026-06-19 17:16:07
 2026,14632,2026-06-13,21:41:00,18,Somerset,1806,Bridgewater Twsp,533,County 533 MP 29.45,1,1,0,0,0,2026-06-14 16:19:00
