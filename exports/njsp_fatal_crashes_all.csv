@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14861,2026-10-19,17:09:00,02,Bergen,0246,Paramus Boro,17,State Highway 17,1,0,0,1,0,2026-10-21 19:04:47
 2026,14859,2026-10-19,08:49:00,01,Atlantic,0111,Galloway Twsp,561,County 561 MP 11.3,1,1,0,0,0,2026-10-20 18:52:14
 2026,14860,2026-10-18,19:23:00,12,Middlesex,1214,New Brunswick City,,seaman street,1,0,0,1,0,2026-10-20 18:52:14
 2026,14857,2026-10-18,03:09:00,07,Essex,0709,Irvington Town,603,County 603,1,0,0,1,0,2026-10-20 18:52:14
@@ -21,7 +22,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
 2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
-2026,14835,2026-10-01,22:49:00,05,Cape May,0505,Lower Twsp,9,State Highway 9,1,1,0,0,0,2026-10-03 18:30:21
+2026,14835,2026-10-01,22:49:00,05,Cape May,0505,Lower Twsp,9,State Highway 9 MP 6.27,1,1,0,0,0,2026-10-21 19:04:47
 2026,14833,2026-09-30,05:51:00,17,Salem,1710,Pittsgrove Twsp,613,County 613 MP .65,1,1,0,0,0,2026-10-06 19:57:08
 2026,14858,2026-09-28,20:13:00,03,Burlington,0306,Burlington Twsp,634,County 634,1,0,0,1,0,2026-10-20 18:52:14
 2026,14832,2026-09-28,19:15:00,15,Ocean,1506,Brick Twsp,624,County 624,1,1,0,0,0,2026-09-29 19:45:21

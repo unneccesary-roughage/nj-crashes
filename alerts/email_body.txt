@@ -1,14 +1,10 @@
-RUNDATE: Tue Oct 20 10:00:03 EDT 2026
+RUNDATE: Wed Oct 21 10:00:04 EDT 2026
 
-New crashes: 3
-Updated crashes: 3
+New crashes: 1
+Updated crashes: 1
 
 NEW:
-  - ACCID 14859 | 10/19/2026 8:49 AM | Galloway Twsp, Atlantic | 561 | County 561 MP 11.3 | Killed: Driver (1)
-  - ACCID 14860 | 10/18/2026 7:23 PM | New Brunswick City, Middlesex | None | seaman street | Killed: Pedestrian (1)
-  - ACCID 14858 | 09/28/2026 8:13 PM | Burlington Twsp, Burlington | 634 | County 634 | Killed: Pedestrian (1)
+  - ACCID 14861 | 10/19/2026 5:09 PM | Paramus Boro, Bergen | 17 | State Highway 17 | Killed: Pedestrian (1)
 
 UPDATED:
-  - ACCID 14857 | 10/18/2026 3:09 AM | Irvington Town, Essex | 603 | County 603 | Killed: Pedestrian (1)
-  - ACCID 14856 | 10/17/2026 3:49 AM | Piscataway Twsp, Middlesex | 287 | Interstate 287 MP 7.2 | Killed: Pedestrian (1)
-  - ACCID 14649 | 06/15/2026 4:15 PM | Lower Alloways Cree, Salem | 626 | County 626 MP .66 | Killed: Driver (1)
+  - ACCID 14835 | 10/01/2026 10:49 PM | Lower Twsp, Cape May | 9 | State Highway 9 MP 6.27 | Killed: Driver (1)
