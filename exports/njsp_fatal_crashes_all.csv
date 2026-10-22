@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14863,2026-10-20,21:09:00,03,Burlington,0306,Burlington Twsp,635,County 635,1,1,0,0,0,2026-10-22 19:01:28
 2026,14861,2026-10-19,17:09:00,02,Bergen,0246,Paramus Boro,17,State Highway 17,1,0,0,1,0,2026-10-21 19:04:47
 2026,14859,2026-10-19,08:49:00,01,Atlantic,0111,Galloway Twsp,561,County 561 MP 11.3,1,1,0,0,0,2026-10-20 18:52:14
 2026,14860,2026-10-18,19:23:00,12,Middlesex,1214,New Brunswick City,,seaman street,1,0,0,1,0,2026-10-20 18:52:14
@@ -244,7 +245,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14581,2026-05-08,03:27:00,12,Middlesex,1216,Perth Amboy City,35,State Highway 35,1,0,0,1,0,2026-05-21 17:29:07
 2026,14564,2026-05-08,00:49:00,02,Bergen,0223,Hackensack City,,Essex St,1,0,0,1,0,2026-05-08 16:11:10
 2026,14565,2026-05-07,21:18:00,03,Burlington,0316,Hainesport Twsp,38,State Highway 38,1,1,0,0,0,2026-05-09 15:47:43
-2026,14562,2026-05-07,08:40:00,14,Morris,1435,Rockaway Twsp,80,Interstate 80,1,1,0,0,0,2026-05-08 16:11:10
+2026,14562,2026-05-07,08:40:00,14,Morris,1435,Rockaway Twsp,80,Interstate 80 MP 34.4,1,1,0,0,0,2026-10-22 19:01:28
 2026,14563,2026-05-05,14:11:00,02,Bergen,0219,Fort Lee Boro,29,County 29 MP 2.33,1,0,0,1,0,2026-05-08 16:11:10
 2026,14556,2026-05-04,21:26:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206 MP 92.6,1,1,0,0,0,2026-05-05 16:21:42
 2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,639,County 639,1,0,0,1,0,2026-05-06 16:24:26
@@ -252,7 +253,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14561,2026-05-03,04:13:00,16,Passaic,1613,Wanaque Boro,511,County 511,1,0,0,1,0,2026-05-07 16:46:49
 2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,,Main Ave,1,1,0,0,0,2026-05-04 16:28:48
 2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611,1,1,0,0,0,2026-05-04 16:28:48
-2026,14554,2026-05-01,21:25:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-05-04 16:28:48
+2026,14554,2026-05-01,21:23:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-10-22 19:01:28
 2026,14557,2026-05-01,20:46:00,13,Monmouth,1325,Long Branch City,,Broadway,1,0,0,1,0,2026-05-05 16:21:42
 2026,14552,2026-04-30,23:05:00,11,Mercer,1107,Lawrence Twsp,1,State Highway 1,1,1,0,0,0,2026-05-02 15:42:02
 2026,14550,2026-04-30,13:55:00,15,Ocean,1511,Jackson Twsp,54,County 54,1,1,0,0,0,2026-05-01 15:54:07
