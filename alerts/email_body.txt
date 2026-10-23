@@ -1,11 +1,11 @@
-RUNDATE: Thu Oct 22 10:00:03 EDT 2026
+RUNDATE: Fri Oct 23 10:00:01 EDT 2026
 
 New crashes: 1
 Updated crashes: 2
 
 NEW:
-  - ACCID 14863 | 10/20/2026 9:09 PM | Burlington Twsp, Burlington | 635 | County 635 | Killed: Driver (1)
+  - ACCID 14864 | 10/21/2026 5:20 PM | East Greenwich Twsp, Gloucester | 295 | Interstate 295 MP 17.6 | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14562 | 05/07/2026 8:40 AM | Rockaway Twsp, Morris | 80 | Interstate 80 MP 34.4 | Killed: Driver (1)
-  - ACCID 14554 | 05/01/2026 9:23 PM | Jersey City, Hudson | None | Pacific Ave | Killed: Pedestrian (1)
+  - ACCID 14686 | 07/10/2026 1:00 AM | Wayne Twsp, Passaic | 23 | State Highway 23 | Killed: Driver (1)
+  - ACCID 14629 | 05/30/2026 4:33 AM | North Bergen Twsp, Hudson | 1 | State Highway 1 MP 59.43 | Killed: Driver (1)
