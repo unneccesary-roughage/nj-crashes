@@ -1,7 +1,13 @@
-RUNDATE: Sun Oct 25 10:00:04 EDT 2026
+RUNDATE: Mon Oct 26 10:52:06 EDT 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 4
+Updated crashes: 1
 
 NEW:
-  - ACCID 14867 | 10/24/2026 11:30 PM | Brick Twsp, Ocean | 549 | County 549 | Killed: Pedestrian (1)
+  - ACCID 14871 | 10/25/2026 2:06 AM | Newark City, Essex | 506 | County 506 | Killed: Pedestrian (1)
+  - ACCID 14870 | 10/24/2026 9:44 PM | Toms River, Ocean | 444 | Garden State Parkway | Killed: Passenger (1)
+  - ACCID 14869 | 10/24/2026 9:42 PM | Toms River, Ocean | 444 | Garden State Parkway | Killed: Driver (1)
+  - ACCID 14868 | 10/23/2026 2:59 PM | Pittsgrove Twsp, Salem | 540 | County 540 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14865 | 10/23/2026 7:15 AM | Wayne Twsp, Passaic | 504 | County 504 | Killed: Driver (1)

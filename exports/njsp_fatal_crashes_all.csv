@@ -1,7 +1,10 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14871,2026-10-25,02:06:00,07,Essex,0714,Newark City,506,County 506,1,0,0,1,0,2026-10-26 20:16:28
 2026,14867,2026-10-24,23:30:00,15,Ocean,1506,Brick Twsp,549,County 549,1,0,0,1,0,2026-10-25 18:04:07
-2026,14866,2026-10-23,18:18:00,18,Somerset,1808,Franklin Twsp,,55 Commerce Drive,1,0,0,1,0,2026-10-24 17:47:16
-2026,14865,2026-10-23,07:15:00,16,Passaic,1614,Wayne Twsp,,Hamburg Turnpike,1,1,0,0,0,2026-10-24 17:47:16
+2026,14870,2026-10-24,21:44:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,0,1,0,0,2026-10-26 20:16:28
+2026,14869,2026-10-24,21:42:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,1,0,0,0,2026-10-26 20:16:28
+2026,14868,2026-10-23,14:59:00,17,Salem,1710,Pittsgrove Twsp,540,County 540,1,1,0,0,0,2026-10-26 20:16:28
+2026,14865,2026-10-23,07:15:00,16,Passaic,1614,Wayne Twsp,504,County 504,1,1,0,0,0,2026-10-26 20:16:28
 2026,14864,2026-10-21,17:20:00,08,Gloucester,0803,East Greenwich Twsp,295,Interstate 295 MP 17.6,1,1,0,0,0,2026-10-23 18:51:42
 2026,14863,2026-10-20,21:09:00,03,Burlington,0306,Burlington Twsp,635,County 635,1,1,0,0,0,2026-10-22 19:01:28
 2026,14861,2026-10-19,17:09:00,02,Bergen,0246,Paramus Boro,17,State Highway 17,1,0,0,1,0,2026-10-21 19:04:47
