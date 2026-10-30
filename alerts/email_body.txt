@@ -1,17 +1,12 @@
-RUNDATE: Wed Oct 28 10:00:01 EDT 2026
+RUNDATE: Fri Oct 30 10:00:10 EDT 2026
 
-New crashes: 7
-Updated crashes: 2
+New crashes: 6
+Updated crashes: 0
 
 NEW:
-  - ACCID 14878 | 10/27/2026 6:31 PM | Bridgewater Twsp, Somerset | 28 | State Highway 28 MP 5 | Killed: Pedestrian (1)
-  - ACCID 14874 | 10/27/2026 2:18 AM | Pequannock Twsp, Morris | 23 | State Highway 23 MP 11.8 | Killed: Driver (1)
-  - ACCID 14875 | 10/26/2026 5:03 PM | Branchburg Twsp, Somerset | 202 | State Highway 202 | Killed: Driver (1)
-  - ACCID 14873 | 10/26/2026 2:03 PM | Woodland Twsp, Burlington | 563 | County 563 | Killed: Driver (1)
-  - ACCID 14876 | 10/20/2026 6:32 PM | Gloucester Twsp, Camden | 705 | County 705 | Killed: Driver (1)
-  - ACCID 14872 | 10/18/2026 3:27 AM | Camden City, Camden | 676 | Interstate 676 | Killed: Driver (1)
-  - ACCID 14877 | 09/20/2026 1:54 AM | Edgewater Park Twsp, Burlington | 130 | State Highway 130 | Killed: Pedestrian (1)
-
-UPDATED:
-  - ACCID 14522 | 04/18/2026 9:20 PM | Lebanon Twsp, Hunterdon | 513 | County 513 MP 20.93 | Killed: Driver (1)
-  - ACCID 14497 | 04/01/2026 4:19 AM | Roxbury Twsp, Morris | 80 | Interstate 80 MP 31.74 | Killed: Driver (1)
+  - ACCID 14885 | 10/30/2026 1:03 AM | Frelinghuysen Twsp, Warren | 80 | Interstate 80 | Killed: Driver (1)
+  - ACCID 14881 | 10/29/2026 6:43 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 48.3 | Killed: Pedestrian (1)
+  - ACCID 14880 | 10/29/2026 5:08 AM | East Brunswick Twsp, Middlesex | 18 | State Highway 18 | Killed: Pedestrian (1)
+  - ACCID 14884 | 10/28/2026 6:34 PM | Readington Twsp, Hunterdon | None | Lightfield Rd | Killed: Driver (1)
+  - ACCID 14883 | 10/28/2026 6:18 PM | Waterford Twsp, Camden | 30 | State Highway 30 | Killed: Driver (1)
+  - ACCID 14879 | 10/28/2026 12:11 PM | Estell Manor City, Atlantic | None | South Jersey Ave | Killed: Pedestrian (1)

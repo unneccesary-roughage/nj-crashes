@@ -1,4 +1,10 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14885,2026-10-30,01:03:00,21,Warren,2106,Frelinghuysen Twsp,80,Interstate 80,1,1,0,0,0,2026-10-30 19:49:27
+2026,14881,2026-10-29,06:43:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.3,1,0,0,1,0,2026-10-30 19:49:27
+2026,14880,2026-10-29,05:08:00,12,Middlesex,1204,East Brunswick Twsp,18,State Highway 18,1,0,0,1,0,2026-10-30 19:49:27
+2026,14884,2026-10-28,18:34:00,10,Hunterdon,1022,Readington Twsp,,Lightfield Rd,1,1,0,0,0,2026-10-30 19:49:27
+2026,14883,2026-10-28,18:18:00,04,Camden,0435,Waterford Twsp,30,State Highway 30,1,1,0,0,0,2026-10-30 19:49:27
+2026,14879,2026-10-28,12:11:00,01,Atlantic,0109,Estell Manor City,,South Jersey Ave,1,0,0,1,0,2026-10-30 19:49:27
 2026,14878,2026-10-27,18:31:00,18,Somerset,1806,Bridgewater Twsp,28,State Highway 28 MP 5,1,0,0,1,0,2026-10-28 20:02:34
 2026,14874,2026-10-27,02:18:00,14,Morris,1431,Pequannock Twsp,23,State Highway 23 MP 11.8,1,1,0,0,0,2026-10-28 20:02:34
 2026,14875,2026-10-26,17:03:00,18,Somerset,1805,Branchburg Twsp,202,State Highway 202,1,1,0,0,0,2026-10-28 20:02:34
