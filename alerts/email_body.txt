@@ -1,12 +1,8 @@
-RUNDATE: Fri Oct 30 10:00:10 EDT 2026
+RUNDATE: Sat Oct 31 10:00:03 EDT 2026
 
-New crashes: 6
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14885 | 10/30/2026 1:03 AM | Frelinghuysen Twsp, Warren | 80 | Interstate 80 | Killed: Driver (1)
-  - ACCID 14881 | 10/29/2026 6:43 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 48.3 | Killed: Pedestrian (1)
-  - ACCID 14880 | 10/29/2026 5:08 AM | East Brunswick Twsp, Middlesex | 18 | State Highway 18 | Killed: Pedestrian (1)
-  - ACCID 14884 | 10/28/2026 6:34 PM | Readington Twsp, Hunterdon | None | Lightfield Rd | Killed: Driver (1)
-  - ACCID 14883 | 10/28/2026 6:18 PM | Waterford Twsp, Camden | 30 | State Highway 30 | Killed: Driver (1)
-  - ACCID 14879 | 10/28/2026 12:11 PM | Estell Manor City, Atlantic | None | South Jersey Ave | Killed: Pedestrian (1)
+  - ACCID 14887 | 10/30/2026 6:35 AM | Ewing Twsp, Mercer | 579 | County 579 (Spur (County Routes Only)) MP 0 | Killed: Driver (1)
+  - ACCID 14886 | 10/30/2026 5:39 AM | Parsippany-Troy Hil, Morris | 80 | Interstate 80 MP 41.8 | Killed: Driver (1)

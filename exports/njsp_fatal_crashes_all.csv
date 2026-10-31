@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14887,2026-10-30,06:35:00,11,Mercer,1102,Ewing Twsp,579,County 579 (Spur (County Routes Only)) MP 0,1,1,0,0,0,2026-10-31 19:02:45
+2026,14886,2026-10-30,05:39:00,14,Morris,1429,Parsippany-Troy Hil,80,Interstate 80 MP 41.8,1,1,0,0,0,2026-10-31 19:02:45
 2026,14885,2026-10-30,01:03:00,21,Warren,2106,Frelinghuysen Twsp,80,Interstate 80,1,1,0,0,0,2026-10-30 19:49:27
 2026,14881,2026-10-29,06:43:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.3,1,0,0,1,0,2026-10-30 19:49:27
 2026,14880,2026-10-29,05:08:00,12,Middlesex,1204,East Brunswick Twsp,18,State Highway 18,1,0,0,1,0,2026-10-30 19:49:27
