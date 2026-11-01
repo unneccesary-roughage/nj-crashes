@@ -1,8 +1,7 @@
-RUNDATE: Sat Oct 31 10:00:03 EDT 2026
+RUNDATE: Sun Nov 01 10:00:04 EST 2026
 
-New crashes: 2
+New crashes: 1
 Updated crashes: 0
 
 NEW:
-  - ACCID 14887 | 10/30/2026 6:35 AM | Ewing Twsp, Mercer | 579 | County 579 (Spur (County Routes Only)) MP 0 | Killed: Driver (1)
-  - ACCID 14886 | 10/30/2026 5:39 AM | Parsippany-Troy Hil, Morris | 80 | Interstate 80 MP 41.8 | Killed: Driver (1)
+  - ACCID 14888 | 10/27/2026 6:31 PM | Lakewood Twsp, Ocean | 70 | State Highway 70 MP 52 | Killed: Pedestrian (1)
