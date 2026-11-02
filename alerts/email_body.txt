@@ -1,7 +1,14 @@
-RUNDATE: Sun Nov 01 10:00:04 EST 2026
+RUNDATE: Mon Nov 02 10:00:03 EST 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 4
+Updated crashes: 2
 
 NEW:
-  - ACCID 14888 | 10/27/2026 6:31 PM | Lakewood Twsp, Ocean | 70 | State Highway 70 MP 52 | Killed: Pedestrian (1)
+  - ACCID 14892 | 11/02/2026 1:04 AM | Bedminster Twsp, Somerset | 78 | Interstate 78 | Killed: Driver (1)
+  - ACCID 14889 | 11/01/2026 5:22 PM | Vineland City, Cumberland | 540 | County 540 | Killed: Pedestrian (1)
+  - ACCID 14890 | 10/31/2026 5:14 PM | Lacey Twsp, Ocean | 539 | County 539 | Killed: Driver (1)
+  - ACCID 14891 | 10/30/2026 9:46 PM | Readington Twsp, Hunterdon | 202 | State Highway 202 | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14887 | 10/30/2026 6:35 AM | Ewing Twsp, Mercer | 579 | County 579 MP 0 | Killed: Driver (1)
+  - ACCID 14450 | 03/09/2026 9:18 AM | Newark City, Essex | 95 | New Jersey Turnpike MP 106.11 | Killed: Driver (1)

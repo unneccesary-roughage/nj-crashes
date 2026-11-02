@@ -1,5 +1,9 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
-2026,14887,2026-10-30,06:35:00,11,Mercer,1102,Ewing Twsp,579,County 579 (Spur (County Routes Only)) MP 0,1,1,0,0,0,2026-10-31 19:02:45
+2026,14892,2026-11-02,01:04:00,18,Somerset,1801,Bedminster Twsp,78,Interstate 78,1,1,0,0,0,2026-11-02 22:58:16
+2026,14889,2026-11-01,17:22:00,06,Cumberland,0614,Vineland City,540,County 540,1,0,0,1,0,2026-11-02 22:58:16
+2026,14890,2026-10-31,17:14:00,15,Ocean,1512,Lacey Twsp,539,County 539,1,1,0,0,0,2026-11-02 22:58:16
+2026,14891,2026-10-30,21:46:00,10,Hunterdon,1022,Readington Twsp,202,State Highway 202,1,1,0,0,0,2026-11-02 22:58:16
+2026,14887,2026-10-30,06:35:00,11,Mercer,1102,Ewing Twsp,579,County 579 MP 0,1,1,0,0,0,2026-11-02 22:58:16
 2026,14886,2026-10-30,05:39:00,14,Morris,1429,Parsippany-Troy Hil,80,Interstate 80 MP 41.8,1,1,0,0,0,2026-10-31 19:02:45
 2026,14885,2026-10-30,01:03:00,21,Warren,2106,Frelinghuysen Twsp,80,Interstate 80,1,1,0,0,0,2026-10-30 19:49:27
 2026,14881,2026-10-29,06:43:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.3,1,0,0,1,0,2026-10-30 19:49:27
@@ -354,7 +358,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14453,2026-03-10,08:27:00,02,Bergen,0223,Hackensack City,,W. Pleasantview Ave,1,0,0,1,0,2026-03-11 15:44:13
 2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
 2026,14451,2026-03-09,09:57:00,12,Middlesex,1225,Woodbridge Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-11 15:44:13
-2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike,1,1,0,0,0,2026-03-10 15:57:26
+2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike MP 106.11,1,1,0,0,0,2026-11-02 22:58:16
 2026,14466,2026-03-08,22:15:00,12,Middlesex,1214,New Brunswick City,18,State Highway 18,1,1,0,0,0,2026-03-22 01:37:08
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
 2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
