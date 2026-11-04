@@ -1,9 +1,8 @@
-RUNDATE: Tue Nov 03 10:00:03 EST 2026
+RUNDATE: Wed Nov 04 10:00:03 EST 2026
 
-New crashes: 3
+New crashes: 2
 Updated crashes: 0
 
 NEW:
-  - ACCID 14895 | 11/02/2026 1:29 PM | Pittsgrove Twsp, Salem | 40 | State Highway 40 | Killed: Driver (1)
-  - ACCID 14894 | 11/01/2026 1:08 AM | Freehold Twsp, Monmouth | None | Ely Harmony Rd | Killed: Driver (1)
-  - ACCID 14893 | 10/30/2026 10:36 AM | Hammonton Town, Atlantic | 446 | Atlantic City Expressway | Killed: Driver (1)
+  - ACCID 14896 | 11/02/2026 9:47 PM | Fair Lawn Boro, Bergen | 4 | State Highway 4 MP 0 | Killed: Pedestrian (1)
+  - ACCID 14897 | 10/31/2026 12:22 AM | Oxford Twsp, Warren | 625 | County 625 MP .7 | Killed: Driver (1)
