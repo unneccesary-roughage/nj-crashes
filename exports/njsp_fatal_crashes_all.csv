@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14898,2026-11-04,16:33:00,08,Gloucester,0811,Monroe Twsp,536,County 536 MP 26.32,1,1,0,0,0,2026-11-05 21:18:24
 2026,14896,2026-11-02,21:47:00,02,Bergen,0217,Fair Lawn Boro,4,State Highway 4 MP 0,1,0,0,1,0,2026-11-04 21:01:21
 2026,14895,2026-11-02,13:29:00,17,Salem,1710,Pittsgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-11-03 20:44:33
 2026,14892,2026-11-02,01:04:00,18,Somerset,1801,Bedminster Twsp,78,Interstate 78,1,1,0,0,0,2026-11-02 22:58:16
@@ -20,11 +21,12 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14878,2026-10-27,18:31:00,18,Somerset,1806,Bridgewater Twsp,28,State Highway 28 MP 5,1,0,0,1,0,2026-10-28 20:02:34
 2026,14874,2026-10-27,02:18:00,14,Morris,1431,Pequannock Twsp,23,State Highway 23 MP 11.8,1,1,0,0,0,2026-10-28 20:02:34
 2026,14875,2026-10-26,17:03:00,18,Somerset,1805,Branchburg Twsp,202,State Highway 202,1,1,0,0,0,2026-10-28 20:02:34
-2026,14873,2026-10-26,14:03:00,03,Burlington,0339,Woodland Twsp,563,County 563,1,1,0,0,0,2026-10-28 20:02:34
+2026,14873,2026-10-26,14:03:00,03,Burlington,0339,Woodland Twsp,563,County 563 MP 42.9,1,1,0,0,0,2026-11-05 21:18:25
 2026,14871,2026-10-25,02:06:00,07,Essex,0714,Newark City,506,County 506,1,0,0,1,0,2026-10-26 20:16:28
 2026,14867,2026-10-24,23:30:00,15,Ocean,1506,Brick Twsp,549,County 549,1,0,0,1,0,2026-10-25 18:04:07
 2026,14870,2026-10-24,21:44:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,0,1,0,0,2026-10-26 20:16:28
 2026,14869,2026-10-24,21:42:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,1,0,0,0,2026-10-26 20:16:28
+2026,14899,2026-10-24,15:14:00,12,Middlesex,1205,Edison Twsp,,Meadow Rd,1,1,0,0,0,2026-11-05 21:18:25
 2026,14868,2026-10-23,14:59:00,17,Salem,1710,Pittsgrove Twsp,540,County 540,1,1,0,0,0,2026-10-26 20:16:28
 2026,14865,2026-10-23,07:15:00,16,Passaic,1614,Wayne Twsp,504,County 504,1,1,0,0,0,2026-10-26 20:16:28
 2026,14864,2026-10-21,17:20:00,08,Gloucester,0803,East Greenwich Twsp,295,Interstate 295 MP 17.6,1,1,0,0,0,2026-10-23 18:51:42
@@ -363,7 +365,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14453,2026-03-10,08:27:00,02,Bergen,0223,Hackensack City,,W. Pleasantview Ave,1,0,0,1,0,2026-03-11 15:44:13
 2026,14454,2026-03-10,07:25:00,11,Mercer,1102,Ewing Twsp,29,State Highway 29 MP 7.56,2,2,0,0,0,2026-03-13 15:39:15
 2026,14451,2026-03-09,09:57:00,12,Middlesex,1225,Woodbridge Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-03-11 15:44:13
-2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike MP 106.11,1,1,0,0,0,2026-11-02 22:58:16
+2026,14450,2026-03-09,09:18:00,07,Essex,0714,Newark City,95,New Jersey Turnpike MP 106.11,1,1,0,0,0,2026-11-05 21:18:25
 2026,14466,2026-03-08,22:15:00,12,Middlesex,1214,New Brunswick City,18,State Highway 18,1,1,0,0,0,2026-03-22 01:37:08
 2026,14447,2026-03-07,23:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,1,0,0,0,2026-03-09 15:55:47
 2026,14448,2026-03-07,05:57:00,06,Cumberland,0614,Vineland City,552,County 552,1,0,0,1,0,2026-03-10 15:57:26
@@ -399,7 +401,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14406,2026-02-07,02:02:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-02-19 15:23:13
 2026,14404,2026-02-06,14:07:00,15,Ocean,1511,Jackson Twsp,571,County 571,1,1,0,0,0,2026-02-19 15:23:13
 2026,14417,2026-02-05,22:23:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 63.86,1,0,0,0,1,2026-02-19 15:23:13
-2026,14405,2026-02-04,14:38:00,16,Passaic,1603,Haledon Boro,,Hobart Ave,1,0,1,0,0,2026-02-19 15:23:13
+2026,14405,2026-02-04,14:38:00,16,Passaic,1603,Haledon Boro,,Hobart Ave,1,0,1,0,0,2026-11-05 21:18:25
 2026,14401,2026-02-03,23:22:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 1.2,2,1,1,0,0,2026-02-19 15:23:13
 2026,14407,2026-02-03,14:51:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206,1,1,0,0,0,2026-02-19 15:23:13
 2026,14399,2026-01-31,17:33:00,07,Essex,0714,Newark City,,Clinton Ave,1,0,0,1,0,2026-02-19 15:23:13

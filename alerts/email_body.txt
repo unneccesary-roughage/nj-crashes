@@ -1,8 +1,13 @@
-RUNDATE: Wed Nov 04 10:00:03 EST 2026
+RUNDATE: Thu Nov 05 10:00:08 EST 2026
 
 New crashes: 2
-Updated crashes: 0
+Updated crashes: 3
 
 NEW:
-  - ACCID 14896 | 11/02/2026 9:47 PM | Fair Lawn Boro, Bergen | 4 | State Highway 4 MP 0 | Killed: Pedestrian (1)
-  - ACCID 14897 | 10/31/2026 12:22 AM | Oxford Twsp, Warren | 625 | County 625 MP .7 | Killed: Driver (1)
+  - ACCID 14898 | 11/04/2026 4:33 PM | Monroe Twsp, Gloucester | 536 | County 536 MP 26.32 | Killed: Driver (1)
+  - ACCID 14899 | 10/24/2026 3:14 PM | Edison Twsp, Middlesex | None | Meadow Rd | Killed: Driver (1)
+
+UPDATED:
+  - ACCID 14873 | 10/26/2026 2:03 PM | Woodland Twsp, Burlington | 563 | County 563 MP 42.9 | Killed: Driver (1)
+  - ACCID 14450 | 03/09/2026 9:18 AM | Newark City, Essex | 95 | New Jersey Turnpike MP 106.11 | Killed: Driver (1)
+  - ACCID 14405 | 02/04/2026 2:38 PM | Haledon Boro, Passaic | None | Hobart Ave | Killed: Passenger (1)
