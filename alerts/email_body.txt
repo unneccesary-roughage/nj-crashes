@@ -1,13 +1,11 @@
-RUNDATE: Thu Nov 05 10:00:08 EST 2026
+RUNDATE: Fri Nov 06 10:00:02 EST 2026
 
-New crashes: 2
-Updated crashes: 3
+New crashes: 5
+Updated crashes: 0
 
 NEW:
-  - ACCID 14898 | 11/04/2026 4:33 PM | Monroe Twsp, Gloucester | 536 | County 536 MP 26.32 | Killed: Driver (1)
-  - ACCID 14899 | 10/24/2026 3:14 PM | Edison Twsp, Middlesex | None | Meadow Rd | Killed: Driver (1)
-
-UPDATED:
-  - ACCID 14873 | 10/26/2026 2:03 PM | Woodland Twsp, Burlington | 563 | County 563 MP 42.9 | Killed: Driver (1)
-  - ACCID 14450 | 03/09/2026 9:18 AM | Newark City, Essex | 95 | New Jersey Turnpike MP 106.11 | Killed: Driver (1)
-  - ACCID 14405 | 02/04/2026 2:38 PM | Haledon Boro, Passaic | None | Hobart Ave | Killed: Passenger (1)
+  - ACCID 14904 | 11/05/2026 5:47 PM | Monroe Twsp, Gloucester | 633 | County 633 | Killed: Pedestrian (1)
+  - ACCID 14903 | 11/05/2026 5:31 PM | Woodbridge Twsp, Middlesex | 9 | State Highway 9 MP 134.3 | Killed: Pedestrian (1)
+  - ACCID 14901 | 10/30/2026 2:35 PM | Bordentown Twsp, Burlington | 130 | State Highway 130 | Killed: Pedestrian (1)
+  - ACCID 14902 | 10/28/2026 11:39 PM | Bridgeton City, Cumberland | 49 | State Highway 49 MP 26.12 | Killed: Pedalcyclist (1)
+  - ACCID 14900 | 10/24/2026 1:17 AM | Voorhees Twsp, Camden | 73 | State Highway 73 | Killed: Driver (1)

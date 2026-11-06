@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14904,2026-11-05,17:47:00,08,Gloucester,0811,Monroe Twsp,633,County 633,1,0,0,1,0,2026-11-06 20:40:32
+2026,14903,2026-11-05,17:31:00,12,Middlesex,1225,Woodbridge Twsp,9,State Highway 9 MP 134.3,1,0,0,1,0,2026-11-06 20:40:32
 2026,14898,2026-11-04,16:33:00,08,Gloucester,0811,Monroe Twsp,536,County 536 MP 26.32,1,1,0,0,0,2026-11-05 21:18:24
 2026,14896,2026-11-02,21:47:00,02,Bergen,0217,Fair Lawn Boro,4,State Highway 4 MP 0,1,0,0,1,0,2026-11-04 21:01:21
 2026,14895,2026-11-02,13:29:00,17,Salem,1710,Pittsgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-11-03 20:44:33
@@ -8,12 +10,14 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14890,2026-10-31,17:14:00,15,Ocean,1512,Lacey Twsp,539,County 539,1,1,0,0,0,2026-11-02 22:58:16
 2026,14897,2026-10-31,00:22:00,21,Warren,2117,Oxford Twsp,625,County 625 MP .7,1,1,0,0,0,2026-11-04 21:01:21
 2026,14891,2026-10-30,21:46:00,10,Hunterdon,1022,Readington Twsp,202,State Highway 202,1,1,0,0,0,2026-11-02 22:58:16
+2026,14901,2026-10-30,14:35:00,03,Burlington,0304,Bordentown Twsp,130,State Highway 130,1,0,0,1,0,2026-11-06 20:40:32
 2026,14893,2026-10-30,10:36:00,01,Atlantic,0113,Hammonton Town,446,Atlantic City Expressway,1,1,0,0,0,2026-11-03 20:44:33
 2026,14887,2026-10-30,06:35:00,11,Mercer,1102,Ewing Twsp,579,County 579 MP 0,1,1,0,0,0,2026-11-02 22:58:16
 2026,14886,2026-10-30,05:39:00,14,Morris,1429,Parsippany-Troy Hil,80,Interstate 80 MP 41.8,1,1,0,0,0,2026-10-31 19:02:45
 2026,14885,2026-10-30,01:03:00,21,Warren,2106,Frelinghuysen Twsp,80,Interstate 80,1,1,0,0,0,2026-10-30 19:49:27
 2026,14881,2026-10-29,06:43:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.3,1,0,0,1,0,2026-10-30 19:49:27
 2026,14880,2026-10-29,05:08:00,12,Middlesex,1204,East Brunswick Twsp,18,State Highway 18,1,0,0,1,0,2026-10-30 19:49:27
+2026,14902,2026-10-28,23:39:00,06,Cumberland,0601,Bridgeton City,49,State Highway 49 MP 26.12,1,0,0,0,1,2026-11-06 20:40:32
 2026,14884,2026-10-28,18:34:00,10,Hunterdon,1022,Readington Twsp,,Lightfield Rd,1,1,0,0,0,2026-10-30 19:49:27
 2026,14883,2026-10-28,18:18:00,04,Camden,0435,Waterford Twsp,30,State Highway 30,1,1,0,0,0,2026-10-30 19:49:27
 2026,14879,2026-10-28,12:11:00,01,Atlantic,0109,Estell Manor City,,South Jersey Ave,1,0,0,1,0,2026-10-30 19:49:27
@@ -27,6 +31,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14870,2026-10-24,21:44:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,0,1,0,0,2026-10-26 20:16:28
 2026,14869,2026-10-24,21:42:00,15,Ocean,1507,Toms River,444,Garden State Parkway,1,1,0,0,0,2026-10-26 20:16:28
 2026,14899,2026-10-24,15:14:00,12,Middlesex,1205,Edison Twsp,,Meadow Rd,1,1,0,0,0,2026-11-05 21:18:25
+2026,14900,2026-10-24,01:17:00,04,Camden,0434,Voorhees Twsp,73,State Highway 73,1,1,0,0,0,2026-11-06 20:40:32
 2026,14868,2026-10-23,14:59:00,17,Salem,1710,Pittsgrove Twsp,540,County 540,1,1,0,0,0,2026-10-26 20:16:28
 2026,14865,2026-10-23,07:15:00,16,Passaic,1614,Wayne Twsp,504,County 504,1,1,0,0,0,2026-10-26 20:16:28
 2026,14864,2026-10-21,17:20:00,08,Gloucester,0803,East Greenwich Twsp,295,Interstate 295 MP 17.6,1,1,0,0,0,2026-10-23 18:51:42
