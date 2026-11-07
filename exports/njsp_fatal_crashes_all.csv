@@ -403,7 +403,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14418,2026-02-09,14:41:00,01,Atlantic,0102,Atlantic City,,Winchester Ave,1,0,0,1,0,2026-02-19 15:23:13
 2026,14499,2026-02-09,00:55:00,20,Union,2012,Plainfield City,,West 4th St,1,1,0,0,0,2026-04-05 15:29:08
 2026,14408,2026-02-07,16:28:00,21,Warren,2111,Hope Twsp,519,County 519 MP 46,1,1,0,0,0,2026-02-21 15:45:34
-2026,14406,2026-02-07,02:02:00,07,Essex,0714,Newark City,21,State Highway 21,1,1,0,0,0,2026-02-19 15:23:13
+2026,14406,2026-02-07,01:58:00,07,Essex,0714,Newark City,21,State Highway 21 MP 5,1,1,0,0,0,2026-11-07 19:14:19
 2026,14404,2026-02-06,14:07:00,15,Ocean,1511,Jackson Twsp,571,County 571,1,1,0,0,0,2026-02-19 15:23:13
 2026,14417,2026-02-05,22:23:00,01,Atlantic,0102,Atlantic City,40,State Highway 40 MP 63.86,1,0,0,0,1,2026-02-19 15:23:13
 2026,14405,2026-02-04,14:38:00,16,Passaic,1603,Haledon Boro,,Hobart Ave,1,0,1,0,0,2026-11-05 21:18:25
@@ -430,7 +430,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14371,2026-01-11,11:57:00,15,Ocean,1506,Brick Twsp,,Lagoon Dr West,1,0,0,1,0,2026-02-19 15:23:13
 2026,14372,2026-01-11,06:45:00,02,Bergen,0202,Alpine Boro,445,Palisades Interstate Parkway,1,1,0,0,0,2026-02-19 15:23:13
 2026,14375,2026-01-11,03:02:00,04,Camden,0414,Gloucester City,76,Interstate 76 MP 3,1,0,0,1,0,2026-07-21 16:20:14
-2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645,1,0,0,1,0,2026-02-19 15:23:13
+2026,14382,2026-01-10,08:43:00,07,Essex,0716,Nutley Town,645,County 645 MP 3.12,1,0,0,1,0,2026-11-07 19:14:19
 2026,14367,2026-01-09,20:29:00,20,Union,2019,Union Twsp,22,State Highway 22,1,0,0,1,0,2026-02-19 15:23:13
 2026,14380,2026-01-08,15:33:00,09,Hudson,0904,Harrison Town,,Woodland Drive,1,0,0,1,0,2026-06-19 17:16:07
 2026,14365,2026-01-07,21:20:00,15,Ocean,1506,Brick Twsp,66,County 66 MP .82,1,1,0,0,0,2026-02-19 15:23:13
