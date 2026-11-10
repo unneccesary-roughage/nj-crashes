@@ -8,6 +8,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14904,2026-11-05,17:47:00,08,Gloucester,0811,Monroe Twsp,633,County 633,1,0,0,1,0,2026-11-06 20:40:32
 2026,14903,2026-11-05,17:31:00,12,Middlesex,1225,Woodbridge Twsp,9,State Highway 9 MP 134.3,1,0,0,1,0,2026-11-06 20:40:32
 2026,14898,2026-11-04,16:33:00,08,Gloucester,0811,Monroe Twsp,536,County 536 MP 26.32,1,1,0,0,0,2026-11-05 21:18:24
+2026,14915,2026-11-03,11:15:00,03,Burlington,0321,Medford Twsp,,Blackhawk Ct,1,0,0,1,0,2026-11-10 21:09:48
 2026,14896,2026-11-02,21:47:00,02,Bergen,0217,Fair Lawn Boro,4,State Highway 4 MP 0,1,0,0,1,0,2026-11-04 21:01:21
 2026,14895,2026-11-02,13:29:00,17,Salem,1710,Pittsgrove Twsp,40,State Highway 40,1,1,0,0,0,2026-11-03 20:44:33
 2026,14892,2026-11-02,01:04:00,18,Somerset,1801,Bedminster Twsp,78,Interstate 78,1,1,0,0,0,2026-11-02 22:58:16
@@ -55,6 +56,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14852,2026-10-14,21:17:00,20,Union,2004,Elizabeth City,,Spring St,1,0,0,1,0,2026-10-15 18:51:10
 2026,14850,2026-10-13,03:52:00,12,Middlesex,1205,Edison Twsp,95,New Jersey Turnpike MP 87.7,1,0,0,1,0,2026-10-14 19:08:34
 2026,14849,2026-10-13,02:11:00,13,Monmouth,1326,Manalapan Twsp,9,State Highway 9 MP 116.6,2,1,1,0,0,2026-10-14 19:08:34
+2026,14916,2026-10-12,13:06:00,07,Essex,0714,Newark City,,Ferry St,1,0,0,1,0,2026-11-10 21:09:48
 2026,14851,2026-10-11,20:52:00,18,Somerset,1809,Green Brook Twsp,22,State Highway 22 MP 39.93,1,0,0,1,0,2026-10-15 18:51:10
 2026,14848,2026-10-11,19:44:00,07,Essex,0714,Newark City,21,State Highway 21,1,0,0,1,0,2026-10-12 22:22:02
 2026,14847,2026-10-11,05:06:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,2,0,2,0,0,2026-10-12 22:22:02
@@ -62,7 +64,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14844,2026-10-08,19:56:00,04,Camden,0412,Cherry Hill Twsp,38,State Highway 38 MP 2,1,0,0,1,0,2026-10-09 19:58:32
 2026,14843,2026-10-08,09:34:00,07,Essex,0714,Newark City,78,Interstate 78,1,0,0,1,0,2026-10-09 19:58:32
 2026,14842,2026-10-08,08:06:00,08,Gloucester,0810,Mantua Twsp,626,County 626,1,1,0,0,0,2026-10-09 19:58:32
-2026,14845,2026-10-08,05:03:00,12,Middlesex,1204,East Brunswick Twsp,18,State Highway 18,1,1,0,0,0,2026-10-10 19:06:11
 2026,14838,2026-10-03,12:00:00,01,Atlantic,0102,Atlantic City,,Pacific Ave,1,0,0,1,0,2026-10-05 21:47:35
 2026,14837,2026-10-02,19:24:00,01,Atlantic,0108,Egg Harbor Twsp,40,State Highway 40 MP 61.35,1,0,0,1,0,2026-10-03 18:30:21
 2026,14836,2026-10-02,19:02:00,16,Passaic,1608,Paterson City,649,County 649,1,0,0,1,0,2026-10-03 18:30:21
@@ -401,7 +402,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14419,2026-02-16,09:14:00,06,Cumberland,0614,Vineland City,47,State Highway 47,1,1,0,0,0,2026-02-19 15:23:13
 2026,14431,2026-02-15,22:46:00,20,Union,2013,Rahway City,1,State Highway 1,1,1,0,0,0,2026-02-26 16:12:44
 2026,14415,2026-02-15,02:02:00,15,Ocean,1511,Jackson Twsp,641,County 641,2,1,1,0,0,2026-02-19 15:23:13
-2026,14411,2026-02-11,20:32:00,07,Essex,0714,Newark City,601,County 601,1,0,0,1,0,2026-02-19 15:23:13
+2026,14411,2026-02-11,20:32:00,07,Essex,0714,Newark City,601,County 601 MP 1.61,1,0,0,1,0,2026-11-10 21:09:48
 2026,14449,2026-02-11,12:58:00,18,Somerset,1821,Watchung Boro,655,County 655,1,1,0,0,0,2026-03-10 15:57:26
 2026,14409,2026-02-11,08:54:00,09,Hudson,0909,Secaucus Town,95,New Jersey Turnpike,1,0,0,1,0,2026-02-19 15:23:13
 2026,14420,2026-02-11,08:15:00,09,Hudson,0907,Kearny Town,,Kearny Ave,1,0,0,1,0,2026-06-20 16:14:21

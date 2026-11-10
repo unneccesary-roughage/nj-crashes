@@ -1,12 +1,11 @@
-RUNDATE: Mon Nov 09 10:00:04 EST 2026
+RUNDATE: Tue Nov 10 10:00:05 EST 2026
 
-New crashes: 6
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14906 | 11/08/2026 9:32 PM | Franklin Twsp, Somerset | 617 | County 617 | Killed: Driver (1)
-  - ACCID 14905 | 11/08/2026 6:16 AM | Hamilton Twsp, Atlantic | 40 | State Highway 40 MP 41 | Killed: Driver (1)
-  - ACCID 14909 | 11/07/2026 12:01 AM | Old Bridge Twsp, Middlesex | 9 | State Highway 9 | Killed: Passenger (2)
-  - ACCID 14907 | 11/06/2026 6:58 PM | Newark City, Essex | None | Sherman Ave | Killed: Pedestrian (1)
-  - ACCID 14910 | 11/06/2026 5:30 PM | Cresskill Boro, Bergen | None | Knickerbocker Rd | Killed: Pedestrian (1)
-  - ACCID 14908 | 11/06/2026 6:20 AM | Newark City, Essex | 27 | State Highway 27 | Killed: Pedestrian (1)
+  - ACCID 14915 | 11/03/2026 11:15 AM | Medford Twsp, Burlington | None | Blackhawk Ct | Killed: Pedestrian (1)
+  - ACCID 14916 | 10/12/2026 1:06 PM | Newark City, Essex | None | Ferry St | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 MP 1.61 | Killed: Pedestrian (1)
