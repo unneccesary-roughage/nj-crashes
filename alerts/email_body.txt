@@ -1,11 +1,9 @@
-RUNDATE: Tue Nov 10 10:00:05 EST 2026
+RUNDATE: Wed Nov 11 10:00:05 EST 2026
 
-New crashes: 2
-Updated crashes: 1
-
-NEW:
-  - ACCID 14915 | 11/03/2026 11:15 AM | Medford Twsp, Burlington | None | Blackhawk Ct | Killed: Pedestrian (1)
-  - ACCID 14916 | 10/12/2026 1:06 PM | Newark City, Essex | None | Ferry St | Killed: Pedestrian (1)
+New crashes: 0
+Updated crashes: 3
 
 UPDATED:
-  - ACCID 14411 | 02/11/2026 8:32 PM | Newark City, Essex | 601 | County 601 MP 1.61 | Killed: Pedestrian (1)
+  - ACCID 14707 | 07/20/2026 7:48 PM | Wantage Twsp, Sussex | None | Brink Rd | Killed: Driver (1)
+  - ACCID 14555 | 05/02/2026 12:57 PM | Passaic City, Passaic | 611 | County 611 MP 3.41 | Killed: Driver (1)
+  - ACCID 14553 | 05/01/2026 9:58 PM | Clifton City, Passaic | 611 | County 611 MP .4 | Killed: Driver (1)

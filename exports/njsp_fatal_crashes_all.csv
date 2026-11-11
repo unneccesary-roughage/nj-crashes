@@ -170,7 +170,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14713,2026-07-23,12:37:00,13,Monmouth,1342,Rumson Boro,34,County 34,1,0,0,0,1,2026-07-25 16:01:53
 2026,14712,2026-07-22,23:52:00,03,Burlington,0337,Washington Twsp,563,County 563,1,1,0,0,0,2026-08-11 15:56:48
 2026,14710,2026-07-22,20:47:00,04,Camden,0408,Camden City,543,County 543,1,1,0,0,0,2026-07-23 16:23:28
-2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-07-21 16:20:14
+2026,14707,2026-07-20,19:48:00,19,Sussex,1924,Wantage Twsp,,Brink Rd,1,1,0,0,0,2026-11-11 21:42:45
 2026,14708,2026-07-20,18:26:00,12,Middlesex,1219,Sayreville Boro,,Chevalier Ave,1,1,0,0,0,2026-07-21 16:20:14
 2026,14703,2026-07-20,00:36:00,08,Gloucester,0804,Elk Twsp,55,State Highway 55,1,1,0,0,0,2026-07-21 16:20:14
 2026,14729,2026-07-18,17:16:00,04,Camden,0428,Pine Hill Boro,689,County 689 MP 4.58,1,1,0,0,0,2026-08-07 15:51:58
@@ -297,8 +297,8 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,639,County 639,1,0,0,1,0,2026-05-06 16:24:26
 2026,14558,2026-05-03,20:30:00,03,Burlington,0325,Mount Laurel Twsp,607,County 607,1,0,0,1,0,2026-05-06 16:24:26
 2026,14561,2026-05-03,04:13:00,16,Passaic,1613,Wanaque Boro,511,County 511,1,0,0,1,0,2026-05-07 16:46:49
-2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,,Main Ave,1,1,0,0,0,2026-05-04 16:28:48
-2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611,1,1,0,0,0,2026-05-04 16:28:48
+2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,611,County 611 MP 3.41,1,1,0,0,0,2026-11-11 21:42:45
+2026,14553,2026-05-01,21:58:00,16,Passaic,1602,Clifton City,611,County 611 MP .4,1,1,0,0,0,2026-11-11 21:42:45
 2026,14554,2026-05-01,21:23:00,09,Hudson,0906,Jersey City,,Pacific Ave,1,0,0,1,0,2026-10-22 19:01:28
 2026,14557,2026-05-01,20:46:00,13,Monmouth,1325,Long Branch City,,Broadway,1,0,0,1,0,2026-05-05 16:21:42
 2026,14552,2026-04-30,23:05:00,11,Mercer,1107,Lawrence Twsp,1,State Highway 1,1,1,0,0,0,2026-05-02 15:42:02
