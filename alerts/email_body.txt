@@ -1,9 +1,13 @@
-RUNDATE: Wed Nov 11 10:00:05 EST 2026
+RUNDATE: Thu Nov 12 10:00:04 EST 2026
 
-New crashes: 0
-Updated crashes: 3
+New crashes: 3
+Updated crashes: 2
+
+NEW:
+  - ACCID 14921 | 11/11/2026 11:50 PM | Cranbury Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14920 | 11/11/2026 8:45 AM | Kingwood Twsp, Hunterdon | 519 | County 519 | Killed: Driver (1)
+  - ACCID 14919 | 10/10/2026 3:50 PM | Clinton Twsp, Hunterdon | 629 | County 629 | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14707 | 07/20/2026 7:48 PM | Wantage Twsp, Sussex | None | Brink Rd | Killed: Driver (1)
-  - ACCID 14555 | 05/02/2026 12:57 PM | Passaic City, Passaic | 611 | County 611 MP 3.41 | Killed: Driver (1)
-  - ACCID 14553 | 05/01/2026 9:58 PM | Clifton City, Passaic | 611 | County 611 MP .4 | Killed: Driver (1)
+  - ACCID 14605 | 05/31/2026 5:56 PM | West Milford Twsp, Passaic | None | Warwick Tpke | Killed: Driver (1)
+  - ACCID 14488 | 03/29/2026 7:29 AM | Newark City, Essex | 21 | State Highway 21 MP 1.31 | Killed: Driver (1)
