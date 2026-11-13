@@ -1,13 +1,11 @@
-RUNDATE: Thu Nov 12 10:00:04 EST 2026
+RUNDATE: Fri Nov 13 10:00:04 EST 2026
 
-New crashes: 3
-Updated crashes: 2
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14921 | 11/11/2026 11:50 PM | Cranbury Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
-  - ACCID 14920 | 11/11/2026 8:45 AM | Kingwood Twsp, Hunterdon | 519 | County 519 | Killed: Driver (1)
-  - ACCID 14919 | 10/10/2026 3:50 PM | Clinton Twsp, Hunterdon | 629 | County 629 | Killed: Driver (1)
+  - ACCID 14923 | 11/08/2026 7:18 PM | New Brunswick City, Middlesex | 693 | County 693 | Killed: Pedalcyclist (1)
+  - ACCID 14922 | 10/19/2026 8:29 AM | Somerville Boro, Somerset | 28 | State Highway 28 | Killed: Pedestrian (1)
 
 UPDATED:
-  - ACCID 14605 | 05/31/2026 5:56 PM | West Milford Twsp, Passaic | None | Warwick Tpke | Killed: Driver (1)
-  - ACCID 14488 | 03/29/2026 7:29 AM | Newark City, Essex | 21 | State Highway 21 MP 1.31 | Killed: Driver (1)
+  - ACCID 14383 | 01/16/2026 6:36 PM | Caldwell Boro, Essex | 506 | County 506 MP 2.31 | Killed: Pedestrian (1)

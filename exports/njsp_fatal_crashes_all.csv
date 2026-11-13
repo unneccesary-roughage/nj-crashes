@@ -2,6 +2,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14921,2026-11-11,23:50:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-11-12 21:41:48
 2026,14920,2026-11-11,08:45:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519,1,1,0,0,0,2026-11-12 21:41:48
 2026,14906,2026-11-08,21:32:00,18,Somerset,1808,Franklin Twsp,617,County 617,1,1,0,0,0,2026-11-09 23:40:18
+2026,14923,2026-11-08,19:18:00,12,Middlesex,1214,New Brunswick City,693,County 693,1,0,0,0,1,2026-11-13 21:08:50
 2026,14905,2026-11-08,06:16:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 41,1,1,0,0,0,2026-11-09 23:40:18
 2026,14909,2026-11-07,00:01:00,12,Middlesex,1209,Old Bridge Twsp,9,State Highway 9,2,0,2,0,0,2026-11-09 23:40:18
 2026,14907,2026-11-06,18:58:00,07,Essex,0714,Newark City,,Sherman Ave,1,0,0,1,0,2026-11-09 23:40:18
@@ -48,6 +49,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14876,2026-10-20,18:32:00,04,Camden,0415,Gloucester Twsp,705,County 705,1,1,0,0,0,2026-10-28 20:02:34
 2026,14861,2026-10-19,17:09:00,02,Bergen,0246,Paramus Boro,17,State Highway 17,1,0,0,1,0,2026-10-21 19:04:47
 2026,14859,2026-10-19,08:49:00,01,Atlantic,0111,Galloway Twsp,561,County 561 MP 11.3,1,1,0,0,0,2026-10-20 18:52:14
+2026,14922,2026-10-19,08:29:00,18,Somerset,1818,Somerville Boro,28,State Highway 28,1,0,0,1,0,2026-11-13 21:08:50
 2026,14860,2026-10-18,19:23:00,12,Middlesex,1214,New Brunswick City,,seaman street,1,0,0,1,0,2026-10-20 18:52:14
 2026,14872,2026-10-18,03:27:00,04,Camden,0408,Camden City,676,Interstate 676,1,1,0,0,0,2026-10-28 20:02:34
 2026,14857,2026-10-18,03:09:00,07,Essex,0709,Irvington Town,603,County 603,1,0,0,1,0,2026-10-20 18:52:14
@@ -433,7 +435,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14381,2026-01-17,18:17:00,08,Gloucester,0808,Harrison Twsp,,Banff Dr,2,1,1,0,0,2026-02-19 15:23:13
 2026,14386,2026-01-17,18:05:00,04,Camden,0434,Voorhees Twsp,544,County 544 MP 6.18,1,0,0,1,0,2026-07-21 16:20:14
 2026,14384,2026-01-17,10:58:00,13,Monmouth,1334,Neptune Twsp,33,State Highway 33,1,1,0,0,0,2026-02-19 15:23:13
-2026,14383,2026-01-16,18:36:00,07,Essex,0703,Caldwell Boro,506,County 506,1,0,0,1,0,2026-02-19 15:23:13
+2026,14383,2026-01-16,18:36:00,07,Essex,0703,Caldwell Boro,506,County 506 MP 2.31,1,0,0,1,0,2026-11-13 21:08:50
 2026,14379,2026-01-16,06:44:00,04,Camden,0436,Winslow Twsp,705,County 705 MP 2.84,1,0,0,1,0,2026-07-21 16:20:14
 2026,14378,2026-01-15,19:38:00,01,Atlantic,0112,Hamilton Twsp,40,State Highway 40 MP 48.5,1,0,0,1,0,2026-04-10 15:49:42
 2026,14393,2026-01-13,18:01:00,12,Middlesex,1205,Edison Twsp,,Oakwood Ave,1,0,0,1,0,2026-02-19 15:23:13
