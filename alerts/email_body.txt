@@ -1,12 +1,7 @@
-RUNDATE: Sat Nov 14 10:00:04 EST 2026
+RUNDATE: Sun Nov 15 10:00:05 EST 2026
 
-New crashes: 2
-Updated crashes: 2
-
-NEW:
-  - ACCID 14925 | 11/10/2026 11:50 AM | Middle Twsp, Cape May | 47 | State Highway 47 MP 4.26 | Killed: Pedalcyclist (1)
-  - ACCID 14924 | 10/28/2026 5:10 PM | East Greenwich Twsp, Gloucester | None | 171 Berkley Rd | Killed: Pedestrian (1)
+New crashes: 0
+Updated crashes: 1
 
 UPDATED:
-  - ACCID 14710 | 07/22/2026 8:47 PM | Camden City, Camden | 543 | County 543 MP .88 | Killed: Driver (1)
-  - ACCID 14695 | 07/14/2026 1:08 PM | Camden City, Camden | 551 | County 551 MP .52 | Killed: Driver (1)
+  - ACCID 14745 | 08/12/2026 12:17 PM | Clifton City, Passaic | 444 | Garden State Parkway MP 155.5 | Killed: Driver (1)
