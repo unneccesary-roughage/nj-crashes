@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14927,2026-11-15,17:46:00,15,Ocean,1512,Lacey Twsp,614,County 614,1,0,0,1,0,2026-11-16 23:37:35
 2026,14921,2026-11-11,23:50:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-11-12 21:41:48
 2026,14920,2026-11-11,08:45:00,10,Hunterdon,1016,Kingwood Twsp,519,County 519,1,1,0,0,0,2026-11-12 21:41:48
 2026,14925,2026-11-10,11:50:00,05,Cape May,0506,Middle Twsp,47,State Highway 47 MP 4.26,1,0,0,0,1,2026-11-14 19:40:14
@@ -11,6 +12,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14908,2026-11-06,06:20:00,07,Essex,0714,Newark City,27,State Highway 27,1,0,0,1,0,2026-11-09 23:40:18
 2026,14904,2026-11-05,17:47:00,08,Gloucester,0811,Monroe Twsp,633,County 633,1,0,0,1,0,2026-11-06 20:40:32
 2026,14903,2026-11-05,17:31:00,12,Middlesex,1225,Woodbridge Twsp,9,State Highway 9 MP 134.3,1,0,0,1,0,2026-11-06 20:40:32
+2026,14926,2026-11-05,09:45:00,14,Morris,1429,Parsippany-Troy Hil,202,State Highway 202,1,1,0,0,0,2026-11-16 23:37:35
 2026,14898,2026-11-04,16:33:00,08,Gloucester,0811,Monroe Twsp,536,County 536 MP 26.32,1,1,0,0,0,2026-11-05 21:18:24
 2026,14915,2026-11-03,11:15:00,03,Burlington,0321,Medford Twsp,,Blackhawk Ct,1,0,0,1,0,2026-11-10 21:09:48
 2026,14896,2026-11-02,21:47:00,02,Bergen,0217,Fair Lawn Boro,4,State Highway 4 MP 0,1,0,0,1,0,2026-11-04 21:01:21
@@ -31,7 +33,6 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14902,2026-10-28,23:39:00,06,Cumberland,0601,Bridgeton City,49,State Highway 49 MP 26.12,1,0,0,0,1,2026-11-06 20:40:32
 2026,14884,2026-10-28,18:34:00,10,Hunterdon,1022,Readington Twsp,,Lightfield Rd,1,1,0,0,0,2026-10-30 19:49:27
 2026,14883,2026-10-28,18:18:00,04,Camden,0435,Waterford Twsp,30,State Highway 30,1,1,0,0,0,2026-10-30 19:49:27
-2026,14924,2026-10-28,17:10:00,08,Gloucester,0803,East Greenwich Twsp,,171 Berkley Rd,1,0,0,1,0,2026-11-14 19:40:14
 2026,14879,2026-10-28,12:11:00,01,Atlantic,0109,Estell Manor City,,South Jersey Ave,1,0,0,1,0,2026-10-30 19:49:27
 2026,14888,2026-10-27,18:31:00,15,Ocean,1514,Lakewood Twsp,70,State Highway 70 MP 52,1,0,0,1,0,2026-11-01 19:20:13
 2026,14878,2026-10-27,18:31:00,18,Somerset,1806,Bridgewater Twsp,28,State Highway 28 MP 5,1,0,0,1,0,2026-10-28 20:02:34

@@ -1,7 +1,8 @@
-RUNDATE: Sun Nov 15 10:00:05 EST 2026
+RUNDATE: Mon Nov 16 10:00:05 EST 2026
 
-New crashes: 0
-Updated crashes: 1
+New crashes: 2
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14745 | 08/12/2026 12:17 PM | Clifton City, Passaic | 444 | Garden State Parkway MP 155.5 | Killed: Driver (1)
+NEW:
+  - ACCID 14927 | 11/15/2026 5:46 PM | Lacey Twsp, Ocean | 614 | County 614 | Killed: Pedestrian (1)
+  - ACCID 14926 | 11/05/2026 9:45 AM | Parsippany-Troy Hil, Morris | 202 | State Highway 202 | Killed: Driver (1)
