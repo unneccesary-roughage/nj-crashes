@@ -1,10 +1,8 @@
-RUNDATE: Tue Nov 17 10:00:05 EST 2026
+RUNDATE: Wed Nov 18 10:00:05 EST 2026
 
-New crashes: 1
-Updated crashes: 1
-
-NEW:
-  - ACCID 14928 | 11/13/2026 4:36 AM | Lawnside Boro, Camden | 30 | State Highway 30 | Killed: Pedestrian (1)
+New crashes: 0
+Updated crashes: 2
 
 UPDATED:
-  - ACCID 14920 | 11/11/2026 8:45 AM | Kingwood Twsp, Hunterdon | 519 | County 519 MP 10 | Killed: Driver (1)
+  - ACCID 14592 | 05/12/2026 5:33 PM | Raritan Twsp, Hunterdon | 523 | County 523 MP 7.89 | Killed: Driver (1)
+  - ACCID 14560 | 05/04/2026 3:09 PM | Woodland Park Boro, Passaic | 632 | County 632 MP 1.45 | Killed: Pedestrian (1)

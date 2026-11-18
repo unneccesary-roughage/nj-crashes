@@ -293,7 +293,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14656,2026-05-14,14:54:00,12,Middlesex,1216,Perth Amboy City,35,State Highway 35 MP .21,1,1,0,0,0,2026-06-25 17:09:15
 2026,14571,2026-05-13,21:24:00,20,Union,2004,Elizabeth City,,Newark Ave,1,1,0,0,0,2026-05-14 16:57:59
 2026,14579,2026-05-13,20:52:00,15,Ocean,1514,Lakewood Twsp,,E. 4th Street,1,0,0,0,1,2026-05-21 17:29:07
-2026,14592,2026-05-12,17:33:00,10,Hunterdon,1021,Raritan Twsp,523,County 523,1,1,0,0,0,2026-05-28 18:07:31
+2026,14592,2026-05-12,17:33:00,10,Hunterdon,1021,Raritan Twsp,523,County 523 MP 7.89,1,1,0,0,0,2026-11-18 22:27:18
 2026,14566,2026-05-10,08:14:00,20,Union,2007,Hillside Twsp,439,State Highway 439,1,1,0,0,0,2026-05-12 17:07:33
 2026,14582,2026-05-10,01:26:00,12,Middlesex,1208,Jamesburg Boro,612,County 612,1,1,0,0,0,2026-05-21 17:29:07
 2026,14570,2026-05-08,15:38:00,08,Gloucester,0807,Greenwich Twsp,,ASHTON DRIVE,1,0,0,1,0,2026-05-14 16:57:59
@@ -303,7 +303,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14562,2026-05-07,08:40:00,14,Morris,1435,Rockaway Twsp,80,Interstate 80 MP 34.4,1,1,0,0,0,2026-10-22 19:01:28
 2026,14563,2026-05-05,14:11:00,02,Bergen,0219,Fort Lee Boro,29,County 29 MP 2.33,1,0,0,1,0,2026-05-08 16:11:10
 2026,14556,2026-05-04,21:26:00,14,Morris,1427,Mount Olive Twsp,206,State Highway 206 MP 92.6,1,1,0,0,0,2026-05-05 16:21:42
-2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,639,County 639,1,0,0,1,0,2026-05-06 16:24:26
+2026,14560,2026-05-04,15:09:00,16,Passaic,1616,Woodland Park Boro,632,County 632 MP 1.45,1,0,0,1,0,2026-11-18 22:27:18
 2026,14558,2026-05-03,20:30:00,03,Burlington,0325,Mount Laurel Twsp,607,County 607,1,0,0,1,0,2026-05-06 16:24:26
 2026,14561,2026-05-03,04:13:00,16,Passaic,1613,Wanaque Boro,511,County 511,1,0,0,1,0,2026-05-07 16:46:49
 2026,14555,2026-05-02,12:57:00,16,Passaic,1607,Passaic City,611,County 611 MP 3.41,1,1,0,0,0,2026-11-11 21:42:45
