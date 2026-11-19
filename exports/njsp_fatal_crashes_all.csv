@@ -1,4 +1,7 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14931,2026-11-18,08:29:00,17,Salem,1713,Carneys Point Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-11-19 22:32:32
+2026,14930,2026-11-17,18:27:00,19,Sussex,1911,Hardyston Twsp,94,State Highway 94 MP 33.8,1,0,0,1,0,2026-11-19 22:32:32
+2026,14929,2026-11-17,15:26:00,13,Monmouth,1304,Colts Neck Twsp,18,State Highway 18 MP 17.8,1,1,0,0,0,2026-11-19 22:32:32
 2026,14927,2026-11-15,17:46:00,15,Ocean,1512,Lacey Twsp,614,County 614,1,0,0,1,0,2026-11-16 23:37:35
 2026,14928,2026-11-13,04:36:00,04,Camden,0421,Lawnside Boro,30,State Highway 30,1,0,0,1,0,2026-11-17 22:45:17
 2026,14921,2026-11-11,23:50:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-11-12 21:41:48
@@ -79,7 +82,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14834,2026-10-01,23:11:00,06,Cumberland,0614,Vineland City,,East Chestnut Ave,1,0,0,0,1,2026-10-03 18:30:21
 2026,14835,2026-10-01,22:49:00,05,Cape May,0505,Lower Twsp,9,State Highway 9 MP 6.27,1,1,0,0,0,2026-10-21 19:04:47
 2026,14833,2026-09-30,05:51:00,17,Salem,1710,Pittsgrove Twsp,613,County 613 MP .65,1,1,0,0,0,2026-10-06 19:57:08
-2026,14858,2026-09-28,20:13:00,03,Burlington,0306,Burlington Twsp,634,County 634,1,0,0,1,0,2026-10-20 18:52:14
+2026,14858,2026-09-28,20:13:00,03,Burlington,0306,Burlington Twsp,634,County 634 MP 1.3,1,0,0,1,0,2026-11-19 22:32:32
 2026,14832,2026-09-28,19:15:00,15,Ocean,1506,Brick Twsp,624,County 624,1,1,0,0,0,2026-09-29 19:45:21
 2026,14823,2026-09-27,07:18:00,03,Burlington,0310,Delran Twsp,130,State Highway 130 MP 40,1,1,0,0,0,2026-09-28 21:02:07
 2026,14824,2026-09-27,03:34:00,10,Hunterdon,1025,Union Twsp,,,1,1,0,0,0,2026-09-28 21:02:07
@@ -143,7 +146,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14752,2026-08-13,14:26:00,04,Camden,0408,Camden City,609,County 609,1,0,0,1,0,2026-08-17 15:20:45
 2026,14785,2026-08-13,12:24:00,09,Hudson,0901,Bayonne City,,Broadway,1,0,0,1,0,2026-09-02 18:23:21
 2026,14743,2026-08-13,05:36:00,13,Monmouth,1352,Wall Twsp,21,County 21,1,1,0,0,0,2026-08-14 15:46:42
-2026,14771,2026-08-12,13:09:00,03,Burlington,0309,Delanco Twsp,625,County 625,1,1,0,0,0,2026-08-25 15:37:39
+2026,14771,2026-08-12,13:09:00,03,Burlington,0309,Delanco Twsp,625,County 625 MP .5,1,1,0,0,0,2026-11-19 22:32:32
 2026,14745,2026-08-12,12:17:00,16,Passaic,1602,Clifton City,444,Garden State Parkway MP 155.5,1,1,0,0,0,2026-11-15 20:06:17
 2026,14742,2026-08-10,16:34:00,10,Hunterdon,1002,Bethlehem Twsp,173,State Highway 173,1,0,1,0,0,2026-08-13 15:55:27
 2026,14784,2026-08-10,13:00:00,07,Essex,0709,Irvington Town,601,County 601,1,1,0,0,0,2026-09-01 18:07:02

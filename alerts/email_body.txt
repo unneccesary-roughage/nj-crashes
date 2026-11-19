@@ -1,8 +1,13 @@
-RUNDATE: Wed Nov 18 10:00:05 EST 2026
+RUNDATE: Thu Nov 19 10:00:04 EST 2026
 
-New crashes: 0
+New crashes: 3
 Updated crashes: 2
 
+NEW:
+  - ACCID 14931 | 11/18/2026 8:29 AM | Carneys Point Twsp, Salem | 95 | New Jersey Turnpike | Killed: Passenger (1)
+  - ACCID 14930 | 11/17/2026 6:27 PM | Hardyston Twsp, Sussex | 94 | State Highway 94 MP 33.8 | Killed: Pedestrian (1)
+  - ACCID 14929 | 11/17/2026 3:26 PM | Colts Neck Twsp, Monmouth | 18 | State Highway 18 MP 17.8 | Killed: Driver (1)
+
 UPDATED:
-  - ACCID 14592 | 05/12/2026 5:33 PM | Raritan Twsp, Hunterdon | 523 | County 523 MP 7.89 | Killed: Driver (1)
-  - ACCID 14560 | 05/04/2026 3:09 PM | Woodland Park Boro, Passaic | 632 | County 632 MP 1.45 | Killed: Pedestrian (1)
+  - ACCID 14858 | 09/28/2026 8:13 PM | Burlington Twsp, Burlington | 634 | County 634 MP 1.3 | Killed: Pedestrian (1)
+  - ACCID 14771 | 08/12/2026 1:09 PM | Delanco Twsp, Burlington | 625 | County 625 MP .5 | Killed: Driver (1)
