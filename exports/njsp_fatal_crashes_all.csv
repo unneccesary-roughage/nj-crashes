@@ -120,7 +120,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14788,2026-09-02,07:32:00,10,Hunterdon,1003,Bloomsbury Boro,78,Interstate 78,1,1,0,0,0,2026-09-03 18:18:42
 2026,14787,2026-09-01,00:51:00,04,Camden,0408,Camden City,30,State Highway 30,1,0,0,1,0,2026-09-03 18:18:42
 2026,14786,2026-08-30,04:28:00,12,Middlesex,1213,Monroe Twsp,33,State Highway 33,1,1,0,0,0,2026-09-02 18:23:21
-2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70,1,1,0,0,0,2026-09-15 18:40:51
+2026,14781,2026-08-29,06:31:00,03,Burlington,0339,Woodland Twsp,70,State Highway 70 MP 26.38,1,1,0,0,0,2026-11-20 22:05:10
 2026,14780,2026-08-29,00:40:00,03,Burlington,0325,Mount Laurel Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-08-31 20:36:54
 2026,14796,2026-08-26,22:12:00,15,Ocean,1512,Lacey Twsp,9,State Highway 9,1,0,0,1,0,2026-09-08 18:15:55
 2026,14777,2026-08-26,21:01:00,15,Ocean,1511,Jackson Twsp,195,Interstate 195,1,1,0,0,0,2026-08-28 00:12:42
@@ -463,4 +463,4 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14353,2026-01-02,13:53:00,08,Gloucester,0811,Monroe Twsp,555,County 555,1,1,0,0,0,2026-02-19 15:23:13
 2026,14366,2026-01-02,12:08:00,14,Morris,1404,Chatham Boro,638,County 638,1,0,0,1,0,2026-02-19 15:23:13
 2026,14351,2026-01-01,11:58:00,19,Sussex,1914,Montague Twsp,23,State Highway 23 MP 49.2,1,1,0,0,0,2026-03-20 18:34:30
-2026,14350,2026-01-01,03:36:00,12,Middlesex,1225,Woodbridge Twsp,444,Garden State Parkway,1,1,0,0,0,2026-02-19 15:23:13
+2026,14350,2026-01-01,03:36:00,12,Middlesex,1225,Woodbridge Twsp,444,Garden State Parkway MP 127.9,1,1,0,0,0,2026-11-20 22:05:10
