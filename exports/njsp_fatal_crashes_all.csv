@@ -1,4 +1,5 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14932,2026-11-20,13:59:00,15,Ocean,1507,Toms River,549,County 549,1,1,0,0,0,2026-11-21 20:44:48
 2026,14931,2026-11-18,08:29:00,17,Salem,1713,Carneys Point Twsp,95,New Jersey Turnpike,1,0,1,0,0,2026-11-19 22:32:32
 2026,14930,2026-11-17,18:27:00,19,Sussex,1911,Hardyston Twsp,94,State Highway 94 MP 33.8,1,0,0,1,0,2026-11-19 22:32:32
 2026,14929,2026-11-17,15:26:00,13,Monmouth,1304,Colts Neck Twsp,18,State Highway 18 MP 17.8,1,1,0,0,0,2026-11-19 22:32:32

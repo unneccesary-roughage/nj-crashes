@@ -1,8 +1,7 @@
-RUNDATE: Fri Nov 20 10:00:01 EST 2026
+RUNDATE: Sat Nov 21 10:00:01 EST 2026
 
-New crashes: 0
-Updated crashes: 2
+New crashes: 1
+Updated crashes: 0
 
-UPDATED:
-  - ACCID 14781 | 08/29/2026 6:31 AM | Woodland Twsp, Burlington | 70 | State Highway 70 MP 26.38 | Killed: Driver (1)
-  - ACCID 14350 | 01/01/2026 3:36 AM | Woodbridge Twsp, Middlesex | 444 | Garden State Parkway MP 127.9 | Killed: Driver (1)
+NEW:
+  - ACCID 14932 | 11/20/2026 1:59 PM | Toms River, Ocean | 549 | County 549 | Killed: Driver (1)
