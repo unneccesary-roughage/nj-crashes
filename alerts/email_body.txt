@@ -1,7 +1,11 @@
-RUNDATE: Sat Nov 21 10:00:01 EST 2026
+RUNDATE: Sun Nov 22 10:00:05 EST 2026
 
-New crashes: 1
-Updated crashes: 0
+New crashes: 2
+Updated crashes: 1
 
 NEW:
-  - ACCID 14932 | 11/20/2026 1:59 PM | Toms River, Ocean | 549 | County 549 | Killed: Driver (1)
+  - ACCID 14934 | 11/21/2026 7:07 PM | Toms River, Ocean | 9 | State Highway 9 | Killed: Pedestrian (1)
+  - ACCID 14933 | 11/20/2026 10:12 PM | Wayne Twsp, Passaic | 80 | Interstate 80 | Killed: Pedestrian (1)
+
+UPDATED:
+  - ACCID 14906 | 11/08/2026 9:32 PM | Franklin Twsp, Somerset | 617 | County 617 | Killed: Driver (1), Passenger (1)
