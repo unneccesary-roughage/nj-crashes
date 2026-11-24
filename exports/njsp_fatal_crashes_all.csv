@@ -1,4 +1,6 @@
 statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,fatalities,fatal_d,fatal_p,fatal_t,fatal_b,fetched_at
+2026,14936,2026-11-23,00:59:00,12,Middlesex,1202,Cranbury Twsp,95,New Jersey Turnpike,1,1,0,0,0,2026-11-24 01:58:43
+2026,14935,2026-11-22,12:47:00,12,Middlesex,1215,North Brunswick Tws,,Society Way,1,1,0,0,0,2026-11-24 01:58:43
 2026,14934,2026-11-21,19:07:00,15,Ocean,1507,Toms River,9,State Highway 9,1,0,0,1,0,2026-11-22 20:54:28
 2026,14933,2026-11-20,22:12:00,16,Passaic,1614,Wayne Twsp,80,Interstate 80,1,0,0,1,0,2026-11-22 20:54:28
 2026,14932,2026-11-20,13:59:00,15,Ocean,1507,Toms River,549,County 549,1,1,0,0,0,2026-11-21 20:44:48
@@ -233,7 +235,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14657,2026-06-24,01:47:00,13,Monmouth,1352,Wall Twsp,138,State Highway 138,1,1,0,0,0,2026-06-25 17:09:15
 2026,14654,2026-06-23,20:22:00,15,Ocean,1512,Lacey Twsp,444,Garden State Parkway MP 75.7,1,0,1,0,0,2026-06-25 17:09:15
 2026,14652,2026-06-21,18:02:00,21,Warren,2112,Independence Twsp,517,County 517,1,1,0,0,0,2026-06-23 17:14:15
-2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623,1,1,0,0,0,2026-06-23 17:14:15
+2026,14651,2026-06-21,14:33:00,21,Warren,2122,Washington Twsp,623,County 623 MP .4,1,1,0,0,0,2026-11-24 01:58:43
 2026,14647,2026-06-21,01:39:00,13,Monmouth,1326,Manalapan Twsp,,Daum Rd,1,1,0,0,0,2026-06-22 18:42:57
 2026,14646,2026-06-20,22:57:00,07,Essex,0714,Newark City,,N. 7th St,2,0,0,2,0,2026-06-22 18:42:57
 2026,14645,2026-06-20,22:16:00,01,Atlantic,0112,Hamilton Twsp,446,Atlantic City Expressway MP 11.3,1,0,0,1,0,2026-09-17 18:46:00
@@ -374,7 +376,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14494,2026-03-20,06:54:00,14,Morris,1424,Morristown Town,,Speedwell Pl,1,0,0,1,0,2026-04-02 15:57:59
 2026,14468,2026-03-20,04:38:00,03,Burlington,0313,Evesham Twsp,73,State Highway 73 MP 25.56,1,1,0,0,0,2026-04-22 16:06:43
 2026,14467,2026-03-20,03:15:00,12,Middlesex,1219,Sayreville Boro,615,County 615,1,1,0,0,0,2026-03-22 01:37:08
-2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55 MP 56.2,1,1,0,0,0,2026-10-04 18:30:30
+2026,14464,2026-03-20,02:20:00,08,Gloucester,0802,Deptford Twsp,55,State Highway 55 MP 56.2,1,1,0,0,0,2026-11-24 01:58:43
 2026,14477,2026-03-19,08:05:00,07,Essex,0714,Newark City,,Elizabeth Ave,1,0,0,1,0,2026-03-27 15:50:09
 2026,14463,2026-03-18,06:19:00,13,Monmouth,1329,Matawan Boro,,Harrel St,1,0,0,1,0,2026-03-20 18:34:30
 2026,14461,2026-03-17,22:40:00,11,Mercer,1103,Hamilton Twsp,29,State Highway 29 MP .8,1,0,0,1,0,2026-03-20 18:34:30
@@ -439,7 +441,7 @@ statsyear,accid,crash_date,crash_time,ccode,cname,mcode,mname,highway,location,f
 2026,14391,2026-01-22,19:56:00,20,Union,2009,Linden City,1,State Highway 1,1,0,0,1,0,2026-02-19 15:23:13
 2026,14413,2026-01-21,13:14:00,14,Morris,1409,Dover Town,,S. Warren St,1,0,0,1,0,2026-02-19 15:23:13
 2026,14410,2026-01-21,06:48:00,18,Somerset,1808,Franklin Twsp,619,County 619,1,1,0,0,0,2026-02-19 15:23:13
-2026,14387,2026-01-20,23:04:00,17,Salem,1706,Mannington Twsp,,Mannington Yorktown Rd,1,1,0,0,0,2026-02-19 15:23:13
+2026,14387,2026-01-20,23:03:00,17,Salem,1706,Mannington Twsp,,Mannington Yorktown Rd,1,1,0,0,0,2026-11-24 01:58:43
 2026,14385,2026-01-20,16:08:00,01,Atlantic,0112,Hamilton Twsp,559,County 559 MP 19.5,1,1,0,0,0,2026-04-10 15:49:42
 2026,14395,2026-01-20,08:15:00,01,Atlantic,0113,Hammonton Town,30,State Highway 30 MP 32.63,1,1,0,0,0,2026-04-10 15:49:42
 2026,14381,2026-01-17,18:17:00,08,Gloucester,0808,Harrison Twsp,,Banff Dr,2,1,1,0,0,2026-02-19 15:23:13

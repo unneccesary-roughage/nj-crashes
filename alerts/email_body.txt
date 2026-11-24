@@ -1,11 +1,13 @@
-RUNDATE: Sun Nov 22 10:00:05 EST 2026
+RUNDATE: Mon Nov 23 10:00:02 EST 2026
 
 New crashes: 2
-Updated crashes: 1
+Updated crashes: 3
 
 NEW:
-  - ACCID 14934 | 11/21/2026 7:07 PM | Toms River, Ocean | 9 | State Highway 9 | Killed: Pedestrian (1)
-  - ACCID 14933 | 11/20/2026 10:12 PM | Wayne Twsp, Passaic | 80 | Interstate 80 | Killed: Pedestrian (1)
+  - ACCID 14936 | 11/23/2026 12:59 AM | Cranbury Twsp, Middlesex | 95 | New Jersey Turnpike | Killed: Driver (1)
+  - ACCID 14935 | 11/22/2026 12:47 PM | North Brunswick Tws, Middlesex | None | Society Way | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14906 | 11/08/2026 9:32 PM | Franklin Twsp, Somerset | 617 | County 617 | Killed: Driver (1), Passenger (1)
+  - ACCID 14651 | 06/21/2026 2:33 PM | Washington Twsp, Warren | 623 | County 623 MP .4 | Killed: Driver (1)
+  - ACCID 14464 | 03/20/2026 2:20 AM | Deptford Twsp, Gloucester | 55 | State Highway 55 MP 56.2 | Killed: Driver (1)
+  - ACCID 14387 | 01/20/2026 11:03 PM | Mannington Twsp, Salem | None | Mannington Yorktown Rd | Killed: Driver (1)
