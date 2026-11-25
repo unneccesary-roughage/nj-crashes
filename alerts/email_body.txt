@@ -1,14 +1,14 @@
-RUNDATE: Tue Nov 24 10:00:05 EST 2026
+RUNDATE: Wed Nov 25 10:00:05 EST 2026
 
 New crashes: 1
 Updated crashes: 5
 
 NEW:
-  - ACCID 14937 | 11/18/2026 6:32 PM | Manchester Twsp, Ocean | None | 1001 Rt 70, Manchester, NJ, 08759 | Killed: Pedestrian (1)
+  - ACCID 14938 | 11/09/2026 4:54 PM | Berkeley Twsp, Ocean | 618 | County 618 | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14559 | 04/21/2026 5:46 PM | Fairfield Twsp, Cumberland | 553 | County 553 MP 15.1 | Killed: Driver (1)
-  - ACCID 14501 | 04/05/2026 3:47 PM | Quinton Twsp, Salem | 647 | County 647 MP .8 | Killed: Driver (1)
-  - ACCID 14490 | 03/27/2026 5:45 AM | Waterford Twsp, Camden | 30 | State Highway 30 MP 20.47 | Killed: Pedestrian (1)
-  - ACCID 14503 | 03/26/2026 2:33 PM | Gloucester Twsp, Camden | 673 | County 673 MP 1.32 | Killed: Driver (1)
-  - ACCID 14459 | 03/16/2026 6:02 AM | Mount Laurel Twsp, Burlington | 95 | New Jersey Turnpike MP 39.21 | Killed: Driver (1)
+  - ACCID 14823 | 09/27/2026 7:18 AM | Delran Twsp, Burlington | 130 | State Highway 130 MP 40 | Killed: Driver (1)
+  - ACCID 14771 | 08/12/2026 1:09 PM | Delanco Twsp, Burlington | 625 | County 625 MP .5 | Killed: Driver (1)
+  - ACCID 14719 | 07/28/2026 7:55 PM | Beverly City, Burlington | 626 | County 626 MP .32 | Killed: Driver (1)
+  - ACCID 14591 | 05/27/2026 12:39 AM | Fairfield Twsp, Cumberland | 698 | County 698 MP .4 | Killed: Driver (1)
+  - ACCID 14558 | 05/03/2026 8:30 PM | Mount Laurel Twsp, Burlington | 607 | County 607 MP 2.5 | Killed: Pedestrian (1)
