@@ -1,14 +1,12 @@
-RUNDATE: Wed Nov 25 10:00:05 EST 2026
+RUNDATE: Thu Nov 26 10:00:08 EST 2026
 
-New crashes: 1
-Updated crashes: 5
+New crashes: 2
+Updated crashes: 2
 
 NEW:
-  - ACCID 14938 | 11/09/2026 4:54 PM | Berkeley Twsp, Ocean | 618 | County 618 | Killed: Driver (1)
+  - ACCID 14940 | 11/25/2026 12:09 PM | Fair Lawn Boro, Bergen | 507 | County 507 | Killed: Pedestrian (1)
+  - ACCID 14939 | 11/24/2026 12:49 PM | Jersey City, Hudson | None | Garfield Avenue | Killed: Driver (1)
 
 UPDATED:
-  - ACCID 14823 | 09/27/2026 7:18 AM | Delran Twsp, Burlington | 130 | State Highway 130 MP 40 | Killed: Driver (1)
-  - ACCID 14771 | 08/12/2026 1:09 PM | Delanco Twsp, Burlington | 625 | County 625 MP .5 | Killed: Driver (1)
-  - ACCID 14719 | 07/28/2026 7:55 PM | Beverly City, Burlington | 626 | County 626 MP .32 | Killed: Driver (1)
-  - ACCID 14591 | 05/27/2026 12:39 AM | Fairfield Twsp, Cumberland | 698 | County 698 MP .4 | Killed: Driver (1)
-  - ACCID 14558 | 05/03/2026 8:30 PM | Mount Laurel Twsp, Burlington | 607 | County 607 MP 2.5 | Killed: Pedestrian (1)
+  - ACCID 14838 | 10/04/2026 12:05 AM | Atlantic City, Atlantic | None | Pacific Ave | Killed: Pedestrian (1)
+  - ACCID 14422 | 02/18/2026 10:36 PM | Woodbridge Twsp, Middlesex | 27 | State Highway 27 MP 25.45 | Killed: Driver (1)
